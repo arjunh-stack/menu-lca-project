@@ -12,14 +12,19 @@ factors through a hybrid synonym → embedding-search → LLM-disambiguation
 matcher, and reports each impact with a triangular Monte Carlo
 uncertainty interval and an ISO 14044 pedigree (data-quality) grade.
 
-> **Note on this repository.** This is a public mirror of the project's
-> code and methodology. The large source and output data (multi-gigabyte
+> **Note on this repository.** This is a point-in-time snapshot of an
+> active research project, shared as a public mirror of the code and
+> methodology while the work is ongoing. The core pipeline (canonical-dish
+> resolution, nutrition, and the LCA matcher with its Monte Carlo and
+> pedigree modules) is built and validated; remaining work is mostly
+> scaling the validated pieces to the full dish set and writing up the
+> downstream analysis. The large source and output data (multi-gigabyte
 > SQLite databases, full per-recipe JSONL outputs, embeddings, and the
-> versioned alias snapshots) are not included here; they are documented
-> in the methodology files and are reconstructable from the pipeline.
-> Small reference tables and validation samples are included so the code
-> is legible end to end. The emphasis here is on the method and the code,
-> not on shipping the full dataset.
+> versioned alias snapshots) are not included here; they are documented in
+> the methodology files and are reconstructable from the pipeline. Small
+> reference tables and validation samples are included so the code is
+> legible end to end. The emphasis is on the method and the code, not on
+> shipping a finished dataset.
 
 The project plan, decisions, and orchestration live in
 [`PLAN.md`](PLAN.md). The canonical record of methodological decisions,
