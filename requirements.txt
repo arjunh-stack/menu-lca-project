@@ -1,0 +1,27 @@
+# menu-item-impact — Python dependencies
+#
+# Tested on Python 3.11. Versions below are the ones used to produce the
+# committed snapshots; newer minor versions should work but are not
+# verified. For strict reproducibility pin to these exact versions.
+#
+# Install:  pip install -r requirements.txt
+
+# HTTP client (used for all OpenRouter calls — recipes, lca, screens, judges)
+httpx==0.24.1
+
+# Numerical / data
+numpy==2.4.3
+pandas==3.0.1
+matplotlib==3.10.8
+tqdm==4.65.0
+
+# Fuzzy string matching (Layer 9 alias clustering)
+rapidfuzz==3.14.5
+
+# Sentence-transformer embeddings (Layer 9 + LCA matcher + nutrition matcher).
+# Pulls in `torch` and `transformers` transitively — let pip resolve.
+# Models downloaded on first use:
+#   - BAAI/bge-small-en-v1.5  (Stage 1 alias clustering)
+#   - all-MiniLM-L6-v2        (Stage 3 LCA matcher; Stage 2b nutrition will reuse)
+# Set HF_TOKEN env var to avoid HuggingFace anonymous-download rate limits.
+sentence-transformers==5.4.1

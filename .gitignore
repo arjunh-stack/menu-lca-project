@@ -1,0 +1,35 @@
+# Secrets — never commit
+.env*
+!.env*.example
+.openrouter_key
+*.key
+
+# Large data (not shipped in this public mirror)
+*.sqlite
+*.csv.bak
+mydb.sqlite
+menu_dishes.sqlite
+menu_dishes.csv
+**/dish_lca.jsonl
+**/dish_macros.jsonl
+**/dish_nutriscore.jsonl
+**/dish_mealhealth.jsonl
+**/recipes.jsonl
+*.npy
+*.npz
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/

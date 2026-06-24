@@ -1,0 +1,8 @@
+{
+ "built_at": "2026-06-04T17:34:45",
+ "n_dishes": 39166,
+ "n_dish_details": 39166,
+ "n_clade_labels": 966,
+ "umap_method": "umap",
+ "n_shards": 256
+}

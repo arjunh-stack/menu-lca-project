@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dish Drop Review</title>
+<style>
+  :root {
+    --bg: #1a1a1a;
+    --card: #2a2a2a;
+    --text: #e8e8e8;
+    --muted: #888;
+    --keep: #22c55e;
+    --drop: #ef4444;
+    --skip: #6366f1;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  header {
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  h1 { font-size: 18px; margin: 0; color: var(--muted); font-weight: 500; }
+  .progress {
+    color: var(--muted);
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+  .progress strong { color: var(--text); }
+  button {
+    background: #333;
+    color: var(--text);
+    border: 1px solid #444;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+  button:hover { background: #404040; }
+  .card-stage {
+    flex: 1;
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  .card {
+    width: 100%;
+    background: var(--card);
+    border-radius: 16px;
+    padding: 40px 32px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.4);
+    transition: transform .25s ease-out, opacity .25s ease-out;
+  }
+  .card.swipe-left  { transform: translateX(-120%) rotate(-8deg); opacity: 0; }
+  .card.swipe-right { transform: translateX(120%) rotate(8deg);  opacity: 0; }
+  .card.swipe-down  { transform: translateY(60%); opacity: 0; }
+  .stage-label {
+    color: var(--muted);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 8px;
+  }
+  .canonical {
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0 0 6px;
+    line-height: 1.2;
+    word-break: break-word;
+  }
+  .meta {
+    color: var(--muted);
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .meta .count { color: var(--text); font-weight: 600; }
+  .raw-forms {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #383838;
+  }
+  .raw-forms .label {
+    color: var(--muted);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 8px;
+  }
+  .raw-forms ul { margin: 0; padding-left: 18px; }
+  .raw-forms li { font-size: 15px; margin: 4px 0; color: #d4d4d4; }
+  .actions {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .actions .key {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    background: var(--card);
+    border-radius: 8px;
+  }
+  .actions kbd {
+    background: #404040;
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-family: inherit;
+    font-size: 12px;
+    color: var(--text);
+  }
+  .keep-color { color: var(--keep); }
+  .drop-color { color: var(--drop); }
+  .skip-color { color: var(--skip); }
+  .empty-state {
+    text-align: center;
+    color: var(--muted);
+  }
+  .empty-state h2 { color: var(--text); margin-top: 0; }
+  /* Stage 2 — merge suggestion */
+  .merge-card .arrow {
+    display: block;
+    text-align: center;
+    color: var(--keep);
+    font-size: 24px;
+    margin: 14px 0;
+  }
+  .candidate {
+    background: #1e1e1e;
+    padding: 16px;
+    border-radius: 12px;
+    margin-top: 12px;
+  }
+  .candidate .name { font-size: 22px; font-weight: 600; }
+  .candidate .sub  { font-size: 13px; color: var(--muted); margin-top: 4px; }
+  .candidate .shared {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 8px;
+    background: #333;
+    border-radius: 6px;
+    color: var(--muted);
+    font-size: 11px;
+  }
+  .progress-summary {
+    margin-top: 10px;
+    color: var(--muted);
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Dish Drop Review</h1>
+  <div class="progress" id="progress">loading…</div>
+  <div>
+    <button id="exportBtn">Export decisions</button>
+    <button id="resetBtn">Reset</button>
+  </div>
+</header>
+
+<div class="card-stage" id="stage"></div>
+
+<script>
+// Two modes:
+//   default        → reviews dish_review_data.json   (PRO_VETO drops)
+//   ?mode=rescue   → reviews dish_rescue_data.json   (BOTH_DROP + PRO_VETO with subset matches)
+const MODE = new URL(location.href).searchParams.get("mode") === "rescue" ? "rescue" : "review";
+const DATA_FILE   = MODE === "rescue" ? "dish_rescue_data.json"     : "dish_review_data.json";
+const STORAGE_KEY = MODE === "rescue" ? "dish_rescue_state_v1"      : "dish_review_state_v1";
+const EXPORT_NAME = MODE === "rescue" ? "dish_rescue_decisions.json": "dish_review_decisions.json";
+const MODE_LABEL  = MODE === "rescue" ? "DROP RESCUE"               : "PRO_VETO REVIEW";
+
+let DATA = null;
+let state = loadState();
+
+async function init() {
+  document.title = MODE === "rescue" ? "Drop Rescue Review" : "Dish Drop Review";
+  document.querySelector("h1").textContent = MODE === "rescue"
+    ? `Drop Rescue · ${MODE_LABEL}`
+    : `Dish Drop Review · ${MODE_LABEL}`;
+  const r = await fetch(DATA_FILE);
+  DATA = await r.json();
+  render();
+}
+
+function loadState() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) return JSON.parse(raw);
+  } catch {}
+  return {
+    stage: "swipe",        // "swipe" | "merge" | "done"
+    swipe_idx: 0,
+    merge_idx: 0,
+    merge_candidate_idx: 0,
+    swipe: {},             // cid -> "keep"|"drop"|"skip"
+    merge: {},             // cid -> {target_cid, target_canonical} | "no_merge"
+  };
+}
+
+function saveState() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+}
+
+function render() {
+  const stage = document.getElementById("stage");
+  const progress = document.getElementById("progress");
+  stage.innerHTML = "";
+  if (!DATA) {
+    progress.textContent = "loading…";
+    return;
+  }
+
+  if (state.stage === "swipe") renderSwipe(stage, progress);
+  else if (state.stage === "merge") renderMerge(stage, progress);
+  else renderDone(stage, progress);
+}
+
+function renderSwipe(stage, progress) {
+  const items = DATA.items;
+  // Skip past anything already decided so refresh resumes cleanly
+  while (state.swipe_idx < items.length && state.swipe[items[state.swipe_idx].cluster_id]) {
+    state.swipe_idx++;
+  }
+  if (state.swipe_idx >= items.length) {
+    state.stage = "merge";
+    state.merge_idx = 0;
+    state.merge_candidate_idx = 0;
+    saveState();
+    render();
+    return;
+  }
+  const item = items[state.swipe_idx];
+  const counts = countDecisions(state.swipe);
+  progress.innerHTML = `<strong>${state.swipe_idx + 1}</strong> / ${items.length}
+     &nbsp; <span class="keep-color">${counts.keep} keep</span>
+     &nbsp; <span class="drop-color">${counts.drop} drop</span>
+     &nbsp; <span class="skip-color">${counts.skip} skip</span>`;
+
+  const card = document.createElement("div");
+  card.className = "card";
+  const stageLabel = MODE === "rescue"
+    ? `DROP-RESCUE candidate · ${item.pro_reason || ""}`
+    : `PRO_VETO drop candidate · count ≥ ${DATA.min_count}`;
+  card.innerHTML = `
+    <div class="stage-label">${escapeHtml(stageLabel)}</div>
+    <div class="canonical">${escapeHtml(item.canonical)}</div>
+    <div class="meta">
+      <span class="count">${item.count.toLocaleString()}</span> menus
+      &nbsp;·&nbsp; pro said DROP / <em>${escapeHtml(item.pro_reason)}</em>
+    </div>
+    ${item.raw_forms.length ? `
+    <div class="raw-forms">
+      <div class="label">Appears on menus as</div>
+      <ul>${item.raw_forms.map(f => `<li>${escapeHtml(f)}</li>`).join("")}</ul>
+    </div>` : ""}
+  `;
+  stage.appendChild(card);
+
+  const actions = document.createElement("div");
+  actions.className = "actions";
+  actions.innerHTML = `
+    <div class="key drop-color"><kbd>←</kbd> DROP (confirm Pro)</div>
+    <div class="key keep-color"><kbd>→</kbd> KEEP (rescue)</div>
+    <div class="key skip-color"><kbd>↓</kbd> SKIP</div>
+    <div class="key"><kbd>↑</kbd> UNDO</div>
+  `;
+  stage.appendChild(actions);
+}
+
+function renderMerge(stage, progress) {
+  // Find next item with a "keep" decision and unresolved merge state
+  const kept = DATA.items.filter(it => state.swipe[it.cluster_id] === "keep");
+  if (state.merge_idx >= kept.length) {
+    state.stage = "done";
+    saveState();
+    render();
+    return;
+  }
+  const item = kept[state.merge_idx];
+
+  // Did we already decide this one?
+  if (state.merge[item.cluster_id] !== undefined) {
+    state.merge_idx++;
+    state.merge_candidate_idx = 0;
+    saveState();
+    render();
+    return;
+  }
+
+  const suggestions = item.merge_suggestions || [];
+  if (state.merge_candidate_idx >= suggestions.length) {
+    // exhausted — keep as own cluster
+    state.merge[item.cluster_id] = "no_merge";
+    state.merge_idx++;
+    state.merge_candidate_idx = 0;
+    saveState();
+    render();
+    return;
+  }
+  const cand = suggestions[state.merge_candidate_idx];
+  const counts = countMerge(state.merge);
+  progress.innerHTML = `MERGE PHASE · <strong>${state.merge_idx + 1}</strong> / ${kept.length}
+     &nbsp; <span class="keep-color">${counts.merged} merged</span>
+     &nbsp; <span class="drop-color">${counts.no_merge} no-merge</span>`;
+
+  const card = document.createElement("div");
+  card.className = "card merge-card";
+  card.innerHTML = `
+    <div class="stage-label">You rescued · ${item.count.toLocaleString()} menus</div>
+    <div class="canonical">${escapeHtml(item.canonical)}</div>
+    <div class="arrow">↓ merge into ↓</div>
+    <div class="candidate">
+      <div class="name">${escapeHtml(cand.canonical)}</div>
+      <div class="sub">
+        ${cand.count.toLocaleString()} menus
+        <span class="shared">shared: ${cand.shared_tokens.join(", ")}</span>
+      </div>
+    </div>
+    <div class="progress-summary">
+      suggestion ${state.merge_candidate_idx + 1} / ${suggestions.length}
+    </div>
+  `;
+  stage.appendChild(card);
+
+  const actions = document.createElement("div");
+  actions.className = "actions";
+  actions.innerHTML = `
+    <div class="key keep-color"><kbd>→</kbd> YES, merge here</div>
+    <div class="key drop-color"><kbd>←</kbd> next suggestion</div>
+    <div class="key skip-color"><kbd>↓</kbd> NO merge (keep alone)</div>
+  `;
+  stage.appendChild(actions);
+}
+
+function renderDone(stage, progress) {
+  progress.innerHTML = `<strong>done</strong>`;
+  const counts = countDecisions(state.swipe);
+  const mergeCounts = countMerge(state.merge);
+  stage.innerHTML = `
+    <div class="empty-state">
+      <h2>All done.</h2>
+      <p>${counts.drop} drops confirmed · ${counts.keep} rescued · ${counts.skip} skipped.</p>
+      <p>${mergeCounts.merged} merge-into · ${mergeCounts.no_merge} kept as own cluster.</p>
+      <p>Click <strong>Export decisions</strong> in the header to download the result.</p>
+    </div>
+  `;
+}
+
+function countDecisions(obj) {
+  const c = { keep: 0, drop: 0, skip: 0 };
+  for (const v of Object.values(obj)) c[v] = (c[v] || 0) + 1;
+  return c;
+}
+function countMerge(obj) {
+  let merged = 0, no_merge = 0;
+  for (const v of Object.values(obj)) {
+    if (v === "no_merge") no_merge++;
+    else if (v && v.target_cid != null) merged++;
+  }
+  return { merged, no_merge };
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+
+function animateAndAdvance(direction, callback) {
+  const card = document.querySelector(".card");
+  if (!card) { callback(); return; }
+  card.classList.add(`swipe-${direction}`);
+  setTimeout(callback, 200);
+}
+
+document.addEventListener("keydown", (e) => {
+  if (!DATA) return;
+  if (state.stage === "swipe") {
+    const item = DATA.items[state.swipe_idx];
+    if (!item) return;
+    if (e.key === "ArrowLeft") {
+      animateAndAdvance("left", () => {
+        state.swipe[item.cluster_id] = "drop";
+        state.swipe_idx++;
+        saveState(); render();
+      });
+    } else if (e.key === "ArrowRight") {
+      animateAndAdvance("right", () => {
+        state.swipe[item.cluster_id] = "keep";
+        state.swipe_idx++;
+        saveState(); render();
+      });
+    } else if (e.key === "ArrowDown") {
+      animateAndAdvance("down", () => {
+        state.swipe[item.cluster_id] = "skip";
+        state.swipe_idx++;
+        saveState(); render();
+      });
+    } else if (e.key === "ArrowUp") {
+      // undo: step back, clear decision
+      if (state.swipe_idx > 0) {
+        state.swipe_idx--;
+        const prev = DATA.items[state.swipe_idx];
+        delete state.swipe[prev.cluster_id];
+        saveState(); render();
+      }
+    }
+  } else if (state.stage === "merge") {
+    const kept = DATA.items.filter(it => state.swipe[it.cluster_id] === "keep");
+    const item = kept[state.merge_idx];
+    if (!item) return;
+    const suggestions = item.merge_suggestions || [];
+    const cand = suggestions[state.merge_candidate_idx];
+    if (e.key === "ArrowRight" && cand) {
+      animateAndAdvance("right", () => {
+        state.merge[item.cluster_id] = {
+          target_cid: cand.cluster_id,
+          target_canonical: cand.canonical,
+        };
+        state.merge_idx++;
+        state.merge_candidate_idx = 0;
+        saveState(); render();
+      });
+    } else if (e.key === "ArrowLeft") {
+      animateAndAdvance("left", () => {
+        state.merge_candidate_idx++;
+        saveState(); render();
+      });
+    } else if (e.key === "ArrowDown") {
+      animateAndAdvance("down", () => {
+        state.merge[item.cluster_id] = "no_merge";
+        state.merge_idx++;
+        state.merge_candidate_idx = 0;
+        saveState(); render();
+      });
+    } else if (e.key === "ArrowUp") {
+      // step back to previous kept item
+      if (state.merge_idx > 0) {
+        state.merge_idx--;
+        const prev = kept[state.merge_idx];
+        delete state.merge[prev.cluster_id];
+        state.merge_candidate_idx = 0;
+        saveState(); render();
+      }
+    }
+  }
+});
+
+document.getElementById("exportBtn").addEventListener("click", () => {
+  const decisions = {};
+  for (const item of DATA.items) {
+    const sw = state.swipe[item.cluster_id];
+    if (sw === "drop" || sw === "skip" || !sw) {
+      decisions[item.cluster_id] = { action: sw || "pending", canonical: item.canonical };
+    } else if (sw === "keep") {
+      const mg = state.merge[item.cluster_id];
+      if (mg && mg !== "no_merge") {
+        decisions[item.cluster_id] = {
+          action: "merge",
+          canonical: item.canonical,
+          target_cid: mg.target_cid,
+          target_canonical: mg.target_canonical,
+        };
+      } else {
+        decisions[item.cluster_id] = { action: "keep", canonical: item.canonical };
+      }
+    }
+  }
+  const blob = new Blob([JSON.stringify({
+    generated_at: new Date().toISOString(),
+    source: "dish_review_data.json",
+    total: DATA.items.length,
+    decisions,
+  }, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = EXPORT_NAME;
+  a.click();
+});
+
+document.getElementById("resetBtn").addEventListener("click", () => {
+  if (confirm("Clear all decisions and start over?")) {
+    localStorage.removeItem(STORAGE_KEY);
+    state = loadState();
+    render();
+  }
+});
+
+init();
+</script>
+</body>
+</html>

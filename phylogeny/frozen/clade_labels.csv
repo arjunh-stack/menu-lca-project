@@ -1,0 +1,967 @@
+node_id,level,n_leaves,label,top_dishes
+N78299,0,1841,fish dishes,fish taco; chips fish; grilled salmon; salmon teriyaki; fish sandwich; grilled tilapia; ancho salmon; fish fried
+N78170,1,520,steak dishes,cheese sandwich steak sub; baja jack sandwich steak sub; onion sandwich steak sub sweet teriyaki; baja jack steak wrap; bowl cali fresh steak; baja jack melt sandwich steak; bowl onion steak sweet teriyaki; cheese egg steak wrap
+N78300,0,5152,sandwich wraps subs,italian sandwich spicy sub; chicken rotisserie sandwich style sub; bacon chicken ranch sandwich sub; club sandwich sub subway; oven roasted sandwich sub turkey; all american club sandwich sub; chicken honey mustard rotisserie sandwich style sub; avocado baja sandwich sub turkey
+N78052,1,264,turkey sandwich variations,oven roasted sandwich sub turkey; avocado baja sandwich sub turkey; oven roasted turkey wrap; bowl oven roasted turkey; club subway wrap; cali fresh turkey wrap; bowl cali fresh turkey; ham oven roasted turkey wrap
+N78094,1,279,salad and bowl dishes,bowl menu power; caesar chicken salad; caesar salad; chicken grilled salad; chicken rotisserie; chopped cobb salad; cobb salad; buffalo salad wedge
+N77652,1,70,tortellini pasta dishes,cheese pasta pesto tortelloni; cheese pasta rosa tortelloni; cream garlic pasta roasted tortelloni; cheese pasta tortellini; pasta tortellini; alfredo pasta tortellini; baked pasta tortellini; marinara pasta tortellini
+N78172,1,482,Mexican fajita dishes,meats sandwich sub supreme; chicken fajita; meats supreme wrap; chicken fajita taco; fajita trio; fajita taco; grill mixed; fajita plate
+N78014,1,746,cheeseburger variations,burger cheeseburger; bacon burger cheeseburger; bacon big burger cheddar cheeseburger; bacon bourbon burger cheeseburger; cheeseburger; burger cheese; burger mushroom swiss; bacon burger
+N78217,0,1049,pork dishes,al pastor taco; pork pulled sandwich; fried pork rice; carnitas taco; pork sour sweet; cuban sandwich; menudo; garlic pork sauce
+N78067,1,180,burger varieties,patty sandwich sub veggie; bacon big burger classic; burger whopper; burger stack; baconator burger; baconator burger son; bacon burger stack; burger whataburger
+N78307,0,2803,shrimp dishes,broccoli shrimp; kung pao shrimp; shrimp taco; fajita shrimp; garlic sauce shrimp; shrimp sour sweet; fried shrimp; hunan shrimp
+N78280,0,827,breakfast foods sweets fried,caramel chocolate hot; buttermilk original pancakes; corn dog; buttermilk pancakes; belgian waffle; waffle; blueberry pancakes; biscuits gravy
+N78191,0,828,meat-centric comfort dishes,marinara meatball sandwich sub; bean black crunchwrap supreme; beefy burrito melt; marinara meatball wrap; marinara meatball melt sandwich; meat mozza wrap; meatball sub; crunchy taco
+N78279,0,1174,steak dishes,cheese sandwich steak sub; baja jack sandwich steak sub; onion sandwich steak sub sweet teriyaki; beef mongolian; baja jack steak wrap; bowl cali fresh steak; baja bowl jack steak; baja jack melt sandwich steak
+N78117,1,528,chicken fried snacks,boneless wings; handcrafted tenders; chicken tenders; chicken nuggets spicy; chicken crispy nuggets; chicken fried; chicken waffles; mcnuggets
+N77745,1,388,burrito dishes,burrito chicken chipotle grilled ranch; burrito supreme; burrito quesarito; bean black quesarito; bean black burrito quesarito; chimichanga; burrito chicken; burrito fajita
+N77696,1,118,lamb kebab dishes,kabob kafta; kabab seekh; kabab lamb seekh; bowl lamb meatball spicy; burger lamb; burger gyro; adana kebab; kabob kubideh
+N78295,0,2242,vegetarian mexican dishes,bean burrito cheesy rice; burrito fiesta veggie; bean burrito; cheese chips nacho sauce; bowl menu power veggie; bean black chalupa cheddar toasted; delite veggie wrap; browns hash
+N78118,1,573,Mexican cheese dishes,cheesy roll up; chicken quesadilla; enchiladas; cheese enchiladas; enchilada plate; chicken enchiladas; chicken nacho spicy; chicken fajita quesadilla
+N78304,0,684,meat and cheese dishes,bowl cheese steak; bbq ribs; cheesesteak philly; cheese philly sandwich steak; pork ribs; philly steak; baby back ribs; big cheese kahuna steak sub
+N78263,0,714,rice and bean dishes,beans black; biryani chicken; biryani shrimp; dal makhani; biryani vegetable; chicken vindaloo; biryani goat; beef brisket corned sub
+N78084,1,281,philly cheesesteak variations,bowl cheese steak; cheesesteak philly; cheese philly sandwich steak; philly steak; big cheese kahuna steak sub; cheese philly sandwich stacker steak; cheese portabella steak sub; philly sandwich
+N78149,1,820,chicken sandwiches and wraps,chicken grilled sandwich; chicken sandwich spicy; buffalo chicken wrap; chicken honey hot sandwich; chicken classic sandwich; chicken sandwich; bacon chicken ranch wrap; chicken crispy sandwich
+N78297,0,1450,sushi and seafood rolls,melt sandwich tuna; tuna wrap; bowl tuna; california roll; salad sandwich tuna; roll spicy tuna; philadelphia roll; roll salmon
+N78089,1,65,corn based dishes,corn quesadilla; esquite; corn nuggets; elote en vaso; corn elote street; elote entero; corn pizza street; corn salad
+N77623,1,73,beef tenderloin dishes,sandwich steak tenderloin; grilled marinated tenders texas true; beef tenderloin; beef filet tenderloin; barg kabob; beef sandwich tender; beef tataki; steak tenderloin
+N78161,1,166,steak dishes,cali fresh sandwich steak sub; cali fresh steak wrap; classic sirloin; sandwich steak; eggs steak; sirloin steak; oz sirloin top; avocado bowl cali fresh sliced steak
+N78092,1,152,cheesy Mexican snacks,cheese quesadilla; nachos; bellgrande nachos; bean cheese nachos; cheese nachos; nachos supreme; loaded nachos; beef ground nachos
+N78180,1,341,fish dishes,fish fried; fillet fish; catfish fried; catfish fillets; frito pescado; fish grilled; blackened catfish; baked fish
+N78303,0,4729,chicken dishes,chicken grilled sandwich; boneless wings; handcrafted tenders; chicken sandwich spicy; potato soft spicy taco; chicken tenders; buffalo chicken wrap; chicken honey hot sandwich
+N78064,1,792,chicken dishes,chicken kabob; arroz con pollo; bowl burrito chicken; bowl burrito chicken southwest; bowl chicken teriyaki; engineer sub; chicken hibachi; bowl chicken chipotle fresh mex
+N78109,1,419,meat sandwiches and burgers,marinara meatball sandwich sub; marinara meatball wrap; marinara meatball melt sandwich; meat mozza wrap; meatball sub; burger classic; meatloaf; burger chili
+N77012,1,61,Reuben sandwich variations,reuben sandwich; beef corned sandwich; classic reuben sandwich; grilled reuben sandwich; pizza reuben; reuben rye; beef corned rye sandwich; reuben sandwich york
+N78169,1,469,beef-based dishes,lengua taco; beef enchiladas; taco tripa; beef bowl burrito shredded spicy; beef chop suey; beef plate shawarma; beef corned eggs hash; beef corned hash
+N78164,1,599,Italian pasta and pizza,italian spicy wrap; bowl italian spicy; bowl italian; alfredo fettuccine pasta; alfredo chicken pasta; pizza works; italian original sub; cajun chicken pasta
+N78294,0,1895,pizza varieties,cheese pizza; buffalo chicken pizza; bbq chicken pizza; pizza supreme; lovers meat pizza; margherita pizza; hawaiian pizza; pepperoni pizza
+N78151,1,304,chicken sandwich subs,italian sandwich spicy sub; chicken rotisserie sandwich style sub; bacon chicken ranch sandwich sub; club sandwich sub subway; all american club sandwich sub; chicken honey mustard rotisserie sandwich style sub; bacon chicken melt ranch sandwich; chicken oven roasted sandwich sub
+N78076,1,283,meat pizza dishes,flatbread pepperoni pizza; flatbread pepperoni pizza sausage; bacon cheeseburger pizza; philly pizza; philly pizza steak; pizza steak sub; melt pepperoni; meatball pizza signature
+N78278,0,695,lamb and goat dishes,biryani lamb; curry goat; curry lamb; chops lamb; lamb vindaloo; kabob lamb; korma lamb; gyro lamb
+N77997,1,276,spiced lamb dishes,biryani lamb; curry lamb; lamb vindaloo; kabob lamb; korma lamb; gyro lamb; lamb saag; lamb masala tikka
+N78167,1,307,beef dishes,beef mongolian; onion steak sweet teriyaki wrap; quesadilla steak; beef hunan; beef kung pao; beef orange; ranchero steak; beef moo shu
+N78177,1,246,beef roast sandwiches,beef roast sandwich sub; beef bowl roast; dip french sandwich; beef gyro roast sandwich; beef provolone roast sub; beef classic roast; beef pound roast; beef roast sandwich slider
+N78080,1,409,Mexican fast food,bean black crunchwrap supreme; beefy burrito melt; crunchy taco; crunchy supreme taco; crunchwrap supreme; chalupa supreme; cheese doritos locos nacho taco; cheese doritos locos nacho supreme taco
+N77969,1,293,salmon dishes,salmon teriyaki; grilled platter salmon shrimp; kabob salmon; burger salmon; curry salmon; salmon tandoori; bowl salmon teriyaki; grilled plate salmon
+N77594,1,104,goat curry dishes,curry goat; goat vindaloo; goat korma; curry goat karahi; curry goat korma; curry goat vindaloo; curry goat gongura; goat saag
+N77954,1,211,beef-based dishes,cheese steak wrap; beef peas snow; beef sandwich shawarma; cheese firehouse steak sub; beef oyster sauce; beans beef string; bean beef black sauce; beef chinese vegetable
+N77974,1,145,tilapia dishes,grilled tilapia; fried tilapia; blackened tilapia; fillet tilapia; sandwich tilapia; shrimp tilapia; blackened light tilapia; basket fried tilapia
+N78053,1,408,beef dishes,beef broccoli; beef roast wrap; pepper steak; beef teriyaki; beef garlic sauce; beef mixed vegetables; beef mushroom; beef sesame
+N78158,1,1287,mexican-inspired wraps and tacos,bean black chalupa supreme; italian wrap; bacon baja chicken wrap; bacon baja bowl chicken; bacon baja chicken melt sandwich; chicken taco; soft taco; soft supreme taco
+N78138,1,529,seafood dishes,fish taco; chips fish; fish sandwich; curry fish; ceviche de tostada; fish shrimp; ceviche; catfish sandwich
+N78093,1,238,beef dishes,barbacoa taco; carne guisada; birria taco; bbq cowboy; carne guisada taco; barbacoa; burger oldtimer; barbacoa plate
+N78056,1,235,smoked brisket dishes,brisket smokehouse; brisket taco; brisket burger smoked; beef brisket cheddar smokehouse sub; brisket sandwich smoked; bbq brisket burger; brisket plate; brisket street taco wrap
+N77904,1,411,Mediterranean chicken dishes,italian melt sandwich spicy; gyro plate; greek gyro sandwich; chicken gyro; chicken sandwich shawarma; chicken plate shawarma; gyro wrap; chicken shawarma wrap
+N78166,1,119,beef rib dishes,beef ribs; prime rib sandwich; dipper prime rib sandwich; classic dip prime rib; classic prime rib steak; outback prime rib steak style; rib sandwich; plate rib
+N78261,0,574,beef dishes,cali fresh sandwich steak sub; beef broccoli; beef roast wrap; cali fresh steak wrap; pepper steak; beef teriyaki; beef garlic sauce; beef mixed vegetables
+N77955,0,352,chicken wing dishes,traditional wings; chicken wings; bone breaded out wings; bone smoked wings; buffalo wings; fried kentucky wings; bbq wings; classic wings
+N78147,1,1030,pizza varieties,cheese pizza; pizza supreme; lovers meat pizza; margherita pizza; hawaiian pizza; pepperoni pizza; pizza veggie; lover pizza veggie
+N78004,1,109,cheese grilled sandwiches,cheese grilled sandwich; cheese classic grilled sandwich; cheese crusted four melt sandwich; cheese sandwich veggie; cheese melt sandwich; burger cheese grilled; cheese grilled sandwich ultimate; cheese club ham sandwich
+N78127,1,440,breakfast egg dishes,egg foo vegetable young; bacon breakfast platter sausage; breakfast platter sausage; bacon breakfast platter; mushroom omelette spinach; cheese ham omelet; omelet veggie; bacon omelette temptation
+N78073,1,60,seafood fish dishes,fish flounder sandwich spicy; classic fish flounder sandwich; bass chilean sea; flounder lobster stuffed topped; bass chilean oolong sea; filet flounder; boy flounder po sub; bass sea sushi
+N77981,1,97,hot dogs,dog hot; all american dog; cheese chili coney; cheese dog; bacon cheese dog; bacon dog; chili dog; dog hot kosher style
+N78146,1,197,lamb dishes,chops lamb; kebab lamb; boti kebab lamb; lamb rack; lamb wrap; kabob kafta plate; chops grilled lamb; kebab lamb shish
+N77433,1,56,turkey sandwich variations,ham oven roasted sandwich sub turkey; italiano sandwich sub turkey; sandwich turkey; roast sandwich swiss turkey; classic plate sandwich turkey; classic sandwich turkey; bacon club sandwich turkey; roast swiss turkey wrap
+N78101,1,223,ham cheese sandwiches,cheese ham melt sandwich; black forest ham wrap; black bowl forest ham; black cheese egg forest ham wrap; cheese ham sub; ham provolone sub; deli sandwich turkey; ham sandwich
+N77982,1,95,plantain-based dishes,con pollo tajadas; fried plantains; de mofongo pollo relleno; mofongo; camarones de mofongo relleno; churrasco de mofongo relleno; carne con molida tajadas; carne de frita mofongo relleno
+N78144,1,114,fusion protein dishes,beef kabob; bowl fajita impossible; burrito fajita impossible; noodle pasta rama; soup thai wonton; free gluten pepperoni pizza; beef hot pot; hibachi rice steak
+N77911,1,95,torta varieties,al pastor torta; asada carne torta; carnitas torta; chorizo torta; steak torta; lengua torta; barbacoa torta; beef torta
+N77464,1,74,avocado dishes,avocado toast; avocado stuffed; avocado fried taco; avocado egg spinach white; guacamole taco; avocado egg rolls; avocado crab melt sandwich; avocado cheese egg sandwich
+N78098,1,291,veggie mexican dishes,bean burrito cheesy rice; burrito fiesta veggie; bean burrito; bean black chalupa cheddar toasted; patty veggie wrap; bowl patty veggie; burger veggie; beans black rice
+N78298,0,1120,poultry and meat dishes,chicken rotisserie style wrap; bowl chicken rotisserie style; lobster sauce shrimp; gyro sandwich; chicken tandoori; burger turkey; chicken platter tender; curry massaman
+N77409,1,59,spinach-based dishes,aloo saag; creamed platter spinach; aloo palak; cheese cottage spinach; feta pizza spinach; cheese cottage curry spinach; curry saag; bacon salade spinach strawberry
+N78041,1,278,pasta with meat sauce,bowl marinara meatball; meatballs pasta spaghetti; lasagna pasta; baked pasta ziti; manicotti pasta; meat pasta sauce spaghetti; lasagna; meatballs spaghetti
+N77372,1,62,duck dishes,crispy duck; curry duck; curry duck roast; duck smoked tea; curry duck red roasted; curry duck red; duck over rice roast; duck smoked
+N78265,0,661,tofu dishes,ma po tofu; roll vegetable; teriyaki tofu; general tofu tso; kung pao tofu; sesame tofu; mapo tofu; fried rice tofu
+N78306,0,3120,subs and pasta dishes,sandwich sub tuna; black forest ham sandwich sub; delite sandwich sub veggie; pizza sandwich sub; sub veggie; bowl marinara meatball; meatballs pasta spaghetti; dog hot
+N77910,1,80,cauliflower dishes,cauliflower wings; barbacoa cauliflower enlightened pita tacos; gobi manchurian; cauliflower taco; cauliflower crust pizza traditional; cauliflower dry pot; cauliflower roasted; cauliflower steak
+N78175,1,196,cheese-based dishes,cheese grilled mac sandwich; cheese macaroni; cheese mac; cheese mac pizza; artichoke dip spinach; cheese cheetos crunchy; cheese mac platter steakhouse; brisket mac stack
+N77739,1,99,italian sausage dishes,italian sandwich sausage; pepperoni pizza sausage; parmigiana sausage sub; italian sausage; italian pasta sausage spaghetti; peppers sandwich sausage; bird dogs italian sandwich; mushroom pepperoni pizza sausage
+N78152,1,377,vegetable based dishes,aloo gobi; cheese classic creamy grilled soup tomato; creamy sandwich soup tomato tuna; de gallo pico; korma navratan; greek salad; chaat samosa; curry vegetable
+N77998,1,190,chickpea based dishes,falafel sandwich; chana masala; falafel plate; falafel wrap; chana curry masala; chana saag; bowl crispy falafel; falafel pita
+N77917,1,582,chicken pizza varieties,buffalo chicken pizza; bbq chicken pizza; chicken hawaiian pizza; backyard bbq chicken pizza; greek pizza; bacon chicken pizza ranch; deluxe pizza; alfredo chicken pizza
+N78102,1,332,potato based dishes,cheese chips nacho sauce; browns hash; cheesy fiesta potatoes; breakfast crispy potatoes; bacon burger rancher; baked potato; baked loaded potato; potato roll sweet
+N78131,1,495,chicken club dishes,buffalo chicken melt sandwich; club sub; bacon bowl chicken ranch; all american bowl club; italian melt sandwich; feast flatbread pizza; chicken parmesan; all american club wrap
+N78111,1,186,pork rib dishes,bbq ribs; pork ribs; baby back ribs; baby back pork ribs; plate pork rack rib; outback ribs; applebee platter riblets; baby back rack ribs
+N78291,0,1836,meat-based dishes,beef roast sandwich sub; cheese quesadilla; cheese steak wrap; beef bowl roast; reuben sandwich; nachos; chicken fried steak; bellgrande nachos
+N78242,0,926,burger cheeseburger variations,patty sandwich sub veggie; burger cheeseburger; bacon burger cheeseburger; bacon big burger classic; bacon big burger cheddar cheeseburger; bacon bourbon burger cheeseburger; cheeseburger; burger cheese
+N78305,0,1688,breakfast and sandwich dishes,ham oven roasted sandwich sub turkey; blt sandwich; cheese ham melt sandwich; italiano sandwich sub turkey; cheese grilled sandwich; french toast; black forest ham wrap; black bowl forest ham
+N77611,1,46,New York strip steak,steak strip york; steak york; bone steak strip york; ny oz strip; ny steak strip; eggs steak york; lobster ny steak; strip wagyu york
+N78174,1,329,pasta dishes,cheese pasta ravioli; alfredo fettuccine; pasta ravioli; pasta shells stuffed; cheese ravioli; cauliflower cream garlic pasta rigatoni roasted; pepperoni pizza zesty; marinara pasta sauce spaghetti
+N78154,1,344,vegetable dishes,bowl menu power veggie; delite veggie wrap; chile relleno; mixed vegetables; mediterranean sandwich veggie; mixed steamed vegetables; veggie wrap; fajita veggie
+N76926,1,43,ice cream desserts,spumoni; floats; banana boat; banana concrete foster; banana concrete; banana concrete oreo; banana chocolate concrete covered; concrete pineapple
+N78061,1,97,fruit based dishes,mango pomegranate salad; honey hot wings; beet salad; labneh; acai bowl; de frutas jugo; club havana sandwich; bowl fresh fruit
+N78176,1,424,sandwich and sub varieties,sandwich sub tuna; black forest ham sandwich sub; delite sandwich sub veggie; pizza sandwich sub; sub veggie; breakfast grilled sandwich sourdough swiss; cubana torta; cheese flatbread pizza
+N77973,1,598,chicken dishes,chicken teriyaki; chicken orange; chicken honey mustard rotisserie style wrap; bowl chicken honey mustard rotisserie style; breast chicken grilled; chicken grilled wrap; bowl chicken grilled; chicken grilled
+N78260,0,777,pork dishes,moo pork shu; chops pork; chow mein pork; cooked pork twice; egg foo pork young; pork teriyaki; potstickers; broccoli pork roast
+N78165,1,70,broccoli vegetable dishes,broccoli garlic sauce; broccoli steamed; broccoli sauteed; broccoli oyster sauce; broccoli chinese oyster sauce; broccoli fried stir; brussels enlightened kale roasted salad sprouts; brussels honey sprouts sriracha
+N78070,1,198,chicken rice dishes,chicken vindaloo; biryani boneless chicken; biryani chicken tikka; biryani chicken fry; arepa pepiada reina; biryani chicken special; arepa domino; avakai biryani chicken
+N78126,1,1211,chinese chicken dishes,chicken kung pao; broccoli chicken; chicken sour sweet; chicken general tso; chicken sesame; chicken onion sweet teriyaki wrap; bowl chicken onion sweet teriyaki; cashew chicken nuts
+N77879,1,288,curry chicken dishes,chicken curry; curry green; curry red; curry panang; curry yellow; chicken chile mango; curry pineapple; khing pad prik
+N78030,1,123,thai fried rice dishes,fried rice thai; basil fried rice; basil fried rice spicy; fried pasta rice thai; curry fried rice yellow; curry fried green rice; basil fried pasta rice; basil fried rice thai
+N77925,1,98,ribeye steak dishes,eye rib steak; classic ribeye; bone ribeye steak; eye rib; bbq korean spicy steak; bacon eye jam rib steak; grilled ribeye; eye rib sandwich steak
+N78038,1,189,eggplant-based dishes,eggplant parmigiana; eggplant parmigiana pasta; eggplant garlic sauce; baingan bharta; eggplant parmesan; eggplant spicy; eggplant parmesan sub; moussaka
+N77932,1,236,sausage dishes,breakfast burrito sausage; extreme sandwich sausage; breakfast burrito cheese egg sausage; coney pound quarter; links pork sausage; breakfast cheesy egg melt sausage; sandwich sausage; egg sausage taco
+N78032,1,201,salmon eel sushi rolls,roll salmon; roll salmon spicy; avocado roll salmon; eel roll; salmon sushi; avocado eel roll; enlightened noodles pacific poke soba; bowl poke salmon
+N77963,1,312,sushi rolls,california roll; roll shrimp tempura; rainbow roll; roll spider; dragon roll; caterpillar roll; crunch roll; california roll spicy
+N77956,1,59,yellowtail sushi dishes,roll yellowtail; roll spicy yellowtail; sushi yellowtail; roll scallion yellowtail; hama negi roll; hamachi sushi; hand roll yellowtail; crunchy roll spicy yellowtail
+N76399,1,30,sashimi dishes,sashimi sushi; deluxe sashimi sushi; sashimi; plate sashimi sushi; for sashimi sushi two; omakase sashimi sushi; platter sashimi; color sashimi sushi tri
+N77588,1,41,pastrami sandwiches,pastrami sub; hot pastrami sandwich; rachel sandwich; pastrami reuben sandwich; melt pastrami sandwich; big hot pastrami sandwich sub; pastrami rye sandwich; cheese pastrami sub
+N78171,1,1036,shrimp dishes,broccoli shrimp; kung pao shrimp; garlic sauce shrimp; shrimp sour sweet; fried shrimp; hunan shrimp; camarones diabla la; egg foo shrimp young
+N78181,1,90,seafood dishes,lobster tail; crab legs snow; crab snow; crab king legs; crawfish etouffee; crab king; caught crab legs snow wild; crawfish tails
+N77931,1,327,pork Mexican dishes,al pastor taco; carnitas taco; al burrito pastor; burrito carnitas; al pastor quesadilla; carnitas plate; pork taco; pork pulled street style taco
+N77820,1,190,paneer dishes,kofta malai; masala paneer tikka; paneer saag; palak paneer; kadai paneer; mutter paneer; paneer shahi; butter masala paneer
+N77760,1,63,mutton dishes,biryani mutton; curry gongura mutton; biryani dum mutton; curry karahi mutton; masala mutton; biryani dum hyderabadi mutton; curry kolambu mutton; biryani boneless mutton
+N78162,1,413,tofu dishes,ma po tofu; teriyaki tofu; general tofu tso; kung pao tofu; sesame tofu; mapo tofu; bean curd home style; bean curd style szechuan
+N77715,1,77,red snapper dishes,fillet grilled red snapper; frito huachinango; fillet red snapper; diabla huachinango la; fried red snapper; lunch red snapper taco; escovitch fish; huachinango
+N78039,1,93,banh mi sandwiches,banh grilled mi pork sandwich; banh mi sandwich tofu; banh chicken mi sandwich; banh ga mi nuong sandwich; banh beef grilled mi sandwich; banh beef mi; french kiss roll; banh chicken grilled mi
+N77768,1,63,cod dishes,arctic chips cod fish; battered beer cod; cod sandwich; cod fried sandwich; deep fish fried sauce sour sweet; cod fish sandwich; cod fried; breaded cod
+N78087,1,268,spicy shrimp dishes,curry shrimp; hibachi shrimp; bowl chipotle fresh mex shrimp; arroz camarones con; curry onion shrimp; masala shrimp tikka; bowl mex shrimp tex; bowl shrimp
+N78049,1,130,breads and pancakes,garlic naan; hawaiian roll; naan; naan plain; rolls yeast; hawaiian roll sushi; butter naan; garlic knots warm
+N77992,1,244,breakfast egg dishes,bacon cheese egg wrap; huevos rancheros; cheese egg wrap; breakfast burrito; bacon egg taco; bacon breakfast burrito; huevos la mexicana; breakfast burrito lovers meat
+N78139,1,167,fish dishes,grilled mahi taco; mahi taco; burrito grilled mahi; burrito mahi tempura; mahi taco tempura; citrus heat mahi taco; sushi unagi; bowl burrito grilled mahi
+N78157,1,247,chorizo dishes,chorizo egg taco; chorizo con huevos; chorizo taco; burrito chorizo; bean chorizo taco; chorizo egg plate; chorizo potato taco; campechano taco
+N78050,1,216,biryani varieties,biryani chicken; biryani shrimp; biryani vegetable; biryani goat; biryani paneer; biryani fish; biryani veggie; biryani dum veg
+N77794,1,97,bacon-based dishes,blt sandwich; bacon burger buttery jack swiss; bacon hickory smoked strips; bacon strips turkey; avocado blt sandwich; blt classic sandwich; baconator breakfast; bacon lettuce sandwich tomato
+N78302,0,2029,fried rice dishes,chicken fried rice; fried rice shrimp; beef fried rice; fried rice vegetable; chicken lo mein; lo mein shrimp; beef lo mein; lo mein vegetable
+N78059,1,456,noodle and rice dishes,drunken noodles pasta; noodle pasta rice singapore; lad na pasta; chow house mein special; fried noodles pan pasta; chicken fun mei; chicken chow fun mei; noodles pasta singapore
+N77810,1,99,Mexican masa dishes,gorditas; tamales; sopes; plate tamale; sope; chicken tamales; plate sopes; chicken gordita
+N78062,1,124,mushroom dishes,grilled mushroom portabella sub swiss; burger ed saut shroom; fried mushrooms; ed mushrooms saut; masala mushroom; mushroom pizza wild; char portabella; matar mushroom
+N78011,1,148,scallop dishes,garlic sauce scallops; roll scallop spicy; scallop sushi; kung pao scallops; hunan scallop; broccoli scallop; mixed scallops vegetables; scallop teriyaki
+N78140,1,215,tuna dishes,melt sandwich tuna; tuna wrap; bowl tuna; salad sandwich tuna; fish sub tuna; melt tuna; spicy tuna; ahi bowl poke tuna
+N78159,1,146,spicy fried dishes,bhindi masala; masala okra; bhindi curry masala; musubi spam; medu vada; bhindi do pyaza; dry korean rub wings; chocolate dosa
+N77867,1,144,pork chop dishes,chops pork; chop plate pork; chops grilled pork; chops eggs pork; chop pork sandwich; chops fried pork; chop pork taco; chop pepper pork salt
+N78119,1,89,octopus squid dishes,octopus sushi; pepper salt squid; ajo al de mojo pulpo; octopus sushi tako; de pulpo tostada; coctel de pulpo; octopus tostada; de ensalada pulpo
+N78160,1,207,shrimp pasta dishes,scampi shrimp; cajun pasta shrimp; marinara pasta spaghetti; alfredo pasta shrimp; pasta scampi shrimp; pasta shrimp; alfredo fettuccine pasta shrimp; alfredo shrimp
+N77617,1,166,salmon dishes,grilled salmon; ancho salmon; cherry chipotle enlightened glazed salmon; atlantic grilled salmon; blackened cajun salmon; cedar planked salmon; filet salmon; alaska salmon wild
+N78130,1,142,seafood dishes,frita mojarra; caldo camaron de; caldo de pescado; caldo de mariscos; de mariscos sopa; salmon smoked; roll salmon smoked; seafood soup
+N77962,1,82,veal dishes,parmigiana veal; marsala veal; piccata veal; parmesan veal; cacciatore veal; francese veal; cutlet parmigiana veal; schnitzel wiener
+N78168,1,276,shrimp Mexican dishes,shrimp taco; fajita shrimp; quesadilla shrimp; burrito shrimp; enchiladas shrimp; grilled shrimp taco; camaron de enchiladas; enchiladas seafood
+N78123,1,569,pork dishes,pork pulled sandwich; pork sour sweet; cuban sandwich; menudo; garlic pork sauce; hunan pork; carnitas; pork szechuan
+N78100,1,212,pork noodle dishes,chow mein pork roast; chop pork suey; dan noodles pasta; chow fun mei pork roast; fun mei pork; bbq chow mein pork; fun mei pork roast; grilled pork vermicelli
+N78113,1,40,green bean dishes,bean sauteed string; beans string szechuan; beans garlic green; bean green spicy; beans garlic sauce string; bean fried green stir; bean dried sauteed string; beans dry sauteed string
+N78134,1,126,vegetable dishes,moo shu vegetable; chop suey vegetable; roll spring vegetable; chow fun mei vegetable; soup vegetable; basil soupe tomato; fun mei pasta vegetable; noodle pasta soup tofu
+N78124,1,249,seafood dishes,cake crab; lobster ravioli; lobster roll; cake crab sandwich; lobster pasta ravioli; crab dungeness; crab shell soft; lobster salmon shrimp
+N77824,1,74,filet mignon dishes,filet hibachi mignon; filet steak; filet mignon oz; chicken filet mignon; filet mignon scallops; filet lobster mignon; filet mignon shrimp; fillet shrimp
+N77318,2,182,Mexican chicken dishes,chicken chipotle melt; chicken flautas; street taco; taquitos; cheddar chicken fajita; pirata taco; cheese chicken taco; cheesy chicken melt taco
+N78107,1,242,rice and vegetable dishes,beans red rice; crab fried meat rice; roll tempura veggie; roll tempura vegetable; fry stir vegetable; idli sambar; potato roll sweet tempura; katsu
+N77857,1,307,chicken and potato dishes,potato soft spicy taco; chicken oven roasted wrap; bowl chicken oven roasted; bacon chicken roast swiss; chicken grilled plate; cheddar chicken deluxe; burger pepper smoke; basket chicken strip
+N78179,1,425,soup and noodle dishes,lobster sauce shrimp; grits shrimp; pozole; caldo de pollo; soup tortilla; chicken soup; chicken curry katsu; arroz con mariscos
+N78106,1,248,tofu vegetable dishes,roll vegetable; fried rice tofu; roll veggie; tofu yakisoba; bowl japanese noodles pan tofu; pad thai vegetable; szechuan tofu; pad thai tofu
+N77058,2,164,mexican chicken dishes,bacon baja chicken wrap; bacon baja bowl chicken; chicken taco; flautas; chalupa plates; chicken crispy taco; flautas plate; chicken flautas plate
+N76347,2,73,nachos dishes,chicken nacho spicy; fajita nachos; chicken nachos; layer nachos queso; kickin nachos; chicken nachos shredded; nachos texanos; meat nachos
+N76473,2,61,green sauce dishes,enchiladas verdes; enchiladas suizas; chilaquiles verdes; enchiladas plate verdes; de enchiladas queso verdes; chicken enchiladas suizas; chilaquiles plate verdes; mole verde
+N76651,2,59,mixed meat platters,meats supreme wrap; all bbq drizzle honey hot meat pizza; beef chicken teriyaki; mix parrillada; parillada; beef chicken mongolian; parrillada texana; combination kabob
+N76820,2,76,Mexican corn dishes,gordita plate; enchilada taco tamale; gordita pollo; ole tamales; homemade tamales; sweet tamale; supreme tamale; enchilada one taco tamal
+N77554,1,124,cheese pupusas gorditas,pupusas; pupusa revuelta; cheese pupusa; de pupusa queso; chicharron gordita; beans cheese pupusa; con de frijol pupusa queso; loroco pupusa
+N78108,1,86,fried meat dishes,chicken fried steak; beef curry; country fried steak; country eggs fried steak; chicken eggs fried steak; beef curry onion; beef kebab; chicken fried plate steak
+N73467,2,13,cactus dishes,nopales taco; la mexicana nopal taco; cactus taco; nopalazo; de nopal taco; cactus street taco; de guiso nopales; cactus enchilada
+N77359,2,111,Mexican combo dishes,enchiladas spinach; burrito chile relleno; burrito chimichanga; chicken chimichanga; chile enchilada relleno; chimichanga lunch; chicken enchiladas spinach; taco trio
+N77983,1,204,shrimp noodle dishes,chow mein shrimp; pad shrimp thai; fun mei shrimp; chow fun mei shrimp; bowl pad shrimp thai; roll shrimp spicy; shrimp style szechuan; noodles pasta shrimp
+N77938,1,138,dumplings and rolls,egg foo pork young; potstickers; egg roll; gyoza plate; bbq korean meatballs; egg pork roll; gyoza; kra pad pow
+N77241,2,228,burrito varieties,burrito chicken chipotle grilled ranch; bean black quesarito; bean black burrito quesarito; chimichanga; burrito california; bowl burrito classic; southwest wrap; burrito super
+N78008,1,130,pork dishes,moo pork shu; chow mein pork; pork teriyaki; broccoli pork roast; peas pork roast snow; grilled pork sandwich; broccoli pork; mixed pork vegetables
+N78071,1,300,rice and legume dishes,beans black; dal makhani; beef brisket corned sub; rice steamed; dal tadka; caldo de res; plain rice; dosa plain
+N78153,1,168,breakfast sandwich variations,bacon biscuit cheese egg; biscuit cheese egg sausage; cheese croissan egg ham wich; bacon breakfast jack; breakfast sandwich ultimate; breakfast jack sausage; biscuit sausage; biscuit egg sausage
+N77957,1,155,breakfast toast sandwiches,french toast; breakfast loaded sandwich; french sticks toast; banana french strawberry toast; bacon breakfast toaster; french original our toast; blueberry french fresh toast; bacon breakfast cheesy egg melt
+N75626,2,18,cheese stuffed tortillas,quesadilla sincronizada; burrito con queso rajas; alambre quesadilla; poblana quesadilla; chicken de pollo quesadilla sincronizada; campechano quesadilla; de plato quesadilla; baleada con pollo
+N78156,1,191,fried comfort foods,corn dog; biscuits gravy; shrimp tempura; tempura vegetable; fried pickles; shrimp tempura vegetable; bacon waffle; cheese crust free gluten pizza thin
+N78046,1,153,pork dishes,fried pork rice; hawaiian luau pizza; chile plate verde; bowl burrito pork spicy; bowl pork; curry pork; bowl carnitas; grilled plate pork rice
+N77923,1,152,pork belly dishes,cooked pork twice; chicharron taco; cooked pork; belly pork; belly braised pork; belly pork taco; bowl chashu pork; chashu don pork
+N77374,2,139,Mexican breakfast dishes,chilaquiles; chilaquiles plate; chilaquiles taco; pollo ranchero; chipotle enchiladas; chicken chilada platter; papa ranchera taco; rancheros taquitos
+N77368,2,312,Mexican-inspired chicken dishes,soft supreme taco; chalupa cheddar toasted; california chicken sandwich; crispy taco; avocado chicken chipotle melt sandwich; crispy plate taco; chicken grilled taco; barbacoa chicken enlightened fire roasted
+N78086,1,359,spiced chicken dishes,gyro sandwich; chicken tandoori; curry massaman; asado pollo; biryani egg; en mole pollo; biryani chicken dum; fried kimchi rice
+N76255,2,20,turkey sub sandwiches,oven roasted sandwich sub turkey; avocado baja sandwich sub turkey; club subway wrap; bowl club subway; avocado baja sandwich sliced turkey; breast sub turkey; avocado cali fresh sandwich sliced turkey; cheese sub turkey
+N76895,2,160,burrito varieties,burrito supreme; burrito quesarito; burrito chicken; burrito fajita; bowl burrito fajita poblano spicy; burrito deluxe; big burrito; burrito mexicano
+N78173,1,135,turkey and chicken dishes,burger turkey; sandwich slider turkey; all natural roasted turkey; meatball spicy sub sweet; burger grilled turkey; burger enlightened turkey; chicken kabab seekh; patties sausage turkey
+N75170,2,19,linguine pasta dishes,bowl leanguini lemon parm; leanguini lemon parm pasta; linguine pasta positiano; linguine; chicken scampi; chicken linguine pasta; chicken pasta scampi; alfredo linguine pasta
+N77394,2,100,Mexican tostada dishes,bean black chalupa supreme; tostadas; chicken tostada; bean taco; crunchtada tostada; fajita salad taco; fajita salad; taco tostada
+N77400,2,36,tortellini pasta dishes,cheese pasta pesto tortelloni; cheese pasta rosa tortelloni; cream garlic pasta roasted tortelloni; baked pasta tortellini; marinara pasta tortellini; baked cheese tortelloni; alfredo cheese pasta tortellini; pasta spinach tortellini
+N74576,2,31,caesar salad variations,caesar chicken salad; caesar salad; caesar classic salad; brisbane caesar salad; bowl caesar tahini; caesar chicken grilled salad; blackened caesar chicken; caesar gf salad
+N77382,2,65,egg mexican dishes,migas taco; mexican omelette; country egg taco; egg la mexicana taco; jalisco omelet; omelette taco; fajita omelette; omelette ranchero
+N78091,1,62,chicken tenders dishes,chicken platter tender; basket chicken tender; spicy tenders; all drums wings; chicken platter ribs tender; chicken fried southern; chicken cut prime tenders; platter tenders
+N77258,2,51,mixed meat dishes,grill mixed; chop house special suey; chicken pork teriyaki; combination hunan; combination sour sweet; enchiladas mixtas; chop combination suey; combination roll sushi
+N76878,2,19,rigatoni pasta dishes,cauliflower pasta rigatoni rosa; baked pasta rigatoni; chicken pasta rigatoni spicy; alla pasta rigatoni vodka; pasta rigatoni stuffed; arabiata pasta rigatoni; alla pasta rigatoni romana; nocerina pasta rigatoni
+N77329,2,67,cheesy chicken mac dishes,bacon bowl chicken ranch; bbq mac melt sandwich; buffalo chicken mac; bbq chicken mac; baker cheese chicken spinach; buffalo chicken mac stack; buffalo cheese chicken mac pizza; cheese chipotle mac twisted
+N76214,2,235,chicken fajita dishes,chicken fajita; chicken fajita taco; fajita taco; fajita plate; burrito chicken fajita; chicken fajita plate; fajita mixed; enchiladas fajita
+N76981,2,67,turkey sandwich varieties,bacon ranch roast sandwich turkey; provolone sub turkey; club sandwich turkey; bacon bravo sandwich turkey; reuben sandwich turkey; sandwich swiss turkey; cheese ham sub turkey; club sub turkey ultimate
+N75518,2,81,cheesesteak chicken subs,chicken philly; cheese chicken chipotle steak sub; buffalo cheese chicken steak sub; big cheese chicken kahuna steak sub; bacon cheese chicken ranch steak sub; cheese chicken portabella steak sub; cheese chicken steak; firehouse hero sub
+N77375,2,205,quesadilla variations,cheesy roll up; chicken quesadilla; chicken fajita quesadilla; fajita quesadilla; plate quesadilla; chicken grilled quesadilla; quesadilla taco; burrito chicken queso
+N75625,2,67,chicken-based sandwiches,club sandwich sub subway; chicken classic roast sandwich; almond chicken napa salad sandwich; milanesa torta; breast chicken sandwich; kickin sandwich; cueban plate sandwich; chicken original sandwich
+N76198,2,55,chicken stuffed pastries,empanadas; chicken empanada; chicken momo; chicken chili momo; chicken fried momo; calzone chicken fajita; chicken momo steamed; chicken roti
+N76672,2,36,low-carb cauliflower dishes,bowl burrito keto; bowl burrito paleo; bowl cauliflower rice; bowl cauliflower chicken rice; cauliflower sandwich; cauliflower crust pesto pizza; cauliflower crust pizza white; cauliflower wrap
+N77063,2,140,chicken club sandwiches,club sub; all american bowl club; all american club wrap; chicken club sandwich; asiago chicken classic club ranch; asiago club ranch spicy; asiago club grilled ranch; blt chicken crispy
+N77345,2,203,fried chicken bites,handcrafted tenders; chicken tenders; chicken nuggets spicy; chicken crispy nuggets; chicken fried; mcnuggets; chicken strips; chicken crispy tenders
+N77097,2,101,chicken mushroom dishes,gai goo moo pan; chicken marsala; chicken mushroom; black bleu burger; chicken marsala pasta; chicken supreme; aristocrat chicken; chicken la madeleine
+N73939,2,44,pasta spaghetti dishes,pizza works; chicken parmesan pasta spaghetti; de pollo saltado tallarin; chicken parmigiana spaghetti; greek pasta spaghetti; chicken pasta spaghetti; chicken parmesan spaghetti; kung pao pasta spaghetti
+N76937,2,71,chicken sandwiches,chicken sandwich; chicken salad sandwich; chicken salad sandwich signature; plate sandwich westerner; chicken steak; breast chicken classic sandwich; sandwich smokehouse; bacon cheddar chicken grilled sandwich
+N76209,2,25,chicken biscuit dishes,biscuit cheese chicken egg; biscuit chick chicken fil; biscuit chicken spicy; biscuit butter chicken honey; biscuit chicken honey hot; biscuit sandwich; biscuit bowl chicken gravy; biscuit chicken
+N77309,2,105,pasta pesto dishes,italian original sub; pasta primavera; cavatappi pasta pesto; chicken pasta pesto; broccoli chicken pasta; bowl gluten mac pipette sensitive; pasta pesto; chicken pesto
+N77364,2,32,smoked turkey dishes,breast smoked sub turkey; sandwich smoked turkey; classic sandwich smoked turkey; burger house smoke; avocado brioche cheddar egg sandwich smoked turkey; club sandwich smoked turkey; avocado breakfast burrito cheddar egg smoked turkey; breast chicken sandwich smoked
+N76784,2,102,chicken panini sandwiches,italian melt sandwich; chicken frontega sandwich toasted; chicken pesto sandwich; chicken chipotle; caesar chicken sandwich; chicken panini sandwich; chicken panini pesto sandwich; chicken portabella sandwich
+N76623,2,78,chicken sandwich varieties,chicken sandwich spicy; chicken honey hot sandwich; chicken classic sandwich; buffalo chicken ranch sandwich; bbq chicken sandwich smokehouse; chicken sandwich spicy whatameal; buffalo ranch sandwich; chick chicken club fil grilled sandwich
+N77307,2,65,turkey wrap dishes,cali fresh turkey wrap; bowl cali fresh turkey; avocado baja turkey wrap; avocado baja bowl turkey; italiano turkey wrap; bowl italiano turkey; gyro sandwich turkey; bacon ranch sub turkey
+N77277,2,15,rotisserie chicken dishes,chicken rotisserie; bacon chicken ranch rotisserie sandwich; chicken rotisserie wrap; arepa catira; chicken rotisserie taco; arepa la pelua; chicken platter rotisserie; chicken quesadilla rotisserie
+N77294,2,49,Thai fried rice dishes,basil fried rice; basil fried rice spicy; fried rice tom yum; gra pad prow; burnt chili fried garlic rice; beef fried pineapple rice; basil fried rice spicy thai; gratiem pad prik thai
+N77475,2,86,grilled chicken dishes,italian melt sandwich spicy; chicken marinated plate; chicken kebab; chicken kebab plate; grill mixed tandoori; chicken philly pizza; shish taouk; athenian pizza
+N75953,2,71,sandwich subs,italian sandwich spicy sub; chicken rotisserie sandwich style sub; bacon chicken ranch sandwich sub; all american club sandwich sub; chicken honey mustard rotisserie sandwich style sub; bacon chicken melt ranch sandwich; chicken oven roasted sandwich sub; sub super
+N75964,2,45,Cajun rice dishes,jambalaya; jambalaya orleans; bourbon chicken shrimp street; gumbo; chicken gumbo sausage; provencal rice; catfish fried jambalaya; bowl gumbo
+N76300,2,34,tortellini pasta dishes,cheese pasta tortellini; pasta tortellini; alfredo pasta tortellini; alla panna tortellini; pasta special tortellini; panna pasta tortellini; cheese tortellini; creme la pasta tortellini
+N76386,2,69,chicken parmesan dishes,chicken parmesan; chicken parmigiana; chicken parmesan pasta; chicken parm sub; parmigiana pollo; caprese chicken; alla parmigiana pollo; chicken grilled parmesan steak
+N77523,2,295,mediterranean chicken wraps,gyro plate; greek gyro sandwich; chicken gyro; chicken sandwich shawarma; chicken plate shawarma; gyro wrap; chicken shawarma wrap; chicken enlightened mediterranean pita tacos
+N76869,2,85,torta sandwiches,torta; chicken torta; mexicana torta; chicken fajita torta; taco torta; chicken monterey ranch torta; chilanga torta; hechizera la torta
+N77160,2,103,chicken dishes,chicken hibachi; don katsu; pollo saltado; bowl chicken protein; bowl chicken katsu; bento chicken; chicken firecracker; hawaiian pizza super
+N77200,2,70,chicken salad dishes,cobb salad; chicken crispy salad; chicken greek salad; chicken lettuce signature wraps; de ensalada pollo; asian chicken chopped gf salad; chicken club crispy salad; chang chicken free gluten lettuce wraps
+N77238,2,101,chicken crispy sandwiches,chicken crispy sandwich; chicken classic crispy sandwich; big chicken crispy mouth sandwich; bleu chicken cordon; chicken crispy sandwich tender; chicken sandwich tender; breaded chicken hand sandwich; burger chicken crispy
+N77422,2,101,chicken egg dishes,chicken little sandwich; chicken egg foo young; chicken fajita omelette; hook ladder sub; cheese chicken egg muffin; chicken dumplins; benedict country; free gluten great white
+N77321,2,117,pasta penne dishes,italian spicy wrap; bowl italian spicy; pasta penne; pasta penne rosa; cheese chicken pasta penne; pasta penne pesto; ala pasta penne vodka; pasta rasta
+N77435,2,174,chicken fusion dishes,chicken kabob; masala tikka; chicken hibachi steak; chicken hibachi shrimp; chili sweet wings; chili pizza sweet; gyro over rice; curry masala tikka
+N77397,2,163,curry chicken dishes,chicken curry; curry green; curry red; curry panang; curry yellow; curry pineapple; khing pad prik; chicken curry onion
+N76037,2,79,chicken rice dishes,chicken kabob plate; chicken over rice shawarma; bowl chicken shawarma; chicken plate tikka; butter chicken rice; chicken kabob over rice; masala tikka vegetable; kabob palau
+N76720,2,81,chicken teriyaki dishes,bowl chicken teriyaki; chicken drover platter ribs; bowl teriyaki; bento chicken teriyaki; sandwich signature zaxby; honeybaked sandwich; chicken rice spicy; chicken plate teriyaki
+N77079,2,71,chicken bean dishes,chicken chop suey; beans chicken string; chicken chili; bean chicken green; chicken southwest spicy; bean string style szechuan; chicken southwest; chop suey
+N78129,1,308,noodle dishes,chicken lo mein; lo mein shrimp; lo mein vegetable; chicken chow mein; lo mein pork; chow mein vegetable; lo mein pork roast; house lo mein special
+N77014,2,111,pasta dishes,cajun chicken pasta; cheezy pizza white; chicken pasta queensland ribs shrimp; carbonara chicken; carbonara chicken pasta; jambalaya pasta; cajun pasta; chicken diablo
+N68926,2,15,turkey breast dishes,jamaican jerk sub turk turkey; breast turkey wrap; breast oven roasted turkey; breast cheese sandwich turkey; breast roasted turkey; bacon grilled sandwich turkey; breast cold signature sliced sub turkey; steak turkey
+N77342,2,230,chicken dishes,chicken oven roasted wrap; bowl chicken oven roasted; bacon chicken roast swiss; chicken grilled plate; cheddar chicken deluxe; burger pepper smoke; basket chicken strip; bbq buffalo chicken drizzle homestyle pizza ranch
+N77392,2,74,Thai fried rice dishes,fried rice thai; fried pasta rice thai; curry fried rice yellow; curry fried green rice; basil fried pasta rice; basil fried rice thai; chicken fried rice thai; khao pad
+N78150,1,270,beef noodle dishes,beef lo mein; beef szechuan; beef chow mein; beef yakisoba; beef chow fun mei; beef fun mei; beef pad thai; beef style szechuan
+N76573,2,66,Italian baked pasta dishes,bowl italian; baked pasta; pasta trio; chicken marinara pasta; baked pasta penne; chicken manicotti pasta; baked manicotti; italiano pizza texano
+N77212,2,155,chicken and burger dishes,chicken grilled sandwich; bacon chicken ranch wrap; buffalo chicken sandwich slider; burger chicken; burger buttery cheese classic jack swiss; chicken sandwich slider; chicken classic grilled sandwich; chicken grilled sandwich whatameal
+N77833,1,230,fried rice dishes,chicken fried rice; fried rice; fried pineapple rice; fried pasta rice; fried house rice special; egg fried rice; chicken fried pasta rice; fried house rice
+N77313,2,346,Asian chicken dishes,chicken kung pao; chicken onion sweet teriyaki wrap; bowl chicken onion sweet teriyaki; cashew chicken nuts; chicken hunan; chicken garlic sauce; chicken szechuan; chicken mongolian
+N77353,2,20,Ethiopian okra dishes,firfir quanta; okra stew; firfir; okra soup; fitfit tibs; curry okra; fitfit quanta; fir tibs
+N76966,2,68,chicken seafood combos,chicken fish platter; chicken shrimp teriyaki; chicken fish platter shrimp; chicken kung pao shrimp; chicken scallop; chicken combination shrimp; chicken mixed shrimp steamed vegetables; chicken hibachi scallop
+N75880,2,75,Hawaiian-inspired chicken dishes,chicken sour sweet; chicken pineapple; chicken kilauea; chicken lunch sour sweet; chicken molokai; chicken honolulu; chicken classic honolulu; aloha chicken
+N73395,2,25,mango chicken dishes,chicken chile mango; chicken mango; crispers crispy habanero mango; curry mango; chicken curry mango; chicken mango spicy; habanero mango pizza; blackened bowl chicken mango
+N77492,2,122,burger variations,burger mushroom swiss; bacon burger guacamole; burger fe santa; burger california; burger mexican; avocado bacon burger; avocado burger; burger guacamole
+N75341,2,34,grain bowls,bowl menu power; avocado bowl harissa; bowl cauliflower chicken power quinoa; avocado bowl chicken; bowl green; bountiful bowl buddha; bowl classic grain greek warm; bowl chicken grain grilled mediterranean warm
+N77423,2,134,buffalo chicken dishes,buffalo chicken wrap; bowl buffalo chicken; bacon big cheddar chicken grilled; buffalo chicken; bacon cheesy chicken ranch; crema la pollo; bacon cheddar chicken; alice chicken ribs springs
+N77132,2,59,flatbread pizza dishes,feast flatbread pizza; flatbread pizza salad; flatbread pizza sandwich; flatbread mac pizza soup; bowl flatbread pizza warm; bacon chicken chipotle flatbread pizza; california club flatbread pizza; bbq chicken flatbread pizza
+N70419,2,40,burger variations,bloomin burger; burger red robin royal; burger charm southern; burger gourmet scorpion; burger farm; bod burger dad; bleu burger; burger loaded
+N77136,2,58,chicken and cheese sandwiches,buffalo chicken melt sandwich; california chicken club sandwich; cali club sandwich; deli italian sandwich; italian panini sandwich; big dipper melt sandwich; club panini sandwich; cheese egg meat sandwich
+N77441,2,16,ribeye steak cuts,bone ribeye steak; boneless ribeye steak; bone eye rib steak; bone eye rib; bone prime ribeye steak usda; bone cowboy ribeye steak; angus prime ribeye; eye grade prime rib steak
+N76923,2,117,chicken burrito bowls,bowl burrito chicken; bowl burrito chicken southwest; bowl chicken chipotle fresh mex; bowl cabana no shell; bowl chicken fresca; baja bowls; bowl chicken southwest; bowl burrito chicken fajita
+N78143,1,213,pork dishes,chicharron egg taco; burrito chicharron; center chops cut pork; chicharron egg plate; chicharron egg; louis ribs spareribs st style; bean curd dry pork shredded; beef milaneza
+N78142,1,94,seafood dishes,boy oyster po; basket fried oyster; fried oyster; green mussel; black mussel; clam strips; fried oyster platter; alle linguine pasta vongole
+N76823,2,25,rib eye steak dishes,eye rib steak; eye rib; bacon eye jam rib steak; eye rib sandwich steak; eggs eye rib steak; eye fajita rib; eye only oz rib steak; eye rib shrimp steak
+N78044,1,311,fried rice dishes,fried rice shrimp; beef fried rice; fried rice vegetable; combination fried rice; fried rice veggie; fried pork rice roast; crab fried rice; fried pasta rice shrimp
+N77249,2,24,baby back ribs dishes,baby back ribs; baby back rack ribs; baby back glazed rack ribs; baby back glazed ribs; baby back bbq ribs; baby back bbq rack ribs; baby backs chicken finger platter; baby back plate ribs
+N75598,2,18,impossible burger dishes,burger impossible; burger impossible whopper; burger cheeseburger impossible; cheeseburger impossible sandwich; impossible whopper; burger impossible original; burger cheese impossible original; burger impossible sandwich
+N77511,2,74,chicken zucchini pesto dishes,chicken pie pot; enchiladas poblanas; chicken grilled orange pasta zucchini; chicken grilled pasta pesto zucchini; bowl chicken grilled pesto zucchini; alfredo bowl chicken grilled montamore zucchini; bowl chicken grilled rosa zucchini; bowl chicken cream garlic grilled roasted zucchini
+N77486,2,93,beef steak dishes,club steak wrap; cheesesteak omelette philly; ribeye sandwich steak; ribeye sandwich; hibachi scallop steak; lobster steak; philly steak wrap; black pepper steak
+N77452,2,88,burger varieties,bacon burger cheeseburger; bacon burger; bacon burger cheeseburger ultimate; cheeseburger grilled stacked; bacon burger cheeseburger supersonic; burger cheeseburger texas; burger jalapeno; burger outback
+N75955,2,48,ribeye steak dishes,classic ribeye; bbq korean spicy steak; grilled ribeye; cut hand ribeye signature steak; chicken steak tenders; oz ribeye steak; grilled ribeye steak tuscan; cut hand oz ribeye signature steak
+N76765,2,65,Asian chicken dishes,chicken katsu; chicken moo shu; chicken egg roll; chicken dumplings; chicken oriental salad sandwich wrap; chicken katsu teriyaki; chicken mu shu; chicken gyoza
+N77259,2,77,potato based dishes,potato soft spicy taco; burrito chicken potato; potato taco; guisada taco; la mexicana papa taco; burrito potato; potato sweet taco; potato ranchero taco
+N77437,2,213,fried chicken dishes,boneless wings; chick fil nuggets; chicken hot nashville sandwich; buffalo chicken popcorn sauced; buttermilk chicken crispy; chicken sandwich southern; hot nashville tenders; chicken crispers crispy
+N76886,2,118,alfredo-based dishes,alfredo fettuccine pasta; alfredo chicken pasta; alfredo pizza; alfredo chicken fettuccine pasta; alfredo pizza spinach; alfredo chicken fettuccine; alfredo chicken; alfredo pasta
+N77371,2,240,chicken wraps and sandwiches,italian wrap; bacon baja chicken melt sandwich; soft taco; cheesy crunch gordita; caesar chicken wrap; chicken club wrap; chick cool fil wrap; buffalo chicken ranch wrap
+N77049,2,118,spicy chicken curries,chicken kadai; chicken curry kadai; chicken karahi; chicken curry vindaloo; chicken jalfrezi; andhra chicken curry; chicken mughlai; chicken methi
+N77015,2,166,Mexican enchilada dishes,enchiladas; cheese enchiladas; enchilada plate; chicken enchiladas; enchiladas rancheras; enchiladas mexicanas; enchiladas rojas; enchiladas supreme
+N78148,1,139,poultry and organ meats,chicken rotisserie style wrap; bowl chicken rotisserie style; duck peking; duck roast; chicken gizzard; chicken quarter rotisserie white; chicken quarter; chicken liver
+N77271,2,50,salads and wraps,chopped cobb salad; buffalo salad wedge; blue buffalo zalad; caesar chicken classic grilled salad; blackened blue zalad; chef salad; garden lunch salad; border roll
+N78023,1,301,mexican beef dishes,baja bowl jack steak; asada carne; asada carne taco; fajita steak; beef fajita; asada burrito carne; beef fajita taco; beef quesadilla
+N77306,2,72,mexican fajita dishes,meats sandwich sub supreme; fajita trio; fajita mixta; chicken fajita steak; beef chicken fajita; combination fajita; beef chicken fajita shrimp; mixtos taco
+N77425,2,188,chicken grilled dishes,chicken grilled margarita; chicken tikka; chicken jalapeno; chicken enlightened lemon thyme; chicken classic pizza; chicken kebab tikka; chicken chipotle sweet; chicken smoked
+N77050,2,79,Indian chicken curries,chicken masala tikka; butter chicken; chicken korma; chicken curry masala tikka; butter chicken curry; chicken curry korma; butter chicken masala; chicken makhani
+N78178,1,633,sushi rolls and bowls,roll spicy tuna; philadelphia roll; avocado roll; roll tuna; cucumber roll; alaska roll; roll volcano; roll sushi
+N77026,2,42,Korean BBQ ribs,beef ribs teriyaki; galbi la; kalbi; bbq korean wings; kalbi ribs; beef grilled ribs; boneless galbi; boneless galbi spicy
+N78083,1,152,savory indian snacks,dosa masala; dosa masala mysore; dosa onion; samosa; takoyaki; aloo paratha; cheese dosa; tteokbokki
+N76465,2,188,Philly cheesesteak dishes,bowl cheese steak; cheesesteak philly; cheese philly sandwich steak; philly steak; big cheese kahuna steak sub; cheese philly sandwich stacker steak; cheese portabella steak sub; philly sandwich
+N77228,2,111,chicken stir fry dishes,broccoli chicken; chicken general tso; chicken sesame; chicken mixed vegetables; broccoli chicken steamed; chicken mixed steamed vegetables; chicken steamed vegetables; chicken fry stir
+N76440,2,198,cheeseburger variations,bacon big burger cheddar cheeseburger; bacon bourbon burger cheeseburger; bacon cheeseburger; bacon burger cheese; burger curly fry sriracha; bacon burger chile hatch smashed; bacon burger cheeseburger western; cheeseburger mega monster
+N75288,2,43,chicken salad dishes,chicken grilled salad; chicken harvest salad; mediterranean salad; chicken harvest salad sandwich; chicken fried platter salad southern tender; chicken garden grilled salad; breast chicken salad; chicken grilled salad tuscan
+N77125,2,14,chicken crepe dosa dishes,chicken dosa; chicken dosa tikka; chicken crepes florentine; chicken dosa kheema; dosa pizza; dosa schezwan; chicken crepe grilled; chicken chilli dosa
+N76622,2,32,chicken waffle dishes,chicken waffles; chipotle crispers honey waffles; chicken sandwich waffle; chicken fried waffles; chicken eggs waffle; chicken fried waffle; bowl waffle; baby chicken sandwich waffles
+N77308,2,49,turkey dishes,oven roasted turkey wrap; bowl oven roasted turkey; ham oven roasted turkey wrap; bowl ham oven roasted turkey; breast plate turkey; hot sandwich turkey; jamaican jerk med sub turkey; burger colorado turkey
+N77230,2,143,teriyaki chicken dishes,chicken teriyaki; chicken orange; chicken peas snow; chicken sandwich teriyaki; breast chicken teriyaki; asparagus roll; chicken flavored orange; banzai burger
+N72354,2,30,spicy chicken naan wraps,chicken roll tikka; platter tandoori; kabab roll; mix platter tandoori; tikka wrap; chicken naan; bowl bread chicken naan tikka; boti chicken malai roll wrap
+N76879,2,172,chicken dishes,chicken fresco pizza; pizza sup supreme; cacciatore chicken; bowl chicken pizziola; chicken pizziola wrap; chipotle pollo; chicken mole; diabla la pollo
+N76464,2,274,cheeseburger variations,burger cheeseburger; cheeseburger; burger cheese; burger cheeseburger jack; burger cheeseburger sonic; burger cheeseburger deluxe; burger meat whataburger; all american burger cheeseburger
+N77474,2,12,sirloin beef cuts,oz sirloin top; center cut sirloin steak; center cut gf sirloin steak; choice oz sirloin usda; american beef roast wagyu; choice sirloin steak usda; center cut sirloin; baseball cut farms river sirloin snake steak top wagyu
+N76147,2,7,rib tip dishes,app rib tips; prime rib roasted tips; rib spare tips; plate rib tips; bbq rib spare tips; bbq rib tip; dessie ribs special tips yebeg
+N77401,2,59,beef dishes,beef roast wrap; sirloin steak tips; beef platter wholotta; beef stroganoff; beef fresh mushroom; bomb burger; bistek encebollado; beef tips
+N77184,2,25,angus beef dishes,angus beef black roast spud; angus black steak sub; cowboy steak; angus black steakhouse sub; angus black flat iron steak; angus steak; angus oz steak york; angus beef burger certified patty
+N75194,2,18,beef curry dishes,beef curry red; beef curry green; beef curry thai; beef satay; beef curry red thai; beef bowl curry; beef curry saigon; beef cumin sauteed
+N76478,2,20,sirloin steak dishes,avocado classic grilled oz sirloin; sirloin taco; burrito surf turf; quesadilla sirloin; quesadilla sirloin super; burrito sirloin; fajita grilled platter steak; chopped sirloin street style taco
+N75988,2,10,flat iron steaks,flat iron steak; bowl flat grain iron power steak; flat iron scallops steak; flat iron local steak; flat gs iron steak; flatiron steak; flat iron steak wagyu; flat iron wagyu
+N77446,2,107,burger varieties,bacon big burger classic; burger whopper; burger stack; baconator burger; baconator burger son; burger whataburger; burger cheeseburger plain sonic; bacon burger cheese whataburger
+N77419,2,59,steak dishes,cali fresh sandwich steak sub; sandwich steak; beef sandwich sliced; bowl club steak; cheddar sandwich steak white; burger dip french philly; peppercorn sammie steak; hibachi salmon steak
+N76227,2,193,chicken and rice dishes,arroz con pollo; engineer sub; chori pollo; loco pollo; bowl chicken spicy; bowl chicken queso; bowl chicken cholula hot sweet; burger madlove
+N75790,2,32,spinach chicken dishes,chicken saag; chicken curry saag; salad spinach; chicken saagwala; chicken palak; chicken curry palak; pizza popeye; chicken saag tikka
+N77482,2,100,steak dishes,asada burrito carne; burrito southwest steak; asada plate; steak tampiquena; carne tampiquena; asada carne tostada; asada camarones carne con; burrito grilled steak
+N76671,2,19,prime rib sandwiches,prime rib sandwich; dipper prime rib sandwich; dip prime rib; dip philly prime rib; prime rib sandwich shaved; dip philly prime rib sandwich style; cut prime rib; grilled prime rib sandwich
+N76899,2,44,pork rib dishes,plate pork rack rib; applebee platter riblets; outback platter ribs; plate rack rib; costilla plate; costillas en salsa verde; plate ribs slab; pork ribs salsa verde
+N77234,2,40,New York steak dishes,steak strip york; steak york; bone steak strip york; ny oz strip; ny steak strip; eggs steak york; lobster ny steak; eggs oz steak york
+N76994,2,71,beef rice bowls,beef bowl; beef bento; beef kabob plate; beef bowl burrito fajita; bowl bulgogi; beef hibachi; beef bento teriyaki; beef grilled plate rice
+N74450,2,9,sirloin steak dishes,oz sirloin steak top; country fried sirloin steak top; eggs sirloin steak top; grilled sirloin top; sirlion top; choice sirloin steak top usda; baseball cut sirloin steak top; northwest sirloin top
+N76321,2,73,BBQ chicken dishes,bbq chicken; bbq burger river whiskey; chicken pulled sandwich; bbq chicken river sandwich whiskey; bacon bbq chicken pizza; bbq boneless smoky wings; bbq chicken pulled sandwich; barbeque chicken free gluten
+N77344,2,9,ribeye steak cuts,ribeye wagyu; ribeye steak tomahawk; ribeye tomahawk; bayou pork ribeye; steak tomahawk; pork ribeye steak; grilled pork ribeye; bourbon pork ribeye steak
+N75837,2,84,beef stir fry dishes,pepper steak; beef garlic sauce; onion pepper steak; beef hot spicy; beef garlic; kabobs steak; beef ginger; beef fried stir
+N75337,2,16,prime rib dishes,classic dip prime rib; classic prime rib steak; outback prime rib steak style; prime rib steak; cowboy cut prime rib; crusted herb prime rib roasted; beef prime roast; dip french prime rib
+N77487,2,26,meat and seafood steaks,filet mignon steak; melbourne porterhouse steak; salmon steak; oz porterhouse steak; filet grilled mignon; catfish steak; grilled salmon steak; bistec de palomilla
+N77020,2,52,sirloin steak dishes,classic sirloin; sirloin steak; center cut outback sirloin steak; center cut outback platter sirloin; oz sirloin steak; grilled sirloin steak; grilled sirloin steak tuscan; rollups steak
+N77529,2,86,steak dishes,bacon cheddar steak; la mexicana steak; mongolian steak; bistec lo pobre; scallop steak; egg plate steak; skillet steak; sandwich stack steak
+N77479,2,43,steak and egg dishes,cheese egg steak wrap; big omelette steak; shrimp steak; egg steak taco; fajita shrimp steak; burrito egg steak; breakfast burrito steak; oz sirloin surf trio turf
+N76728,2,42,steak dishes,bourbon steak street; fingers steak; breaded steak; bistec; beef ranchero steak; beef cheese sandwich steak; chop steak; beef steak teriyaki
+N78137,1,354,breakfast pancakes and waffles,caramel chocolate hot; buttermilk original pancakes; buttermilk pancakes; belgian waffle; waffle; blueberry pancakes; pancakes syrup; banana pancakes strawberry
+N76901,2,83,lamb curry dishes,korma lamb; lamb saag; josh lamb rogan; curry korma lamb; curry lamb saag; kadai lamb; kabab lamb tikka; lamb masala
+N71507,2,12,spicy goat curries,curry goat; curry goat karahi; goat josh rogan; curry goat railway; curry goat karaikudi; dum gosht ka; curry goat karahi peshawari; bone curry goat
+N75395,2,10,arrachera beef dishes,arrachera taco; arrachera steak; arrachera asada carne; arrachera de taco; arrachera carne; arrachera steak taco; arrachera fajitas; arrachera camarones con
+N77408,2,99,beef dishes,onion steak sweet teriyaki wrap; beef kung pao; beef orange; ranchero steak; beef moo shu; steak teriyaki; beef black pepper; beef green pepper
+N77047,2,47,steak sandwiches subs,cheese sandwich steak sub; onion sandwich steak sub sweet teriyaki; bowl onion steak sweet teriyaki; cheddar sandwich steak toasted white; breakfast cheese egg sandwich steak sub; peppercorn steak sub; cheddar chipotle steak sub; egg sandwich steak
+N76716,2,25,steak rice bowls,fried rice steak; hibachi shrimp steak; bowl steak teriyaki; border bowl grilled steak; hibachi rice spicy steak; la mexicana plate steak; mexican steak style; camarones con steak
+N77363,2,94,steak dishes,baja jack sandwich steak sub; baja jack steak wrap; bowl cali fresh steak; baja jack melt sandwich steak; avocado cali fresh sandwich sliced steak sub; burrito steak; avocado cali fresh sliced steak wrap; cheese chipotle signature southwest steak wrap
+N51826,2,4,picanha dishes,picanha; garlic picanha; picanha steak; picanha spicy
+N76893,2,85,BBQ pork ribs,bbq ribs; pork ribs; baby back pork ribs; outback ribs; rack ribs; louis platter ribs st; bone fall off ribs stack; ribs slab
+N77155,2,24,steak dishes,hibachi steak; shrimp steak teriyaki; bowl burrito steak; hibachi ribeye; eye maki rib; bowl dynamite korean mayo steak; bento steak teriyaki; bowl ribeye sesame
+N77090,2,31,spiced lamb dishes,karahi lamb; jalfrezi lamb; curry karahi lamb; daal gosht; curry gosht palak; curry daal gosht; gosht palak; curry green lamb spinach
+N75827,2,64,carne asada dishes,asada carne; asada carne taco; asada carne plate; asada carne fajita; asada carne platter taco; asada la mexicana taco; al beef carbon taco; asada carne de steak taco
+N73928,2,12,gyro dishes,beef falafel gyro sandwich; beef falafel gyro platter; eggs gyro meat; bowl gyro veggie; cheese egg gyro meat sandwich; gyro onions panini peppers sandwich; beef gyro lamb ny style wrap; carved gyro hand sandwich
+N76191,2,16,Middle Eastern meat dishes,beef biryani; kabob lamb plate shish; beef kabab over plate rice; beef kabob rice; biryani lamb peshawari; kabab lamb shish wrap; beef curry jalfrazie; lamb over rice salad
+N76610,2,49,steak Mexican dishes,quesadilla steak; steak taco; asada taco; fajita steak taco; bistec taco; beef enchiladas fajita; chimichanga steak; steak street taco
+N76751,2,23,beef dishes,beef mushroom; tibs zilzil; beef souvlaki; beef kebab wrap; beef tibs; bulgogi rice; beef bulgogi korean; bulgogi hot pot
+N77385,2,55,veggie burger dishes,patty sandwich sub veggie; bacon burger stack; burger meat whataburger whatameal; bacon burger cheese whataburger whatameal; beyond burger; beyond burger ring rodeo; baja beach beyond burger; beyond burger wraptor
+N77490,2,87,meat dishes,beef egg foo young; picadillo taco; baconzilla burger; picadillo; lovers meat skillet; meaty mighty pizza; meat pie; picadillo tostada
+N76583,2,38,beef dishes,picadillo plate; loco moco; bowl cauliflower kabob rice steak; basil beef thai; kabob kafta wrap; bell peppers stuffed; bowl picadillo; beef bowl korean
+N77458,2,57,lamb curry dishes,curry lamb; lamb vindaloo; curry lamb vindaloo; lamb madras; lamb plate; chettinad lamb; hot lamb pot; curry lamb madras
+N77476,2,108,beef fajita dishes,baja bowl jack steak; fajita steak; beef fajita; beef fajita taco; beef quesadilla; fajita quesadilla steak; beef fajita plate; asada carne quesadilla
+N76395,2,47,lamb kebabs,kabab seekh; kabab lamb seekh; bowl lamb meatball spicy; adana kebab; kabob kubideh; ground kabob lamb; kafta kebab; kafta shish
+N77465,2,37,beef tenderloin dishes,grilled marinated tenders texas true; beef tenderloin; beef filet tenderloin; beef tataki; steak tenderloin; steak tartare; filet medallions mignon; au poivre steak
+N76590,2,16,turkey panini sandwiches,panini pesto sandwich turkey; panini roasted sandwich turkey; panini sandwich spicy turkey; italian sandwich turkey; panini turkey; cajun sandwich turkey; caprese sandwich turkey; panini sandwich savory turkey
+N76644,2,45,Asian fusion rolls,chicken enlightened noodles peanut soba spicy; rolls spring; bun ga nuong; marvelous roll sushi; chicken grilled rolls spring; roll samantha sushi; nola pizza rolls; bun cha ga gio nuong
+N76314,2,42,meatball dishes,marinara meatball wrap; meat mozza wrap; firehouse meatball sub; meatball provolone; meatballs; meatball pepperoni pizza; meatball parmesan sandwich spicy; italian meatball
+N77395,2,42,beef rib dishes,beef ribs; rib sandwich; plate rib; braised rib; beef braised ribs; beef plate ribs; burger kickin rib; rib taco
+N77024,2,6,strip steak cuts,strip wagyu york; bone city kansas prime steak strip; prime steak strip usda york; city kansas steak strip; angus black steak strip york; aged angus beef certified strip york
+N75808,2,43,taco varieties,crunchy taco; crunchy supreme taco; chalupa supreme; cheese doritos locos nacho taco; cheese doritos locos nacho supreme taco; beef taco; beef ground taco; beef chalupa ground
+N75597,2,50,lamb gyro dishes,kabob lamb; gyro lamb; lamb sandwich shawarma; kabob lamb plate; beef gyro lamb; gyro lamb plate; lamb pita rustic; lamb shawarma wrap
+N76210,2,24,burger melt sandwiches,burger melt patty; melt patty sandwich; burger jack sourdough; classic diner melt patty sandwich; burger dirty melt patty; burger grilled melt patty; frisco melt; burger sourdough
+N76988,2,75,beef dishes,carne guisada; bbq cowboy; burger oldtimer; beef stew; beef chopped plate; beef curry massaman; beef gravy; beef tamale
+N76746,2,36,lamb rice dishes,biryani lamb; lamb masala tikka; curry lamb masala tikka; biryani dum lamb; curry lamb mango; aromatic biryani lamb; curry korma lamb shahi; biryani classic lamb
+N76922,2,43,beef Mexican dishes,beef enchiladas plate; carne la mexicana plate; fajita plate steak; beef steak taco; fajita skirt steak; beef fajita grilled; beef burrito chimichanga; beef street taco
+N77389,2,145,mexican beef dishes,bean black crunchwrap supreme; beefy burrito melt; crunchwrap supreme; cheese cheesy crunch doritos gordita nacho; beef burrito; mexican pizza; beef crispy taco; burrito cheese chili
+N75606,2,33,spare ribs dishes,cayenne ribs spare spicy; ribs spare; ribs sour spare sweet; bbq ribs spare; pepper ribs salt spare; classic ribs spare; louis ribs spare st; cumin ribs spare
+N76018,2,31,beef stuffed pastries,beef empanada; beef pasta ravioli; beef dumpling onion; beef empanada ground; pelmeni; beef ground pastelito; paratha qeema; arepa beef
+N77439,2,100,spicy chicken curry dishes,chicken curry rice; chicken coconut curry; chicken coconut curry thai; chicken curry thai; curry red thai; curry rice; chicken curry over rice; bowl chicken curry
+N77245,2,104,ground beef dishes,meatloaf; jack melt patty pepper sandwich; chopped steak; beef kabab seekh; housemade meatloaf; chopped eggs steak; grilled meatloaf; homestyle meatloaf
+N77252,2,92,goat curry dishes,goat vindaloo; goat korma; curry goat korma; curry goat vindaloo; curry goat gongura; goat saag; curry goat masala; curry goat saag
+N77503,2,102,beef dishes,beef mongolian; beef hunan; cheese chipotle steak sub; beef hunan style; beef burrito potato; ropa vieja; gf mongolian steak; carne frita
+N77393,2,33,lamb chop dishes,chops lamb; chops grilled lamb; chops lamb plate; chops lamb tandoori; chop lamb rack; australian chops lamb; chop lamb masala; lamb lollipops
+N77391,2,44,meatball dishes,kabob kafta plate; bowl cauliflower lamb meatball rice; grape leaves stuffed; kabob koobideh plate; kabob koobideh; kebab kofta plate; kashmiri kofta; curry kofta
+N76842,2,194,chicken dishes,chicken honey mustard rotisserie style wrap; bowl chicken honey mustard rotisserie style; breast chicken grilled; chicken grilled wrap; bowl chicken grilled; chicken grilled; chicken lemon; chicken piccata
+N77151,2,39,roast beef sandwiches,beef bowl roast; dip french sandwich; beef classic roast; beef pound roast; classic dip french swiss; beef premium roast sub; steamer sub york; beef italian sandwich
+N76513,2,39,noodle soup dishes,pasta pho; pho seafood; beef pho; mul myun naeng pasta; birria consome; beef noodle pasta soup spicy tendon; mul naengmyeon pasta; bulgogi noodle pasta soup
+N75482,2,21,lamb wrap variations,lamb wrap; beef gyro lamb wrap; lamb pita wrap; borrego consome de; gyro lamb pita wrap; kathi lamb roll; beef kabab lamb wrap; beef lamb shawarma wrap
+N76076,2,43,beef dishes,bulgogi; beef bulgogi; beef grilled sandwich; beef free gluten mongolian; basil beef; bul gi go; beef shaking; bo lac luc
+N76479,2,33,beef roast sandwiches,beef roast sandwich sub; beef gyro roast sandwich; beef provolone roast sub; beef roast sandwich slider; beef jalapeno roast sandwich slider; beef hot roast sandwich; beef original roast sandwich; beef melt roast sandwich
+N76134,2,40,brisket barbecue dishes,brisket chili frito pie stack; brisket burnt ends plate; brisket plate smoked; brisket scramble; bowl brisket cheese egg; beef brisket plate; brisket plate sliced; bbq beef plate
+N77169,2,220,burger varieties,burger classic; burger chili; beef cheddar classic; beef cheddar pound; burger cheeseburger pound quarter; burger mushroom; bacon burger cheddar; burger jack texas
+N73523,2,17,beef stew dishes,carne guisada plate; guisada plate; meat stew taco; alicha beef; carne con guisada huevos; breakfast carne guisada taco; beef carne gravy guisada taco; beef rice stew white
+N74192,2,5,beef tendon dishes,beef tendon; beef spicy tendon; beef mala tendon; beef marinaerd tendon; beef skewer tendon
+N77451,2,109,beef vegetable dishes,beef peas snow; beef oyster sauce; beans beef string; bean beef black sauce; beef chinese vegetable; bean beef green; beef cha sha; beef sandwich
+N74783,2,6,beef intestine dishes,beef intestine; beef intestine taco; beef daechang grilled gui intestine; beef intestine marinated; gopchang; beef hot intestine pot
+N75671,2,52,beef stew dishes,birria taco; carne guisada taco; beef chilada platter; birria crunchy taco; birria burrito; birria quesa taco; birria plate; burrito carne guisada
+N76160,2,15,lamb shank dishes,lamb shank; braised lamb shank; lamb platter shank; biryani lamb shank; lamb nihari shank; baghali lamb polo shank; broiled lamb shank; borrego chamorro de
+N77032,2,47,beef dishes,beef curry; beef curry onion; beef kebab; awaze tibs; besiga gomen; goden tibs; beef tikka; beef curry karahi
+N77517,2,54,tripe dishes,taco tripa; taco tripitas; torta tripa; quesadilla tripa; tripa; dulet; burrito tripas; beef taco tripe
+N75373,2,11,suadero dishes,suadero taco; quesadilla suadero; de suadero taco; suadero torta; burrito suadero; gringa suadero; de suadero torta; de sope suadero
+N77227,2,22,beef head tacos,cabeza taco; cachete taco; beef head; beef cheek taco; beef gordita head; cabeza; cabeza de quesadilla; barbacoa plate street taco
+N72258,2,8,bison dishes,bison burger; bison burger organic pesto; bbq bison meatloaf; bison burger chipotle; bbq bison burger; bison meatloaf; bison sandwich slider; bison burger house social
+N77038,2,39,fried steak dishes,chicken fried steak; country fried steak; country eggs fried steak; chicken eggs fried steak; chicken fried plate steak; biscuit country fried steak; chicken fried luann steak; benedict chicken fried steak
+N75769,2,13,oxtail dishes,oxtail stew; braised oxtails; oxtail plate; oxtails smothered; oxtail roti; oxtail pasta rasta; ox tails; baked ox tongue
+N77518,2,57,beef soup dishes,birria; de res sopa; french onion soup; birria de res; bbq beef hawaiian; beef boiled hot sauce; beef noodle pasta soup szechuan; beef clay pot
+N77203,2,71,lamb meat dishes,kabob kafta; burger lamb; burger gyro; kebab kofta sandwich; burger gyro sandwich; burger greek lamb; iskender kebab; lahmacun pizza
+N77434,2,110,beef dishes,beef broccoli; beef teriyaki; beef mixed vegetables; beef sesame; beef vegetables; beef fajita quesadilla; beef scallops; beef korean noodles pasta spicy
+N77399,2,14,beef broccoli dishes,beef broccoli gf; beef boiled spicy; beef broccoli lunch; beef broccoli entree; beef broccoli garlic sauce; beef hunan shredded style; broccoli steak; beef sauce simmered spicy
+N77295,2,48,shredded beef dishes,barbacoa; beef chopped sandwich; barbacoa lb; beef shredded; beef garlic sauce shredded; cooked pot roast slow; barbecue taco; fork pot roast tender
+N77129,2,32,Mexican meat snacks,de gorditas picadillo; beef sope; lengua sope; beef gordita tongue; asada carne sope; de gorditas lengua; huaraches lengua; asada de sope
+N73273,2,6,beef medallion dishes,beef crusted gorgonzola medallions pasta; filet medallions; medallions tenderloin; filet medallions steak; beef medallions porto; beef madeira medallions
+N76742,2,48,ground beef dishes,burger greek; kafta sandwich; kafta wrap; beef kabob roll seekh; beef kabab kofta; meatball panini sandwich; bun kabab; hummus meat
+N77444,2,29,plant-based meat dishes,beyond bowl cabana meat; beyond meat shell soft taco; beyond crispy meat shell taco; beast burger impossible style; beyond taco; beyond guacamole taco; beyond burrito cali epic; beyond burrito epic loaded queso
+N77448,2,43,corn based dishes,corn quesadilla; esquite; corn nuggets; elote en vaso; corn salad; atol de elote; con crema de elote tamales; cup elote tostitos
+N70201,2,7,lamb rack dishes,lamb rack; chop lamb masala rack; grilled lamb rack; lamb rack steak; frenched lamb rack; australian lamb rack steak; jerk lamb rack
+N77211,2,75,cheese bacon pizza,blt pizza; fig pizza prosciutto; mulberry pizza; cheese garlic pizza; bacon curds pizza wisconsin; cheese goat pizza; breakfast pizza; carbonara pizza
+N77002,2,24,cheese steak sandwiches,cheese steak wrap; cheese firehouse steak sub; bread cheesesteak chipotle crunch sub sunflower; cheese panini sandwich steak; bistec con pan sandwich; philly taco; cheese pizza steak sub; bacon cheese steak sub
+N75839,2,9,ham steak dishes,ham steak; eggs ham steak; grilled ham; bone ham steak; grilled ham steak; eggs ham steak two; eggs ham plate steak; center cut ham steak
+N76279,2,16,lamb kebab dishes,kebab lamb; chenjeh kabob; boti kebab; kebab lamb plate; lamb leg; kebab lamb wrap; lamb tandoori; lega tibs yebeg
+N76960,2,34,beef dishes,cali fresh steak wrap; eggs steak; avocado bowl cali fresh sliced steak; grilled steak; beef pasta; bites steak; mushrooms steak; beef charbroiled
+N77335,2,61,beef shawarma dishes,beef sandwich shawarma; beef shawarma wrap; beef gyro sandwich; beef gyro platter; beef gyro lamb sandwich; beef lamb sandwich shawarma; arabi beef shawarma; beef lamb plate shawarma
+N77407,2,74,steak and meat pizzas,philly pizza; pizza steak sub; meatball pizza signature; calzone steak stromboli; cheese pizza steak; calzone steak; calzone meat stromboli; pizza stuffed
+N77468,2,48,mexican beef dishes,machacado taco; burrito machaca; barbacoa quesadilla; breakfast burrito machaca; burrito cabeza; birria de quesadilla; barbacoa huevos rancheros; carne la mexicana taco
+N77489,2,92,brisket dishes,brisket smokehouse; brisket plate; beef brisket; brisket sandwich sliced; bbq beef sandwich; brisket classic sandwich; brisket burger smokehouse; brisket chicken fried
+N75293,2,67,nachos dishes,nachos; bellgrande nachos; nachos supreme; loaded nachos; beef ground nachos; nachos super; beef nachos; beef chips ground queso seasoned
+N75137,2,23,corned beef hash dishes,beef corned eggs hash; beef corned hash; beef breakfast corned eggs hash; beef cheese corned sandwich; beef corned hash skillet; beef corned eggs hash two; beef corned hash homemade; beef corned hash omelet
+N77350,2,41,flatbread pizza varieties,flatbread pepperoni pizza; flatbread pepperoni pizza sausage; melt pepperoni; extreme flatbread pepperoni pizza; mushroom portobello sandwich; pizza puff; roll sushi zucchini; pizza portobello
+N75968,2,58,meat and cheese pizzas,bacon cheeseburger pizza; calzone meat; meatball pizza; calzone meatball; lasagna pizza; cheeseburger pizza; bacon cheeseburger jalapeno pizza; bacon burger pizza
+N77031,2,59,shredded beef dishes,beef enchiladas; beef bowl burrito shredded spicy; beef burrito shredded; beef enchilada shredded; beef chimichanga; beef burrito del; beef chimichanga shredded; carne de deshebrada enmoladas
+N77022,2,34,grilled meat dishes,eater meat pizza; fajita parrillada; for parrillada two; familiar parrillada; fajita mixta parilla; la parrillada; parrillada tapatia; la parrilla steak
+N77497,2,52,beef dishes,beef chop suey; beef plate shawarma; beef chicken gyro platter; beef wrap; de milanesa res torta; beef salad shawarma; beef kabab roll; beef breaded torta
+N75046,2,114,salmon dishes,grilled salmon; ancho salmon; cherry chipotle enlightened glazed salmon; blackened cajun salmon; cedar planked salmon; filet salmon; glazed miso salmon; blackened salmon
+N75004,2,22,Mexican street corn dishes,corn elote street; elote entero; corn pizza street; cob corn fresh; cob corn grilled mexican taco; corn mexican roasted taco; elote pizza; corn mexican street
+N75473,2,11,alligator dishes,boy gator po; fried gator; blackened gator wrap; boy gator poor spicy; basket gator; fried gator waffle; gator taco; alligator fried platter
+N76437,2,63,barbacoa and birria dishes,barbacoa taco; barbacoa plate; barbacoa burrito; beef shredded taco; carnitas de res; birria ramen; barbacoa beef taco; quesabirria quesadilla
+N77186,2,255,pepperoni pizza dishes,pepperoni pizza; lover pepperoni pizza; calzone stromboli; magnifico pepperoni pizza; big cheese pizza; classic pepperoni pizza; calzone pepperoni; classic pizza
+N76418,2,28,meatball sandwich varieties,marinara meatball sandwich sub; marinara meatball melt sandwich; meatball sub; meatball parmigiana sub; meatball parmesan sub; cheese meatball sub; italian meatball sandwich; hot meatball sub
+N74126,2,6,ostrich dishes,curry malaysian ostrich red; curry green ostrich thai; mixed ostrich vegetables; basil fried leaves ostrich stir; mongolian ostrich; kung ostrich pao
+N75920,2,17,beef dumplings rolls,beef gyoza; beef dumplings; beef dumplings fried gyoza pan; beef chinese dumplings green onion; beef egg roll; beef dumpling steamed; bbq broccoli carrots korean meatballs sesame; beef egg roll teriyaki
+N76806,2,50,spicy lamb dishes,cumin lamb; lamb mongolian; lamb over rice; lamb tikka; fried lamb stir; kung lamb pao; hunan lamb; boti kabob lamb
+N74750,2,18,machacado egg dishes,egg machacado taco; con huevos machaca; egg machacado plate; egg machacado; con huevo machacado taco; la machacado mexicana; con huevo machacado plate; burrito egg machaca
+N77163,2,229,chicken pizza varieties,buffalo chicken pizza; bbq chicken pizza; chicken hawaiian pizza; backyard bbq chicken pizza; bacon chicken pizza ranch; alfredo chicken pizza; artichoke bacon chicken pizza; chicken pesto pizza
+N76124,2,29,grilled steak dishes,asada carne steak; asada carne cilantro lime; mexicano steak; asada bowl carne; steak tampique; asada steak; bistec de espadas; churrasco steak
+N77182,2,61,brisket dishes,brisket taco; beef brisket cheddar smokehouse sub; brisket street taco wrap; brisket cheese egg taco; brisket cheese taco; brisket burrito shredded; brisket quesadilla shredded; brisket shredded taco
+N76638,2,203,pizza varieties,greek pizza; deluxe pizza; mediterranean pizza; chicken garlic pizza; chicken herb mediterranean pizza; chicken fajita pizza; pizza roma; bj favorite pizza
+N77493,2,56,salmon seafood dishes,salmon teriyaki; grilled platter salmon shrimp; curry salmon; bowl salmon teriyaki; bowl salmon sesame soy; bento salmon teriyaki; boat love sushi; salmon shrimp stacked
+N76542,2,33,salmon dishes,grilled plate salmon; lover salmon sushi; lover salmon; king ora salmon; bowl kailani; croquette salmon; atlantic north salmon; blue fish trio
+N76984,2,14,steak tip dishes,tip tri wedge; roasted slow steak tip tri; bbq sliders tip tri; bowl cauliflower power quinoa tip tri; dip sandwich tip tri; steak tip tri; bowl madeira tip tri; chicken hibachi tip tri
+N73561,2,21,Philly cheesesteak pizza,philly pizza steak; cheese philly pizza steak; crispy philly pizza thin; cheesesteak pizza; calzone cheesesteak philly stromboli; calzone philly steak stromboli; cheese philly pizza; calzone cheesesteak
+N76944,2,29,beef and bison dishes,bacon huevos rancheros; beans beef enchiladas rice; beef chicken or taco; beef curried; bistec con tallarines verdes; anticuchos; bison bowl onions peppers quinoa; beef korma shahi
+N74480,2,14,beef curry dishes,beef curry nihari; beef nihari; curry nihari; nalli nihari; beef paya; maghaz nihari; beef marinated shank; curry delhi nihari
+N76877,2,19,pork pizza dishes,bbq piggy pizza spicy; pig pizza sweet; pig pizza shareable sweet; bbq pizza pork pulled; pizza pork pulled; calabria pizza; meatball pork sandwich; bbq giant pizza pork
+N75368,2,31,gluten-free pizza varieties,free gluten pizza; bbq chicken free gluten original pizza; bbq chicken free gluten pizza; all free gluten meat pizza; aloha free gluten hawaiian pizza; crust free gluten pizza; american free gluten pizza special; free gluten gourmet pizza white
+N76762,2,15,wagyu beef dishes,bacon cheeseburger wagyu; burger wagyu; beef roast wagyu; cheese steak wagyu; chx frd steak wagyu; cheeseburger wagyu; american cheese steak wagyu; burger umami wagyu
+N77065,2,33,fish dishes,fabulous fish fry; pla prik rad; crab fish stuffed; diabla la pescado; cajun fish; fillet fish veracruzana; la parrilla pescado; fish josh rogan
+N76980,2,62,spicy seafood dishes,fish masala; fish sour sweet; fish pepper salt; filete la veracruzana; chili fish; de diabla filete la pescado; la pescado veracruzana; fish szechuan
+N76897,2,60,fish dishes,fish masala tikka; fish tikka; fillet fish sour sweet; curry fish masala; fillet fish fried stir; fish tandoori tikka; fish salad; fillet fish mixed vegetables
+N77288,2,52,salmon dishes,atlantic grilled salmon; alaska salmon wild; pan salmon seared; la parrilla salmon; grilled mesquite salmon wood; atlantic fire grilled salmon; platter salmon; fresh grilled norwegian salmon
+N76327,2,35,fried fish dishes,fish fried; frito pescado; de empanizado filete pescado; empanizado pescado; fish southern style white; acapulco fish taco; catch fish fried; fish krispy
+N77122,2,90,tilapia dishes,sandwich tilapia; shrimp tilapia; basket fried tilapia; taco tilapia; fe santa tilapia; boy po tilapia; diabla la tilapia; tilapia veracruz
+N76380,2,18,salmon pasta dishes,pasta pesto salmon; fettuccine pasta salmon; pasta salmon; pesto salmon; pasta rasta salmon; livornese salmon; al pasta penne salmone; fettuccine salmon
+N73779,2,14,ceviche dishes,ceviche fish; bowl ceviche; ceviche peruvian; ceviche clasico; ceviche mixed; ceviche taco; ceviche mango tacos; ceviche mitotero
+N73946,2,27,shrimp pizza varieties,alfredo pizza shrimp; pizza scampi shrimp; pizza shrimp; pizza seafood; alfredo pizza seafood; artichoke pizza shrimp; orleans pizza shrimp; pesto pizza shrimp
+N76607,2,41,gluten-free pizza varieties,cheese free gluten pizza; extreme free gluten pepperoni; free gluten margherita pizza; gf margherita pizza; free gluten pizza veggie; free gluten lovers meat pizza; arugul free gluten pizza prosciutto; bufalina gf pizza
+N77477,2,67,fish sandwiches,fish sandwich; catfish sandwich; fish fried sandwich; basket catfish fried; burger fish; boy catfish fried po sandwich; big fish sandwich; crispy fish
+N77229,2,55,tilapia dishes,grilled tilapia; fried tilapia; blackened tilapia; fillet tilapia; blackened light tilapia; fillet grilled tilapia; baked tilapia; fish fried tilapia
+N77520,2,75,catfish dishes,catfish fried; catfish fillets; blackened catfish; catfish nuggets; catfish fried plate; catfish grilled; cajun catfish; alabama catfish farm raised
+N77491,2,52,spicy fish dishes,fish hot pot; boiled fish spicy; boiled fish spicy szechuan; boiled fish hot; fish fried tofu; mushroom risotto salmon; fish sauerkraut; boiled fillet fish water
+N77019,2,55,salmon dishes,salmon taco; bowl cauliflower power quinoa salmon; bowl cauliflower salmon; salmon wrap; bowl grilled salmon; chimichurri lunch salad salmon; salmon tower; poke salmon taco
+N75944,2,11,grouper dishes,fried grouper poorboy; grilled grouper; grouper sandwich; fried grouper sandwich; fillets grouper; bites grouper; grouper key taco west; fish grilled grouper taco
+N77023,2,22,halibut dishes,fish halibut sandwich; alaskan halibut; crusted halibut parmesan; burger halibut; crab dungeness for halibut just stuffed; halibut macadamia; caper halibut lemon; grilled halibut
+N77494,2,27,sea bass dishes,bass sea sushi; bass pan sea seared; bass sea; bass crusted garlic sea; bass striped; australian bass sea; bass black; bass miso sea
+N76162,2,36,beef tenderloin dishes,sandwich steak tenderloin; barg kabob; beef sandwich tender; chateaubriand hibachi steak; sandwich tenderloin; beef grilled gyro tender; lomito sandwich; beef kabob tenderloin
+N77470,2,30,cod dishes,arctic chips cod fish; cod sandwich; cod fried sandwich; cod fish sandwich; baja cod fish tacos; burger cod fish; cod crispy sandwich; alaskan chips cod
+N77260,2,42,cheesy Mexican dishes,cheese quesadilla; cheese nachos; quesadilla spinach; mushroom quesadilla; grilled quesadilla veggie; cheese enchiladas onion; mushroom quesadilla spinach; chipotle chips queso
+N77505,2,26,fish fillet dishes,sandwich walleye; fried pan walleye; mojarras; diabla la mojarra to; escolar; de dorado filete; beef black fillet pepper sauce sizzling; fillet pepper salt sole
+N77275,2,58,fish fillet dishes,fillet fish; fish grilled; fish fried southern; fish fry; fillet fish grilled; fillet fish fried; perch sandwich; breaded fillet fish
+N77143,2,21,fish and chips dishes,chips fish; battered chips fish hand; battered beer chips fish; chips fish taco; chips fish sandwich; chips crispy fish; basket chips fish; chips deep fish fried
+N76741,2,42,smoked brisket dishes,brisket burger smoked; brisket sandwich smoked; bbq brisket burger; brisket sandwich; brisket chopped sandwich; brisket classic plate sandwich; brisket cheese classic sandwich; brisket cheese grilled sandwich
+N72726,2,29,paneer pizza variations,paneer pizza; paneer pizza tikka; paneer pizza shahi twist; paneer pizza tandoori twist; achari paneer pizza twist; masala pizza tikka twist veggie; masala paneer pizza tikka twist; palak panner pizza twist
+N74579,2,44,creamy chicken pizza dishes,carbonara chicken pizza; alfredo pizza special; chicken creamy garlic pizza; alfredo calzone chicken; butter chicken halal pizza twist; alfredo chicken pizza special; chicken malai pizza; chicken piccata pizza
+N74832,2,18,birria fusion dishes,birria quesadilla; quesabirria taco; birria de mulita; birria de gordita; birria gordita; birria sope; birria cheese grilled; birria enchiladas
+N77261,2,7,fish and vegetable dishes,hirame sushi; ceviche hirame style; hirame sashimi; fry tindora; amber jack sushi; amberjack sushi; masala tindora
+N77025,2,36,breakfast egg wraps,bacon cheese egg wrap; cheese egg wrap; breakfast burrito supersonic; cheese egg taco; bacon cheese egg taco; breakfast quesadilla; bacon burrito; burrito cheese egg
+N76353,2,15,fried whiting dishes,fish whiting; fish fried whiting; fried southern wings; platter whiting; basket whiting; basket fish fried whiting; fish sub whiting; sub whiting
+N74087,2,9,egg salad sandwiches,egg salad sandwich; egg fresh salad; egg salad sammy; egg salad wrap; cold egg salad sandwich; breakfast egg ham sandwich; american egg salad sandwich; egg lettucewich salad
+N77449,2,120,cheese pizza varieties,cheese pizza; margherita pizza; cheese pizza slice; pizza sicilian; cheese classic pizza; arugula pizza prosciutto; cheese pizza plain; classic margherita pizza
+N77223,2,33,cod dishes,battered beer cod; deep fish fried sauce sour sweet; cod fried; breaded cod; cod tandoori; black cod; cod fillet; blackened cod
+N76999,2,36,fish dishes,burrito fish; fish katsu; fish quesadilla; fish grilled plate shrimp; fish over rice; fajita fish; spicy tempura tuna; enchiladas pescado
+N76586,2,51,fish curry dishes,curry fish; fish vindaloo; curry fish goan; curry fish malabar; fish island white; coconut fish korma; fish madras; curry fish mango
+N75385,2,70,hawaiian pizza variations,hawaiian pizza; calzone hawaiian; capricciosa pizza; calzone ham; hawaiian hot pizza; calzone cheese ham; deluxe hawaiian pizza; gourmet hawaiian pizza
+N76516,2,43,fish seafood dishes,fish shrimp; fish platter shrimp; de filete pescado; fish platter; basket fish; chips fish shiner; baked fish plate; fish goulash
+N76976,2,24,flounder dishes,fish flounder sandwich spicy; classic fish flounder sandwich; flounder lobster stuffed topped; filet flounder; boy flounder po sub; flounder sandwich; flounder fried; flounder sushi
+N76932,2,25,rainbow trout dishes,grilled lemon pepper rainbow trout; crusted parmesan rainbow trout; grilled rainbow trout; almondine trout; blackened rainbow trout; pan seared trout; crispy trout; amandine trout
+N76637,2,63,fish tacos,fish taco; blackened fish taco; fish grilled taco; fish plate taco; dos fish taco xx; fish pacific platter tacos; catfish taco; baja fish style taco
+N77456,2,59,red snapper dishes,fillet grilled red snapper; frito huachinango; fillet red snapper; diabla huachinango la; fried red snapper; lunch red snapper taco; escovitch fish; huachinango
+N75981,2,10,mackerel dishes,grilled japanese mackerel style; mackerel saba sushi; grilled mackerel pike; atka grilled mackerel; grilled mackeral; dressing fried mackerel; aji fry; mackerel spanish
+N74507,2,10,redfish dishes,blackened redfish; grilled redfish; redfish texas; blackened fish red; baked oven redfish; grilled redfish texas; blackened redfish texas; redfish stuffed
+N74056,2,9,Chilean sea bass dishes,bass chilean sea; bass chilean oolong sea; bass chilean miso sake sea; bass chilean miso sea; bass chilean glazed miso sea; bass chilean glazed miso sea steak; bass chilean sea seared; bass chilean hibachi sea
+N76909,2,21,ham and egg dishes,egg ham plate; ham sandwich smoked; ham scrambler; eggs ham minced scrambled; ham smoked; diced eggs ham scrambled; ham hash; cut eggs ham premium
+N77519,2,39,egg dishes green sauce,egg foo vegetable young; egg foo pork roast young; egg foo house special young; egg foo young; combination egg foo young; egg foo mushroom young; egg foo house young; pizza verde
+N77414,2,58,bacon egg dishes,bacon omelette temptation; bacon eggs; lovers meat omelet; con huevos tocino; bacon cheese omelette; cheese omelette sausage; bacon omelette; lover meat omelet
+N77124,2,38,cheesy dishes,cheese pizza serious; cheese doritos nacho; cheese pizza traditional; cheese four pizza; chili con queso; cheese free gluten pizza traditional; cheese pizza say; cheese sub vegetarian
+N77319,2,114,cheese pizza varieties,pizza white; calzone cheese; bianca pizza; calzone spinach; great pizza white; formaggi pizza quattro; cheezy crust original pizza white; artichoke pizza spinach
+N76404,2,52,mexican egg dishes,huevos la mexicana; migas; migas plate; chilaquiles con huevo; huevos revueltos; eggs mexican style; con huevo migas; huevos mexicanos
+N76565,2,67,breakfast burrito variations,breakfast burrito; bacon breakfast burrito; breakfast burrito lovers meat; egg potato taco; breakfast burrito cheese meat ultimate; bacon breakfast burrito cheese egg; bowl breakfast burrito country; cheese egg potatoes taco
+N77501,2,17,lamb and pork dishes,lamb sandwich; hsiang pork yu; bbq chow fun pork; gyro lamb pizza; cumin fried lamb stir; bowl korean pork spicy; doner lamb wrap; doner iskender lamb
+N76780,2,30,egg bread dishes,french toast; french sticks toast; cinnamon french toast; yolkwich; cheese chorizo egg sandwich; egg sandwich spam; ajo con pan; pate sandwich
+N74843,2,43,ham and egg dishes,cheese ham omelet; omelette western; denver omelette; con huevos jamon; ham omelette; omelette ultimate; denver high mile omelette; egg foo ham young
+N76857,2,60,egg tomato dishes,omelette poblano spicy; curry egg; egg masala; huevo la mexicana taco; curry egg masala; eggs scrambled tomato; eggs la mexicana; egg fried stir tomato
+N76760,2,18,breakfast hash dishes,bacon breakfast platter sausage; breakfast platter sausage; bacon breakfast platter; brown burrito hash scramble; bowl brown hash scramble; casserole hashbrown loaded; breakfast hardee platter; bacon breakfast brown burrito hash toasted
+N77411,2,26,breakfast sausage sandwiches,biscuit cheese egg sausage; breakfast jack sausage; biscuit sausage; biscuit egg sausage; breakfast sausage toaster; cheese egg muffin sausage; cheese egg sandwich sausage; cheese classic egg sandwich sausage
+N76935,2,84,french toast varieties,banana french strawberry toast; french original our toast; blueberry french fresh toast; french platter toast; classic french toast; french strawberry toast; french slam toast; french stuffed toast
+N76624,2,41,breakfast egg sandwiches,breakfast loaded sandwich; bacon breakfast toaster; bacon breakfast cheesy egg melt; egg sandwich; bacon cheese classic egg sandwich; egg fried sandwich; breakfast feast sandwich; bacon egg sandwich
+N76408,2,75,chicken pizza varieties,calzone chicken; chicken parmesan pizza; bbq calzone chicken; chicken pizza tikka; chicken pizza supreme; calzone chicken stromboli; butter chicken pizza; bowl philly pizza
+N77440,2,28,mahi mahi dishes,grilled mahi taco; mahi taco; burrito grilled mahi; burrito mahi tempura; mahi taco tempura; citrus heat mahi taco; bowl burrito grilled mahi; grilled mahi simply
+N76888,2,20,biscuit gravy dishes,biscuit gravy sausage; biscuit gravy sandwich southern; biscuit country or platter sausage smothered southern turkey; biscuit gravy platter; biscuit blt; biscuit eggs gravy; biscuits breakfast gravy; biscuit gravy sandwich
+N75215,2,12,egg white dishes,egg scrambled whites; egg omelette white; egg protein scramble veggie white; egg omelette veggie white; egg omelette vegetarian white; egg frittata white; egg plate spinach white; burrito egg sausage size turkey white
+N77380,2,176,veggie pizza dishes,pizza veggie; lover pizza veggie; pizza vegetarian; garden pizza; calzone veggie; pizza spinach; pizza vegetable; classic pizza veggie
+N75536,2,26,breakfast egg sandwiches,bacon breakfast jack; benedict eggs; bacon cheese egg muffin; benedict classic eggs; breakfast classic sandwich; breakfast bun; benedict classic; benedict traditional
+N77052,2,24,bacon dishes,bacon hickory smoked strips; bacon strips turkey; baconator breakfast; bacon canadian eggs; bacon burger swiss; bacon cheese krystal; bacon bleu; bacon dates wrapped
+N76858,2,15,breakfast biscuit sandwiches,bacon biscuit cheese egg; biscuit cheese egg; biscuit cheese egg ham; bacon biscuit egg; biscuit egg ham; bacon biscuit cheese egg sandwich; biscuit fully loaded; biscuit cheese sausage
+N76973,2,34,grilled cheese sandwiches,cheese grilled sandwich; cheese melt sandwich; burger cheese grilled; cheese grilled grown up; cheese deluxe grilled; cheese pimento sandwich; cheese panini; adult cheese grilled
+N76448,2,18,snapper seafood dishes,snapper veracruz; japanese snapper sushi; snapper steamed; brown snapper stew; gulf snapper texas; grilled snapper; blackened snapper; shrimp snapper
+N77301,2,42,spinach egg dishes,mushroom omelette spinach; greek omelette; omelette spinach; california omelet; feta omelette spinach; cheese omelette spinach; baby cremini feta mushroom omelette spinach; california scramble
+N77221,2,28,breakfast egg dishes,breakfast sandwich ultimate; breakfast sandwich; benedict salmon smoked; benedict eggs florentine; avocado benedict; benedict california eggs; benny salmon smoked; benedict ham
+N77514,2,37,cheese dishes,artichoke dip spinach; cheese chive cream onion; cheese cream honey tub walnut; cheese chive cream onion tub; cheese cream plain spread tub; cheese wontons; cheese pizza six tuscan; cheese pimento spread tub
+N77360,2,21,cold cut sandwiches,deli sandwich turkey; bologna sandwich; club ham sandwich turkey; bologna hot sandwich; bologna sandwich smoked; bologna cheese sandwich; bologna cheese egg sandwich; chips drink natural sandwich sausage sliced
+N77008,2,23,ham cheese sandwiches,cheese club ham sandwich; cheese grilled ham hot sandwich; egg sandwich scrapple; ham sandwich slider; ham hot sandwich; ham sandwich stacked; sandwich texas toast; cheese ham only sandwich turkey
+N77383,2,71,cheesy potato snacks,cheese chips nacho sauce; bacon potato taco; cheese chips nacho; loaded pizza tot zza; basket finger steak; blue cheese chips potato; torta vegetarian; hot potato shredded sour
+N77196,2,76,ham cheese sandwiches,cheese ham melt sandwich; cheese ham sub; ham provolone sub; ham sandwich; ham torta; cheese ham hot sandwich; ham sandwich swiss; cheddar ham pizza zesty
+N77021,2,34,ham egg wraps,black cheese egg forest ham wrap; egg ham taco; burrito egg ham; breakfast burrito ham; burrito ham; ham taco; ham swiss wrap; ham wrap
+N77193,2,10,eel dishes,sushi unagi; unagi; eel sea sushi; bbq eel roll; bbq eel roll sushi; asparagus eel roll; crunchy eel; eel grilled
+N74991,2,9,branzino dishes,branzino grilled; branzino filet; branzino mediterranean; al branzino forno; branzino pan pasta roasted; branzino pan seared; branzino canary island; arroz branzino clam
+N77099,2,17,lamb skewer dishes,boti kebab lamb; kebab lamb shish; kabob lamb shish; lamb skewer; curry jalfrezi lamb; lamb sekuwa; kabob lamb skewer; awaze lamb tibs
+N77323,2,17,fried cheese snacks,cheese cheetos crunchy; bites cheddar fried white; cheese curds; cheese fried; bites cheese mozzarella; cheese curds fried; fried mozzarella; cheese stick
+N76841,2,53,ceviche dishes,ceviche de tostada; ceviche; ceviche de pescado; ceviche tostada; ceviche lunch tostadas; cancun pescado; ceviche fish tostada; ceviche chimichurri lunch salad
+N77283,2,87,cheesy mac dishes,cheese grilled mac sandwich; cheese macaroni; cheese mac; cheese mac pizza; cheese mac platter steakhouse; cheese mac wisconsin; bacon cheese mac; bites cheese mac
+N75236,2,8,haddock dishes,haddock sandwich; baked haddock; fried haddock sandwich; basket fish haddock; burger haddock; broiled haddock; boy haddock po sub; fish haddock sandwich
+N76293,2,34,seafood mixed dishes,catfish shrimp; lo macho pescado; camarones con pescado; redfish shrimp; de filete mariscos relleno; del mar pizza; azteca pescado; fish grilled shrimp skewer white
+N77527,2,131,salmon dishes,kabob salmon; burger salmon; salmon tandoori; caesar classic grilled salad salmon; blt salmon sandwich; baked roll salmon; salmon sandwich; bbq honey salmon
+N77244,2,32,sweet and savory waffles,strawberry waffle; berry very waffle; nutella strawberry waffle; platter waffle; fruit waffle; bacon golden or sausage waffle; banana strawberry waffle; nutella waffle
+N77225,2,193,meat lovers pizza,pizza supreme; lovers meat pizza; meat pizza; all meat pizza; chicago pizza stuffed style; pizza sausage; calzone lovers meat; meat pizza stuffed
+N77325,2,31,Mexican bean dishes,mexican pizza veggie; bean chalupa cheese; bean tostada; bean cheese tostada; tostada veggie; baleada sencilla; baleada; bean cheese gordita
+N77356,2,73,bacon lettuce tomato dishes,blt sandwich; bacon burger buttery jack swiss; avocado blt sandwich; blt classic sandwich; bacon lettuce sandwich tomato; blt wrap; blt ultimate; bacon cheese grilled sandwich
+N76733,2,25,sweet potato dishes,potato roll sweet; baked loaded potato sweet; gff pancakes potato sweet; potato smash sweet up veggie; bacon potato smash sweet up; pie potato sweet; casserole potato sweet; bowl coconut curry potato sweet
+N77081,2,43,cheesy meat nachos,bean cheese nachos; fajita nachos steak; nachos steak; bean nachos; asada carne nachos; grilled nachos steak; nachos vegetarian; bean cheese guacamole nachos
+N76392,2,27,Cuban sandwiches,cubano; cubano el sandwich; char cubano; cubano pork sandwich smoked; burrito cuban; havana sandwich; medianoche sandwich; cuban press sandwich
+N77224,2,44,beef tongue dishes,lengua taco; burrito lengua; lengua quesadilla; guisada lengua; en lengua salsa verde; gordita lengua; de lengua plato; entomatada lengua
+N76690,2,21,beans chorizo dishes,charros frijoles; bacon beans chorizo egg taco; beans chorizo; con frijoles queso taco; bean jalapeno; frijoles refritos; beans charro taco; chorizo con frijoles
+N76453,2,23,mushroom dishes,burger ed saut shroom; fried mushrooms; ed mushrooms saut; mushroom sauteed; mushroom oyster sauce; apple cinnamon mush; champinones taco; hongos taco
+N75539,2,5,bean sprouts dishes,bean fried sprouts stir; bean sauteed sprouts; bean ed saut sprouts; barbecued bean pork sprouts; bean garlic sauce seaweed sprouts vinegar
+N70725,2,16,string bean dishes,bean sauteed string; bean dried sauteed string; beans dry sauteed string; bean fried stir string; beans cooked dry string; beans steamed string; beans sauteed string style szechuan; beans dry fried string
+N76332,2,10,portabella mushroom dishes,grilled mushroom portabella sub swiss; char portabella; burrito portabella rajas; burger portabella; pizza portabella; grilled mushroom portabella sandwich; fried mushrooms portabella; portabella sandwich wrap
+N76423,2,27,plantain-based dishes,con pollo tajadas; de mofongo pollo relleno; patacon; jibarito sandwich; de empanadas pl tano; canasta de tostones; bifongo de pollo relleno; burger patacon
+N76400,2,31,bacon breakfast dishes,bacon burger rancher; bacon egg plate; chowder soup white; breakfast skillet; bacon egg potato taco; bacon bowl cheese egg; bacon cheese sandwich; bacon breakfast sandwich
+N77438,2,27,noodle soups pasta dishes,noodle pasta rama; soup thai wonton; soup wonton; ramen tonkotsu; ramen shio; arroz la mexicana; ramen vegetable; bowl brodo tortellini
+N77417,2,47,cauliflower-based dishes,barbacoa cauliflower enlightened pita tacos; cauliflower taco; cauliflower crust pizza traditional; cauliflower dry pot; cauliflower roasted; cauliflower steak; gobi masala; buffalo cauliflower
+N76702,2,14,loaded baked potatoes,baked pork potato; baked bbq potato; baked brisket potato; brisket potato stuffed; baked brisket natural potato sliced; baked breast natural potato smoked turkey; baked potato shrimp; baked loaded pizza potato
+N77316,2,41,grilled cheese sandwiches,cheese classic grilled sandwich; cheese crusted four melt sandwich; cheese sandwich veggie; cheese grilled sandwich ultimate; cheddar roasted sandwich tomato; blt cheese pimento; cheese grilled sandwich steak; cheese gourmet grilled sub
+N77402,2,14,bean and pork dishes,baked beans; bacon baked beans; beanburger burger; bean green minced pork; bacon beans; bean dry fried green minced pork; bean fried green ground pork; beans sichuan string
+N77089,2,20,fresh green salads,garden salad; fresh garden pizza; pecan salad strawberry; basil pesto salade tomato; green mixed salad; fresh garden salad; apple pecan salad; berry fresh salad
+N77201,2,21,salad dishes,caesar classic salad seasoned shrimp; goddess green salad; salad wedge; salad tossed; benihana salad; fattoush salad; lettuce oyster sauce; fattoush
+N77426,2,39,plantain based dishes,mofongo; camarones de mofongo relleno; carne de frita mofongo relleno; frito platano; patacones; carne con frita mofongo; mofongo pulpo relleno; de pana tostones
+N76642,2,46,vegetarian burrito dishes,bean burrito cheesy rice; burrito fiesta veggie; bean burrito; burrito veggie; bowl fajita vegan; burrito grilled veggie; bowl burrito vegetarian; burrito vegan
+N77485,2,18,gluten-free vegan dishes,free gluten pepperoni pizza; free gluten mushroom pepperoni pizza sausage; basket gardein meatless tender wings; beyond meatless tenders; sandwich sardine; papad roasted; beyond chicken meat tenders; gf pasta pesto pistachio
+N76529,2,20,vegetarian noodle soups,beef hot pot; pho vegetarian; pho vegan; pho veggie; creamy ramen spicy vegan; pho tofu; hot pot vegetable; noodle rice soup vegetarian
+N76892,2,17,bok choy mushroom dishes,baby bok choy garlic sauce; bok choy fried stir; bok choy mushroom; bok choy garlic sauce; baby bokchoy mushroom shiitake; black bok choy mushroom; bok choy mushroom winter; bok choy fried garlic stir
+N77498,2,73,vegetable curry dishes,curry vegetable; korma vegetable; curry mixed vegetable; country plate vegetable; curry mix veg; curry korma veg; vegetable vindaloo; creamy curry dumpling veggie
+N76919,2,7,pea snow dishes,fried peas snow stir; mushrooms peas snow; garlic peas snow; garlic leaves pea sauce snow; ed peas saut snow; fried leaves pea snow stir; beef pea sauteed snow
+N75036,2,11,tomato soup dishes,cheese classic creamy grilled soup tomato; creamy sandwich soup tomato tuna; basil creamy soup tomato; cheese grilled sandwich soup tomato; bowl creamy soup tomato; bowl creamy cup soup tomato; bisque cheese grilled tomato; bisque bowl farmhouse gf tomato
+N76815,2,47,vegetarian mexican bean dishes,bean cheese taco; bean burrito cheese; quesadilla veggie; enchiladas veggie; bacon bean taco; burrito chimichanga veggie; bean cheese quesadilla; bean burrito crisp pinto
+N77290,2,78,potato dishes,browns hash; cheesy fiesta potatoes; breakfast crispy potatoes; baked potato; baked loaded potato; loaded mashed platter potatoes; potato salad; spud veggie
+N75906,2,15,veggie burgers,burger veggie; burger vegan; burger vegetarian; burger cheeseburger vegetable; beet burger smashed veggie; beet burger gf smashed veggie; burger house veggie; burger egg vegetarian
+N77127,2,17,plant-based meat dishes,beef kabob; bowl fajita impossible; burrito fajita impossible; hibachi rice steak; beef kebab shish; carne pizza; breakfast burrito impossible; chicken kung pao vegetarian
+N77197,2,39,falafel dishes,falafel sandwich; falafel plate; bowl crispy falafel; falafel pita; burger falafel; falafel pita sandwich; falafel plate salad; arabi falafel
+N76138,2,19,broccoli dishes,broccoli garlic sauce; broccoli steamed; broccoli sauteed; broccoli oyster sauce; broccoli fried stir; broccoli ed saut; broccoli garlic sauce sauteed; broccoli peas snow
+N76286,2,10,hummus-based dishes,bread hummus pita; hummus spicy; beef hummus over; hummus lamb nuts pine; bi hummus tahina; chips homemade hummus pita; hummus sushi; hummus pita plate
+N76563,2,17,meat and cheese mac,brisket mac stack; burger cheeseburger mac; brisket mac; cheese mac meatball pasta; cheese chili mac; beef braised cheese mac; bowl cheese mac philly rib; greek lasagna pastitsio
+N77304,2,60,chickpea based dishes,chana masala; chana curry masala; chana saag; chickpea masala; bowl cauliflower falafel rice; chole masala; chole poori; chana curry saag
+N74854,2,11,kimchi dishes,kimchi; cabbage dry pot; kimchi taco; fr kimchee pasta; ichi sushi; house kimchi; bowl kimchi; cabbage gf kimchi napa
+N77073,2,50,veggie mexican dishes,bean black fajita veggie; taco veggie; grilled taco veggie; taco vegetarian; salad taco veggie; taco vegan; sandwich southwest veggie wrap; bean chalupa
+N77405,2,18,chickpea-based dishes,chana masala punjabi; chicken kothu parotta; bowl falafel rice; chickpea curry spiced; chickpeas masala savory; falafel platter rice; egg kothu parotta; garbanzo masala
+N77524,2,22,broccoli dishes,broccoli chinese oyster sauce; broccoli garlic hot sauce; broccoli casserole rice; broccoli phillipsburg salad; broccoli chinese garlic; broccoli chinese fried stir; broccoli cheese; broccoli chinese garlic sauce
+N77069,2,51,egg potato dishes,omelette spanish; con huevos papas; egg plate potato; de huevo torta; country omelet; cowboy omelet; farmer omelette; con huevo papa taco
+N77525,2,32,vegetarian chicken dishes,based bbq chicken pizza plant; chicken masala pizza tikka twist vegan; bean black chicken sauce veggie; chicken general tso vegetarian; cheese grilled melt vegan; chicken orange vegetarian; beans chicken string veggie; broccoli chicken vegetarian
+N75371,2,14,refreshing cucumber dishes,cucumber salad; cucumber feta salad; cucumber sushi; salad wakame; pepino roll; salad sunomono; cucumber feta free gluten salad; pepino preparado
+N75777,2,9,asparagus-based dishes,asparagus grilled; asparagus eggs grilled; omelette spring; asparagus sushi; asparagus bacon wrap; asparagus roll steamed; asparagus bearnaise grilled steak; asparagus basil fried stir
+N77428,2,68,stuffed pepper dishes,chile relleno; chile plate relleno; chile relleno taco; chile de queso relleno; burrito chile de relleno; cheese chile relleno; poblano stuffed; beef chile relleno
+N76135,2,13,spicy vegetable dishes,kung pao vegetables; curry jalfrezi vegetable; cheese goat pepper pizza red roasted; peppers sandwich sweet; hot peppers sandwich; curry karahi veggie; garlic peppers; chili green peppers
+N75678,2,11,peanut butter jelly dishes,butter jelly peanut sandwich; grilled pb sandwich; almond butter toast; banana pb toast; pbj sandwich; butter grilled jelly peanut sandwich; jelly toast; banana butter grilled peanut sandwich
+N77453,2,21,Mexican vegetarian dishes,tamales veggie; chorizo gordita; de marlin taco; marlin taco; de rajas tamales; con de gorditas queso rajas; con gordita queso rajas; jackfruit taco
+N77101,2,15,mushroom dishes,king mushroom oyster; bamboo black mushroom shoots; bean curd rolls; mushroom skewer; ear salad wood; bamboo beef mushrooms sauteed shoots; assorted bean curd mushrooms rolls; bean curd oyster roll sauce
+N77280,2,51,mushroom dishes,masala mushroom; mushroom pizza wild; matar mushroom; mushroom taco; mushrooms stuffed; curry matar mushroom; evil pizza ways; masala mushroom mutter
+N58137,2,6,papaya salads,papaya salad; green papaya salad taco; som thai tum; som tom; green papaya salad; som tam
+N76474,2,21,vegetable dumplings and rolls,dumplings steamed vegetable; dumpling vegetable; aushak vege; gyoza veggie; eggrolls vegan; dumplings mushroom vegetable; sauce spicy vegan wontons; imperial rolls veggie
+N77297,2,32,vegetable-based salads,de gallo pico; greek salad; bowl greek salad; fried green tomatoes; de gallo pico taco; blt fried green tomato; greek salad vegan; tabouli
+N73821,2,69,spaghetti pasta dishes,bowl marinara meatball; meatballs pasta spaghetti; meat pasta sauce spaghetti; meatballs spaghetti; pasta sausage spaghetti; bolognese pasta spaghetti; pasta sauce spaghetti tomato; baked pasta spaghetti
+N75657,2,20,vegetable pasta dishes,pasta vegetable; italiano pasta penne vegetable; pesto veggie; lover veggie; butter curry east indian pasta penne veggie; pizza sicilian vegetarian; pasta pesto veggie; pasta pesto primavera
+N77431,2,39,vegetarian wraps,veggie wrap; fajita veggie; fajita vegetarian; vegetarian wrap; sandwich veggie wrap; vegetable wrap; grilled veggie wrap; fajitas gluten sensitive vegetable
+N76021,2,24,street food snacks,chaat samosa; aloo chaat tikki; chaat palak; kachori raj; chaat mixed; chaat papadi; masala puri; aloo chaat papdi
+N75126,2,9,zucchini dishes,grilled squash zucchini; fried pita zucchini; chips squash zucchini; crispy fried garlic pepper zucchini; mucver; baked zucchini; fried squash stir; fried hummus sandwich zucchini
+N76795,2,53,vegetable curry dishes,aloo gobi; aloo gobi masala; aloo curry gobi; jalfrezi vegetable; masala vegetable; aloo curry gobi masala; alu gobi; masala tikka veg
+N77442,2,21,breakfast sandwich variations,cheese croissan egg ham wich; cheese croissan egg sausage wich; bacon cheese croissan egg wich; cheese croissan egg wich; croissan egg ham wich; bacon croissan egg wich; croissan egg sausage wich; bacon brioche cheese egg scrambled
+N76593,2,23,pasta tomato sauce dishes,marinara pasta sauce spaghetti; marinara spaghetti; pasta pomodoro spaghetti; mushrooms pasta spaghetti; marinara sauce spaghetti; pasta spaghetti veggie; al pasta pomodoro spaghetti; amatriciana pasta
+N77352,2,21,yellowtail dishes,chili ponzu yellowtail; heaven yellowtail; spicy sushi yellowtail; basil poke taco yellowtail; garlic ponzu yellowtail; negi yellowtail; sashimi yellowtail; serrano yellowtail
+N76674,2,78,seafood fish dishes,baked fish; fish tandoori; de filete la pescado plancha; fish ginger; fish steamed; fish stuffed; la pescado plancha; ajo al de filete mojo pescado
+N70560,2,8,hot dogs,dog hot; burger dog hot; classic dog hot; dog hot original; foot long; dog hot taco; basic dog hot sandwich; burger classic dog hot
+N76927,2,32,hot dog dishes,all american dog; cheese chili coney; bacon dog; cheese chili dog; chicago dog; dog kraut; dog junkyard; salchipapa
+N76275,2,25,veggie bowls salads,bowl menu power veggie; bowl veggie; avocado bowl lentil; healthy heart pizza veggie; bowl cauliflower power quinoa; border bowl grilled portobello; bowl vegetarian; gf pizza vegetarian
+N77472,2,42,hot dog varieties,cheese dog; chili dog; dog hot kosher style; coney dog; all beef dog hot; cheese coney dog; beef dog hot; cheese chili dog hot
+N77257,2,29,caprese dishes,caprese salad; cheese pizza tomato; caprese insalata; california caprese sandwich; fresh mozzarella pizza; burrata caprese; calzone caprese; caprese pesto sandwich vegetarian
+N74179,2,17,burger dishes,burger original; bistro burger; keto taco; kabob kubideh moby sandwich; burger dbl poblano smash; burger chicago; burger smashed wisconsin; beef big burger spanish
+N77108,2,25,portobello mushroom dishes,burger melt mushroom; portobello sandwich; burger portobello; mushroom panini portabella sandwich; fajita portobello; grilled portobello sandwich; burger mushroom portobello; mushroom pasta peppery portobello
+N76490,2,32,veggie skewer dishes,mediterranean sandwich veggie; pizza veggie zesty; kabob veggie; mixed sauteed vegetable; rainbow sushi; kebab veggie; kabob vegetable; sandwich stack veggie
+N58993,2,24,green bean dishes,beans string szechuan; beans garlic green; bean green spicy; beans garlic sauce string; bean fried green stir; bean green style szechuan; beans green szechuan; bean string
+N77064,2,20,vegetable curry dishes,korma navratan; curry korma navratan; fried seasonal stir vegetable; bean black sauce vegetable; coconut curry goa vegetable; pak sikil; curry makhani vegetable; aavakai curry vegetable
+N77233,2,42,ham and egg dishes,egg ham melt sandwich; breakfast cheesy egg ham melt; biscuit country ham; eggs ham; cristo monte sandwich; cheese egg ham sandwich; egg ham sandwich; croque madame sandwich
+N77053,2,62,potato-based dishes,aloo mutter; aloo matar; papas rancheras; aloo chana; aloo curry matar; aloo curry mutter; aloo dum; la mexicana potato taco
+N77324,2,46,veggie bean burgers,patty veggie wrap; bowl patty veggie; beans black rice; bean black burger southwestern; burger garden; beans rice taco; beans rice; beans green southern
+N75919,2,15,bratwurst dishes,bratwurst; brat sandwich; bratwurst german; bratwurst smoked; plate wurst; elgin plate sausage; bratwurst roll; german platter wurstchen
+N76906,2,12,pastrami and swiss sandwiches,cheese pastrami sub turkey; ny pastrami sandwich; kosher salami sandwich; beef pastrami sandwich; reuben sandwich vegan; angus black burger pastrami swiss; burger golden pastrami; reuben sandwich veggie
+N76971,2,11,cured ham dishes,black forest ham wrap; black bowl forest ham; ham honey sub; cured ham sugar; black forest ham; barbecue ham honey; baked ham; black forest ham pita
+N77094,2,25,pasta tomato basil dishes,pasta puttanesca spaghetti; basil sandwich tomato; basil pasta spaghetti tomato; capellini pasta pomodoro; pomodoro spaghetti; pasta penne puttanesca; pasta putanesca; pasta pesto spaghetti
+N76826,2,36,baked pasta dishes,baked pasta ziti; manicotti pasta; cannelloni pasta; baked ziti; deep dish pasta ziti; baked meat pasta sauce ziti; baked pasta shells stuffed; baked meatballs pasta ziti
+N73385,2,53,lasagna dishes,lasagna pasta; lasagna; lasagna meat pasta; homemade lasagna pasta; baked lasagna pasta; beef lasagna pasta; baked lasagna; lasagna meat
+N77416,2,42,sausage sandwiches rolls,extreme sandwich sausage; patties sausage smoked; roll sausage; boy po sausage; cheese sausage sub; cheese roll sausage; pizza roll sausage; sandwich sujuk
+N77331,2,27,sausage based dishes,coney pound quarter; links pork sausage; hot link pizza; hot link sandwich; dog grilled hot; egg plate sausage; eggs links sausage; country plate sausage
+N76687,2,15,gnocchi pasta dishes,gnocchi pasta sorrentina; gnocchi gorgonzola pasta; al gnocchi pasta pesto; gnocchi pasta pomodoro; alla gnocchi sorrentina; alla gnocchi pasta sorrentina; gnocchi marinara; gnocchi gorgonzola
+N77208,2,38,pasta dishes,cauliflower cream garlic pasta rigatoni roasted; formaggi pizza; artichoke cream pasta spinach; ham pasta pea salad; basil pasta pesto; angel hair pasta pomodoro; garlic oil olive pasta; angel garlic hair pasta
+N77454,2,36,vegetarian vegetable dishes,skillet veggie; pizza specialty veggie; aloo baingan; pasta vegan veggie; skillet vegetarian; classic pizza vegetarian; moussaka vegetarian; ny pizza style veggie
+N76830,2,30,Italian tomato-based dishes,pepperoni pizza zesty; marinara pasta sauce; pasta pomodoro; alla pasta vodka; pepperoni pizza special; arrabiata pasta; cheese fresh pizza tomato; caprese pasta
+N77388,2,42,cheese ravioli dishes,cheese pasta ravioli; pasta ravioli; cheese ravioli; pasta ravioli spinach; ravioli; baked pasta ravioli; cheese ravioli toasted; cheese marinara pasta ravioli
+N77420,2,43,stuffed pasta dishes,pasta shells stuffed; cheese manicotti pasta; mezzaluna pasta; baked manicotti pasta; lasagna pasta spinach; lasagna pasta vegetable; lasagna pasta veggie; lasagna spinach
+N75169,2,23,garlic butter pasta dishes,cacio pasta pepe; aglio olio pasta spaghetti; garlic oil pasta spaghetti; garlic spaghetti; butter garlic pasta spaghetti; garlic oil pasta; aglio olio pasta; butter pasta spaghetti
+N77521,2,48,lentil and vegetable dishes,bowl greens turnip; black creamy lentils; dal light yellow; chole puri; curry kaju; black creamy dal; ka saag sarson; punjabi saag
+N77298,2,74,sausage italian dishes,pepperoni pizza sausage; italian sausage; italian pasta sausage spaghetti; mushroom pepperoni pizza sausage; cheese pepperoni pizza sausage six; italian pasta sausage; pizza ricotta sausage; pasta peppers sausage
+N76933,2,33,cauliflower manchurian dishes,cauliflower wings; gobi manchurian; buffalo cauliflower wings; cauliflower manchurian; dry gobi manchurian; cauliflower fried sandwich; gobi gravy manchurian; fusion gobi manchurian roll
+N77149,2,37,breakfast sausage dishes,breakfast burrito sausage; breakfast burrito cheese egg sausage; egg sausage taco; burrito sausage; burrito egg sausage; sausage taco; cheese egg sausage taco; burrito cheese egg sausage
+N77292,2,83,chorizo dishes,chorizo taco; burrito chorizo; bean chorizo taco; campechano taco; chorizo quesadilla; mexican sausage taco; chorizo nachos; chorizo de quesadilla
+N77326,2,22,eggplant dishes,moussaka; eggplant stuffed; eggplant pork; moussaka plate; greek moussaka; baked moussaka; eggplant minced pepper pork; eggplant moo prik
+N76167,2,45,eggplant parmesan dishes,eggplant parmigiana; eggplant parmigiana pasta; eggplant parmesan; eggplant parmesan sub; eggplant parmesan sandwich; eggplant parm sub; eggplant sub; alla melanzane parmigiana
+N76763,2,26,chorizo potato dishes,chorizo plate; chorizo con papas; chorizo papa taco; chorizo plus potato taco; chorizo con papas taco; chorizo skillet; chorizo plate potato; chorizo soft taco
+N75794,2,23,eggplant dishes,chicken eggplant; chicken eggplant garlic sauce; eggplant style szechuan; eggplant wrap; bowl parmigiana; basil eggplant spicy; eggplant stew; eggplant pad phet
+N77369,2,50,chorizo egg dishes,chorizo con huevos; chorizo egg plate; al gusto huevos; chorizo egg torta; chorizo con huevo plate; chorizo con huevo taco; burrito chorizo con huevo; chorizo omelette
+N77471,2,64,sausage dishes,breakfast cheesy egg melt sausage; sandwich sausage; eggs sausage; country egg sausage taco; hot sausage sub; bird buffalo dogs sandwich; cheese jalapeno sausage; cheese egg sausage sub turkey
+N77133,2,35,beef tortas,asada carne torta; steak torta; lengua torta; barbacoa torta; beef torta; beef fajita torta; birria torta; queso steak torta
+N74877,2,11,tuna sub sandwiches,sandwich sub tuna; cold sub tuna; cheese fish sub tuna; meat salad sub tuna white; cold salad signature sub tuna; cold salad sub tuna; cheese cold salad sub tuna; cold cut sub tuna
+N75561,2,23,sausage breakfast dishes,sausage smoked; ranchero sausage spicy taco; sausage scrambler; eggs sausage smoked; potato sausage; con huevo sausage; sausage skillet; potato sausage taco
+N77445,2,30,cheese-based dishes,cheese loroco; huitlacoche quesadilla; de huitlacoche quesadilla; cheese de queso tostadas; blanditos cheese de queso soft tacos; cheese de enchiladas queso; con loroco queso; nopales quesadilla
+N77478,2,28,kielbasa sausage dishes,classic kielbasa plate sandwich sausage; cheddar jalapeno kielbasa; kielbasa polish sausage; classic kielbasa sandwich sausage; kielbasa plate polish; polish sandwich sausage; burger polish sausage; maxwell polish sausage st
+N77457,2,26,sandwich varieties,cubana torta; breakfast cheese egg sandwich sub; bacon breakfast cheese egg sandwich sub; black breakfast cheese egg forest ham sandwich sub; hawaiana torta; pork roll sandwich; chicharron con pan; cheese rolls
+N76768,2,11,garlic herb dishes,garlic italian pizza; ajo de mojo; pizza salsa verde; ajo de mojo salsa; blueberry pesto sandwich; cilantro taco; bowl chimichurri; marinated mixed olives
+N74380,2,35,eggplant dishes,eggplant garlic sauce; eggplant fried stir; basil eggplant; baba ghanouj; eggplant garlic hot sauce; crispy eggplant; baba ghanoush; eggplant garlic sauce spicy
+N76968,2,16,savory pastry dishes,cheese crab cream roll; chicken puff; chicken friand; chicken curry puff; paneer puff; egg masala puff; italiana torta; cinnamon pie
+N76685,2,15,pastrami sandwiches,big hot pastrami sandwich sub; cheese pastrami sub; cheese panini pastrami; cheese egg pastrami sandwich; dip pastrami sandwich; pastrami sandwich turkey; cheesesteak pastrami; pastrami sub swiss
+N77455,2,40,pork torta varieties,al pastor torta; carnitas torta; ahogada torta; pork torta; adobada torta; braised carnitas torta; marinated pork torta; colita de pavo torta
+N76342,2,16,spinach cheese pastries,spanakopita; feta rollup spinach; plate spanakopita; spanikopita special; pie plate spinach; pie spanakopita spinach; borek; greek pie pizza
+N77367,2,32,sandwich varieties,bacon cheese ciabatta egg scrambled; cheese ciabatta egg scrambled; cheese ciabatta egg sausage scrambled; fresh mozzarella sandwich; beef panini roast sandwich; italian sandwich veggie; panini sandwich steak; prosciutto sandwich
+N77347,2,19,cheesy bread snacks,california fried roll sushi; bread cheese italian; bacon cheesebread; cheese dz kolaches sausage; cheese pretzels; pimento pretzels; garlic parm stix; bread cheese garlic wings
+N76233,2,20,mexican torta varieties,chorizo torta; breakfast torta; mexican sausage torta; pambazo torta; choriqueso torta; sausage torta; bacon egg torta; chorizo con huevo torta
+N76558,2,16,black bean dishes,bean black chalupa cheddar toasted; bean black burger; bean black burger veggie; huevos motulenos; bacon breakfast cheese egg taco; bean black corn plate taco; burrito giant veggie; bean black salad
+N76789,2,12,brussels sprouts dishes,brussels enlightened kale roasted salad sprouts; brussels honey sprouts sriracha; bacon brussels pizza; brussel cheese goat pizza sprouts sriracha; brussels fried sprouts; brussels crispy; brussels salad sprouts; brussel flash fried sprouts
+N77134,2,30,nopal egg dishes,egg nopales taco; nopalitos taco; egg nopalitos taco; egg nopal plate; cactus egg taco; con huevo nopalitos taco; egg nopalitos plate; en nopalitos roja salsa
+N77481,2,29,cheese meat wraps,asada breakfast burrito carne; gyro vegetarian; empanada queso; arepa cheese ham; tomato uttapam; arepa carne mechada; cheese panela; halloumi sandwich
+N77343,2,38,banh mi sandwiches,banh grilled mi pork sandwich; banh mi sandwich tofu; banh beef grilled mi sandwich; banh beef mi; banh mi sandwich vegan; banh lemongrass mi sandwich tofu; banh egg mi sandwich; bahn mi
+N77004,2,63,vegan mediterranean dishes,falafel wrap; baked falafel pita; bowl falafel; mediterranean veggie wrap; hummus sandwich; gyro veggie; hummus plate salad; falafel salad
+N77185,2,20,savory plantain dishes,churrasco de mofongo relleno; carne con molida tajadas; asada carne con tajadas; de empanadas platano; beans plantain; plantain plate taco; empanadas plantain; con crema frijoles fritos platanos
+N77175,2,23,Italian-style sandwiches,caprese sandwich; salami sub; caprese panini sandwich; bruschetta; cheese salami sandwich; panini sandwich vegetable; brie panini prosciutto sandwich; ham panini sandwich
+N76992,2,15,hot dog varieties,bacon cheese dog; dog mustard; diablo dog; dog reuben; dog seattle; chicago dog hot; dog sandwich slaw; bacon bbq cheddar dog
+N77381,2,37,submarine sandwiches,black forest ham sandwich sub; delite sandwich sub veggie; pizza sandwich sub; grilled sub veggie; provolone salami sub; pepperoni sandwich sub; cheese cold ham sub; genoa salami sub
+N76219,2,10,savory sweet crepes,crepe nutella strawberry; bacon ham omelet or sausage; crepe fresh fruit; crepe veggie; beef crepe; cheese crepe ham; crepe vegetable; crepe ham swiss
+N76707,2,25,sausage sub sandwiches,italian sandwich sausage; parmigiana sausage sub; peppers sandwich sausage; bird dogs italian sandwich; parmesan sausage sub; parmigiana pepper sausage sub; onion pepper sausage sub; italian parmigiana sausage sub
+N77327,2,17,spicy cheesy jalapeno dishes,bacon cheezy garlic pizza; jalapeno pizza popper; bowl cheese egg jalapeno sausage; fried jalapenos; jalapeno sandwich sausage; bacon jalape os wrapped; cheddar grilled jalapeno sausage; jalapenos pizza stuffed
+N77378,2,24,prosciutto Italian dishes,arugula salad; antipasto salad; mozzarella prosciutto sub; di parma prosciutto; antipasto italiano; achar ko methi; artichoke garlic gf pizza sauce; artichoke green hearts kalamata olives roasted sauteed slow spinach tomatoes
+N70277,2,21,paneer spinach dishes,paneer saag; palak paneer; curry paneer saag; curry palak paneer; palak paneer pasta twist; paneer spinach; paneer saag spinach; bowl palak paneer
+N75727,2,13,creamy fettuccine dishes,alfredo fettuccine; carbonara fettuccine pasta; alfredo pasta vegetarian; alfredo classic fettuccine; alfredo broccoli fettuccine pasta; al fettuccine pasta pesto; alfredo broccoli fettuccine; alfredo fettuccine pasta vegetables
+N77158,2,14,veal dishes,cacciatore veal; chop veal; piccata scallopini veal; genovese veal; rossini veal; chop romana veal; cardinal veal; cannelloni con pasta vitello
+N77205,2,88,paneer dishes,masala paneer tikka; kadai paneer; paneer tikka; chili paneer; curry masala paneer tikka; curry kadai paneer; bhurji paneer; kebab paneer tikka
+N76788,2,11,fruit dishes,bowl fresh fruit; bowl fruit; bowl chunky strawberry; cup dip fresh fruit; fresh pineapple taco; breeze strawberry; de fresa raspa; banana bowl strawberry
+N72659,2,7,honey spiced dishes,honey hot wings; chinese honey mustard rub wet wings; garlic honey rub spiced wet wings; honey hot; honey hot traditional wings; miele pizza; honey hot pizza
+N74239,2,29,Vietnamese banh mi sandwiches,banh chicken mi sandwich; banh ga mi nuong sandwich; french kiss roll; banh chicken grilled mi; banh chicken ga grilled mi nuong sandwich; banh mi sandwich vietnamese; banh chicken lemongrass mi sandwich; bahn burger mi take
+N73812,2,26,pastrami sandwiches,pastrami sub; hot pastrami sandwich; rachel sandwich; pastrami reuben sandwich; melt pastrami sandwich; pastrami rye sandwich; big hot pastrami wrap; great pastrami reuben
+N77042,2,28,veggie sandwiches,sub veggie; sandwich vegetarian; melt sandwich veggie; fat sandwich veggie; grilled sandwich vegetable; panini sandwich vegetarian; roasted sandwich veggie; boat deli sandwich veggie
+N76669,2,9,beet dishes,beet salad; balsamic beet berry gf salad; beetlovers bowl; beet roasted salad; beets carpaccio; beets roasted; beet salad strawberry; beef grilled steak
+N77150,2,21,fruit and cocktail fusion,de frutas jugo; club havana sandwich; bloody mary roll sushi; jugo verde; roll russian white; bourbon burger kentucky style; drink fruit lychee peach; cayenne ginger orange shot
+N77463,2,101,cheese and bean pupusas,pupusas; cheese pupusa; de pupusa queso; beans cheese pupusa; con de frijol pupusa queso; loroco pupusa; plate pupusa; cheese loroco pupusa
+N77198,2,99,vegetable omelet dishes,omelet veggie; omelette vegetarian; loaded omelette veggie; omelette vegetable; cheese mushroom omelet; garden omelet; scramble veggie; mediterranean omelette
+N77254,2,23,pupusas gorditas tamales,pupusa revuelta; chicharron gordita; chicharron pupusa; cheese pork pupusa; gordita pork skin; cheese jalapeno tamale; tamales vegan; mixtas pupusas
+N76519,2,18,sourdough breakfast sandwiches,breakfast grilled sandwich sourdough swiss; caprese cheese grilled sandwich; breakfast sandwich sourdough; blt california sandwich; classic french sourdough toast; parmesan pretzel sourdough; avocado toast vg; avocado cheddar egg sandwich smoked sourdough turkey
+N77459,2,24,pasta carbonara dishes,carbonara pasta; carbonara pasta spaghetti; alla carbonara pasta spaghetti; carbonara spaghetti; all amatriciana bucatini pasta; bucatini pasta; carbonara pasta penne; alla carbonara spaghetti
+N77051,2,31,dosa variations,chocolate dosa; cheese dosa masala; chilli dosa masala onion; dosa paneer tikka; dosa keema; dosa masala spinach; cone dosa; baji dosa pav
+N76871,2,4,edamame dishes,edamame sushi; edamame steamed; edamame salt; edamame sichuan style
+N75696,2,15,paneer dishes,kathi paneer roll; pakora paneer; calzone east indian paneer style veggie; paneer paratha; calzone east indian paneer shaahi style; naan paneer; kulcha paneer; kati paneer roll tikka
+N76304,2,6,idli variations,ghee idli podi; fried idli; idli plate; floating idli; blazing fiery idli; bullet idli
+N77424,2,10,root vegetable dishes,chicharr con yuca; fried yucca; lotus roll sushi; mofongo yuca; beans diced ed lotus pickled root saut; chinese lotus root sausage; pork root yuca; fried pork yucca
+N76736,2,41,tofu rice dishes,fried rice tofu; bowl teriyaki tofu; fried rice tofu vegetable; fried pineapple rice vegan; fried rice vegan; curry fried rice tofu; bowl fire fried rice; bowl fried tofu
+N75547,2,3,fried yam dishes,fried yam; fried fungus yam; chinese sauteed yam
+N77248,2,26,sandwich and bread dishes,banh mi veggie; banh egg fried mi sandwich; board bruschetta; basil brie tomato; baguette cheese egg ham sandwich; bruschetta roasted tomato; burger dip swiss; cheese goat pizza prosciutto
+N71713,2,4,taro fried snacks,bun taro; deep dumplings fried taro; cake fried pan taro; deep fried puff taro
+N75021,2,6,lentil fritters,medu vada; medu vada vadai; methu vada; masala vada; ulunthu vadai; medu wada
+N77282,2,9,watermelon melon dishes,cucumber salad thai watermelon; salad watermelon; bitter dry fried melon; mexican salad watermelon; concrete watermelon; con jicama melon; bitter chicken melon; bitter eggs fried melon pan
+N76340,2,19,pasta dishes,arrabiata pasta penne; marinara pasta penne; all arrabbiata pasta penne; baked cheese pasta penne; pasta vodka; arrabiata pizza; marinara penne; cheese pasta penne
+N77202,2,11,cheese zaatar pita dishes,cheese pita sandwich toasted; pizza zaatar; breakfast cheese egg pita size; ham pita provolone sandwich; labneh sandwich; chips pita; eggs ham pita; atar labneh toast za
+N76265,2,6,pickled radish dishes,pickled radish roll; oshinko; korean pickled radish; cake fried pan radish; daikon gf pickled turmeric; daikon pickled turmeric
+N74664,2,13,cottage cheese dishes,cheese cottage masala tikka; cheese cottage curry green peas; cheese cottage tikka timeless; cheese cottage grilled; chargrilled cheese cottage curry; cheese cottage green peas; cheese cottage curry; butter cheese cottage punjabi
+N76466,2,7,yogurt-based dishes,labneh; berry bowl summer; bowl breakfast parfait; berry bowl fresh; berry bowl energy very; labneh pizza; puri shrikhand
+N77403,2,57,tofu rice bowls,hibachi tofu; bowl spicy tofu; bowl rice veggie; fried pepper rice thai; bop doochi; bento tofu; kimchi tofu; masala tofu
+N76844,2,48,veal dishes,marsala veal; piccata veal; francese veal; schnitzel wiener; carciofi veal; scallopini veal; florentine veal; alla romana saltimbocca
+N77035,2,64,eggplant dishes,baingan bharta; eggplant spicy; bagara baingan; baingan bharta curry; eggplant masala smoked; bagara baigan curry; bhartha; eggplant grilled sandwich
+N76818,2,58,chorizo breakfast dishes,chorizo egg taco; chorizo potato taco; cheese chorizo egg taco; burrito chorizo egg; burrito cheese chorizo egg; breakfast burrito chorizo; burrito cheese chorizo egg potatoes; cheese chorizo egg potatoes taco
+N68748,2,9,fried plantain dishes,fried plantains; plantains taco; bananas fried; crema fried plantains; fried plantain rice; plantain ripe sweet; fried plantain sweet; de maduro mofongo pl tano
+N76776,2,66,paneer-based dishes,kofta malai; mutter paneer; paneer shahi; butter masala paneer; mattar paneer; makhani paneer; curry kofta malai; butter curry masala paneer
+N77262,2,24,filet mignon dishes,filet steak; filet mignon oz; filet grilled steak tuscan; filet mignon oz steak; filet mignon teppanyaki; butter filet garlic mignon; filet mignon teriyaki; center cut filet mignon
+N77469,2,48,Asian vegetable rolls,moo shu vegetable; chop suey vegetable; roll spring vegetable; chow fun mei vegetable; fun mei pasta vegetable; manchurian vegetable; egg rolls vegetable; gomen tikil
+N76150,2,9,street food snacks,bhel poori; chaat kachori; batata dahi puri; bhelpuri; bhel bombay; bhel; batata puri sev; cheese puri sev
+N76912,2,23,spicy tofu dishes,ma po tofu; mapo tofu; ground mapo pork tofu; bean curd ma po; beef ma po tofu; ma po pork tofu; ma minced po pork tofu; ground ma po pork tofu
+N76543,2,27,vegetable sushi rolls,roll vegetable; roll veggie; roll vegetarian; rolls spring tofu; buddha roll; roll super veggie; roll spring tofu veggie; fresh rolls summer vegetarian
+N77357,2,46,vegetarian soup dishes,soup vegetable; basil soupe tomato; noodle pasta soup tofu; misir wot; noodle soup vegetable; rice vegetable; lentil soup; minestrone
+N77351,2,23,fruit based dishes,acai bowl; avial curry; bowl island pitaya; acai bowl brazilian; acai bowl primo; acai bowl inspiration; banana roll; acai bowl mango
+N75388,2,9,veggie cheesesteak sandwiches,philly veggie; cheesesteak veggie; cheese chicken steak vegetarian; philly sandwich specialty veggie; cheesesteak melt sandwich veggie; cheesesteaks vegetarian; dip french vegetarian veggie; american sandwich sub
+N77432,2,24,okra dishes,bhindi masala; masala okra; bhindi curry masala; bhindi do pyaza; curry masala okra; fry okra; bhindi; curry fry okra
+N75982,2,66,tofu dishes,sesame tofu; crispy teriyaki tofu; crispy firecracker tofu; bean curd general tso; lemongrass tofu; fried tofu; mongolian tofu; bean curd sesame
+N77174,2,8,Caribbean seafood dishes,callaloo saltfish; callaloo fish salt; callaloo; curry squid; hibachi squid; calaloo codfish; inca kola; breaded squid
+N76189,2,6,spicy meat curries,beef curry paya; goat paya; curry goat paya; curry masala palak; jokbal smoked; goat parotta paya
+N75508,2,8,yuca dishes,chicharron con yucca; frita yuca; al mojo yuca; chicharron con frita yuca; de mofongo yuca; mojo yuca; huancaina la yuca; con mojo yuca
+N77328,2,58,rice dishes,rice steamed; plain rice; brown rice; idli; rice steamed white; dosa egg; fish flying roe sushi; peas pulao
+N75177,2,8,ranch based dishes,ranch wings; mayo spicy sushi; dressing ranch wings; homemade pizza ranch; buttermilk ranch wings; buttermilk pizza ranch; sauce sushi yum; ranch sauce wings
+N75155,2,24,tofu vermicelli dishes,tofu vermicelli; bun chay; fried tofu vermicelli; lemongrass tofu vermicelli; singapore vermicelli; bowl lemongrass tofu vermicelli; bowl fried tofu vermicelli; tofu vegetable vermicelli
+N77215,2,33,beef and pork dishes,beef brisket corned sub; lengua plate; beef tongue; beef grilled rice steamed; burrito tongue; ghormeh sabzi; head lamb; pork sinigang
+N76136,2,10,mango based dishes,mango pomegranate salad; mangonadas; de licuado mango; anago sushi; chica mangonada; de mango raspa; mangonada mediana; de mango vaso
+N77139,2,42,mutton curry dishes,curry gongura mutton; curry karahi mutton; masala mutton; curry kolambu mutton; korma mutton; chettinad mutton; chops mutton; mutton saag
+N76863,2,39,tofu dishes,general tofu tso; sandwich tofu; broccoli tofu; garlic sauce tofu; general tao tofu; shrimp tofu; roll tofu; fried stir tofu veggie
+N77192,2,89,breakfast egg dishes,huevos rancheros; bacon egg taco; burrito egg normous; bean egg taco; divorciados huevos; egg taco; huevos plate rancheros; huevos la mexicana plate
+N73519,2,36,tamales and variations,tamales; plate tamale; chicken tamales; salvadorean tamales; bean tamales; pollo tamales verdes; pasteles; mexican tamales
+N77179,2,39,egg-based dishes,cheese omelette; eggs scrambled; cheese meat omelet; egg fried; omelette plain; omelet salmon smoked; toasted yolk; cheddar cheese jack omelette
+N77314,2,15,sauced and rubbed wings,dry korean rub wings; bbq dry rub wings; dry rub salt sea vinegar wings; caramel fish rub sauce wet wings; sauce unagi; shoyu; cajun rub wings; pasta sriracha
+N77173,2,31,tofu dishes,crispy dynamite thai tofu; pepper salt tofu; orange tofu; crispy tofu; crispy honey seared tofu; hot spicy tofu; fry stir tofu vegetable; piri tofu wrap
+N75228,2,20,veal parmesan dishes,parmigiana veal; parmesan veal; cutlet parmigiana veal; parmesan pasta veal; alla parmigiana vitello; parmigiana steak veal; hot parmigiana sub veal; parmesan spaghetti veal
+N76864,2,13,spam dishes,musubi spam; eggs grilled spam; egg spam taco; eggs rice spam; spamsilog; musubi og; moco spam; egg plate spam
+N74116,2,21,mutton biryani varieties,biryani mutton; biryani dum mutton; biryani dum hyderabadi mutton; biryani boneless mutton; mandakini mutton; biryani dum gongura mutton; biryani mughalai mutton; mutton pulao
+N76367,2,24,italian subs and sandwiches,cold cut italian sub; classic italian sub; muffaletta sandwich; italian sub super; boat deli italian sandwich; muffuletta; hero italian; classic deli italian sandwich
+N77377,2,42,tofu eggplant dishes,bean curd style; eggplant tofu; tofu wrap; taco tofu; skin tofu; moo shu tofu; basil eggplant tofu; nirvana pizza vegan
+N77281,2,21,cheese-based dishes,florentine quiche; chowder clam; chowder red soup; lorraine quiche; blue cheese wings; boy clam po sub; chowder clam england; award chowder clam soup winning
+N76204,2,63,mexican masa dishes,gorditas; sopes; sope; plate sopes; chicken gordita; gorditas taco; sopes taco; huaraches taco
+N77508,2,65,breakfast dishes,caramel chocolate hot; crepes swedish; pancakes power protein; blueberry crepes lemon ricotta; blueberry lemon pancakes protein ricotta; belgian friendly gluten waffle; breakfast french momma toast; chocolate hot peppermint
+N77074,2,28,tofu vegetable seafood dishes,bean curd vegetables; steamed tofu vegetables; mixed steamed tofu vegetables; homestyle tofu; seafood tofu; bean curd mixed steamed vegetables; black mushroom tofu; casserole seafood tofu
+N77522,2,99,tofu noodle dishes,tofu yakisoba; bowl japanese noodles pan tofu; pad thai vegetable; szechuan tofu; pad thai tofu; pasta tofu yakisoba; fried stir tofu; fry stir tofu
+N77507,2,86,vegetable dishes,delite veggie wrap; mixed vegetables; mixed steamed vegetables; plate veggie; pizza vegy very; cauliflower pizza vegy very; bbq buffalo drizzle pizza veggie; hibachi vegetable
+N77386,2,10,tofu miso dishes,agedashi tofu; bowl miso soup; japanese tofu; kitsune pasta; bean curd egg thousand year; cold tofu; braised japanese tofu; agedashi pasta tofu
+N76744,2,29,flatbread pizza varieties,cheese flatbread pizza; flatbread margherita pizza; flatbread fresca margherita pizza; flatbread pizza roasted veggie; cheddar flatbread ham pizza zesty; flatbread hawaiian pizza; cheese flatizza pizza; flatbread mushroom pizza wild
+N77062,2,24,desserts with creamy elements,chocolate gf souffle; chews fruit original starburst; bionico; cherry crepes kijafa; pizza tartufo; cheese cream strawberry; cream orange; candy cane roll sushi
+N77121,2,51,tofu curry dishes,curry tofu; coconut crispy curry thai tofu; curry tofu vegetable; curry panang tofu; curry red tofu; curry tofu yellow; curry green tofu; panang tofu
+N75605,2,44,tofu dishes,kung pao tofu; bean curd home style; bean curd style szechuan; sour sweet tofu; home style tofu; hunan tofu; bean curd kung pao; spicy tofu
+N76373,2,22,fermented flatbreads,dosa plain; dosa sada; plain uttapam; butter dosa; dosa ghee; cecina torta; fufu; butter dosa sada
+N77166,2,17,stuffed savory pancakes,takoyaki; chilli momo veg; fried momo veg; buns mushroom vegetable; buns kurobuta pork vegetable; okonomiyaki; momos vegetable; chili momo vebetalbe
+N77466,2,27,tuna dishes,salad tuna wrap; maguro sushi; spicy taco tuna; burrito spicy tuna; fatty sushi tuna; nachos tuna; maguro shiro sushi; spicy tuna wrap
+N74868,2,9,spicy rice cake dishes,tteokbokki; bokki ddeok; bokki tteok; cake fried rice spicy stir; bowl tteokbokki; cheese tteokbokki; boki bowl dduk; bokki dduk
+N76764,2,61,bread and flatbread varieties,garlic naan; hawaiian roll; naan; naan plain; rolls yeast; butter naan; garlic knots warm; roti
+N77415,2,44,paneer rice dishes,biryani paneer; dosa paneer; biryani paneer tikka; biryani paneer ulavacharu; biryani gongura paneer; biryani paneer veg; biryani paneer special; paneer pulav
+N77153,2,64,tofu vegetable dishes,teriyaki tofu; mixed tofu vegetables; tofu vegetable; bean curd mixed vegetables; style tofu; bean broccoli curd; fried stir tofu vegetables; fried mixed tofu vegetables
+N76082,2,18,seafood boil dishes,boiled shrimp; boil crab shrimp snow; boil crab; crawfish live; boiled crawfish live; boil crab leg; boil cajun; shrimp sinigang
+N75954,2,64,chicken rice dishes,biryani boneless chicken; biryani chicken tikka; biryani chicken fry; biryani chicken special; avakai biryani chicken; kashmiri pulao; biryani chicken peshawari; chicken soltani
+N74883,2,20,belgian waffle varieties,belgian waffle; cream sweet waffle; belgian strawberry waffle; belgian chocolate waffle; belgian sweet waffle; stack waffle; bourbon street waffles; belgian traditional waffle
+N76653,2,74,salmon sushi dishes,roll salmon; roll salmon spicy; enlightened noodles pacific poke soba; bowl poke salmon; hand roll salmon spicy; hand roll salmon; bowl salmon; crunchy roll salmon
+N77030,2,39,potato stuffed breads,samosa; aloo paratha; samosa vegetable; masala poori; bhaji puri; bhaji poori; aloo poori; aloo naan
+N77087,2,51,banana fruit pancakes,banana pancakes strawberry; butter king nutter size; breakfast choconana pancake; banana pancakes; crepe fruit; banana crepes nutella; banana nut pancakes; bliss pancakes vegan
+N75783,2,6,pumpkin-based dishes,pancakes pumpkin; pumpkin roll; dumplings entree pumpkin; pasta pumpkin ravioli; egg pumpkin salted yolk; curry patty pumpkin
+N74111,2,13,bread cheese dishes,hawaiian roll sushi; bread cheese; focaccia pizza; bread pesto; ciabatta sandwich; breads loaf origin sourdough; asiago bread cheese; bacon bialy cheddar
+N76924,2,45,soup and congee dishes,caldo de res; congee plain; beef soup tripe; consome; pongal; galbi tang; pongal ven; beef pho shank
+N76711,2,24,uthappam and kadhi dishes,chilli onion uthappam; kadhi pakora; onion uttapam; uthappam vegetable; uttapam; uttapam veg; onion tomato uthappam; cheese uthappam
+N77285,2,39,tuna sandwich varieties,melt sandwich tuna; salad sandwich tuna; melt tuna; fish sand sandwich tuna; pita tuna; melt panini sandwich tuna; melt sand sandwich tuna; bacon melt sandwich tuna
+N76520,2,19,stuffed pasta dishes,cheese classic ravioli; mushroom ravioli wild; gnocchi pasta ricotta; mushroom pasta portabella ravioli; mushroom ravioli; portobello ravioli; mushroom portobello ravioli; tortellacci
+N72901,2,10,corn dog variations,corn dog; corn dog nuggets; corn dog sandwich; cheese chili corn dog; bacon corn dog wrapped; corn pups; corn dog foot long; corn dog turkey
+N76679,2,54,breakfast berry pancakes,blueberry pancakes; cream crepes strawberries; breakfast pancake; pancake plate; blueberry maine pancakes wild; blueberry waffle; pancakes strawberry; berry breakfast crepe vanilla
+N75978,2,26,Indian flatbreads and variations,roti tandoori; lachha paratha; puri; chapati; paratha tandoori; anda paratha; chappathi; pizza wheat
+N77187,2,110,tuna sushi rolls,roll spicy tuna; roll tuna; avocado roll tuna; sushi tuna; hand roll spicy tuna; eye roll tiger; sushi tuna white; hand roll tuna
+N76773,2,14,squash-based dishes,casserole cheese squash; bowl harvest quinoa; butternut pasta ravioli squash; butternut ravioli squash; beetballs spaghetti squash; burger shade throwing veggie; butternut pasta tortellacci; bowl spaghetti squash
+N77036,2,45,tuna sushi dishes,bowl spicy tuna; roll sashimi; pepper roll tuna; ahi bowl poke; tunacado; black pepper seared sushi tuna; bowl don tekka; nigiri sashimi tuna
+N76625,2,11,linguine pasta dishes,carbonara linguine pasta; al linguine pasta pesto; carbonara linguine; linguine pasta pomodoro; garlic linguine oil pasta; arrabiatta bowl linguine; alla linguine puttanesca; linguine marinara pasta sauce
+N77269,2,86,curry shrimp dishes,curry shrimp; curry onion shrimp; curry sauce shrimp; coconut isle parrot platter shrimp; curry shrimp thai; coconut korma shrimp; curry shrimp vindaloo; curry green shrimp
+N77006,2,108,shrimp rice bowls,hibachi shrimp; bowl chipotle fresh mex shrimp; bowl mex shrimp tex; bowl shrimp; baja bowl shrimp; bowl burrito grilled shrimp; bowl grilled rice shrimp; bento shrimp
+N76612,2,15,ahi tuna dishes,ahi filet sandwich tuna; ahi crusted sesame tuna; ahi grilled tuna; ahi blackened tuna; ahi steak tuna; ahi crusted seared sesame tuna; ahi seared sesame tuna; ahi taco tatako tuna
+N77138,2,54,tuna dishes,tuna wrap; fish sub tuna; spicy tuna; club tuna; grilled sandwich steak tuna; hibachi steak tuna; bowl classic tuna; crunchy spicy tuna
+N77349,2,79,seafood noodle dishes,pad shrimp thai; bowl pad shrimp thai; chow fun shrimp; fried noodle pan pasta seafood; fried noodle pan pasta shrimp; chow fun pasta shrimp; fried noodles pasta shrimp stir; pad seafood thai
+N77509,2,120,meat pasta dishes,meatballs pasta; meat pasta sauce; meat pasta ravioli; marinara meatball pasta; marinara meaty pan pasta; lovers meat; carrabba classics italian trio; bolognese fettuccine pasta
+N77060,2,63,dosa varieties,dosa masala; dosa masala mysore; dosa onion; cheese dosa; dosa masala onion rava; dosa masala onion; dosa spring; dosa masala paper
+N76949,2,20,albacore tuna dishes,albacore sushi tuna; albacore sushi; albacore roll spicy; albacore roll special; albacore salad sandwich tuna; albacore chili garlic tuna; albacore hand roll; avocado roll tuna white
+N75897,2,7,butter-based dishes,butter garlic wings; butter honey sandwich; brown butter coconut dry rub wings; almond bowl butter nutty; hollandaise scallion steak; bearnaise scallion steak; butter calzone garlic oz
+N76388,2,15,egg roll dishes,sushi tamago; egg sushi; egg omelet sushi; kimbap kimchi; kimbap; egg omelet sushi tamago; kimbap veggie; egg sushi tobiko
+N76574,2,93,breakfast pancakes waffles,waffle; pancakes syrup; pancakes pecan; pancakes stack; pecan waffle; multigrain pancakes; chip chocolate waffle; crepe nutella
+N76918,2,18,sausage gravy biscuits,biscuits gravy; biscuit country gravy; biscuits eggs gravy sausage turkey; corn dog wurst; biscuits gravy sandwich; gorditas sausage; chives dumpling fried pan; beyond corn dog hot italian sausage
+N76433,2,38,goat biryani varieties,biryani goat; biryani dum goat; biryani goat gongura; biryani goat keema; aavakai biryani dum goat; biryani dum goat ulavacharu; biryani goat ulavacharu; biryani goat peshawari
+N76697,2,34,ahi tuna dishes,ahi bowl poke tuna; ahi poke; ahi enlightened salad seared; ahi taco tuna; ahi hawaiian; ahi bowl tuna; ahi salad tuna; ahi salad seared summer
+N77410,2,74,shrimp rice dishes,arroz camarones con; masala shrimp tikka; korma shrimp; creole shrimp; etouffee; etouffee shrimp; rice shrimp; apretalados camarones
+N76873,2,15,tofu dishes,bean curd fried; bean curd fried garlic sauce; bean chinese curd vegetables; bean string tofu; beans string tofu veggie; bean curd flavor orange; bean broccoli curd garlic sauce; bean spicy string thai tofu
+N77496,2,58,tempura fried dishes,shrimp tempura; tempura vegetable; shrimp tempura vegetable; tempura veggie; shrimp sushi tempura; shrimp tempura veggie; combination tempura; tempura veg
+N76603,2,86,salmon sushi dishes,avocado roll salmon; salmon sushi; roll samurai; platter sushi; combination sushi; king lion roll; bento sushi; escolar sushi
+N77443,2,41,eel sushi dishes,eel roll; avocado eel roll; cucumber eel roll; eel sushi; roll unagi; eel fresh sushi water; hand roll unagi; eel hand roll
+N77361,2,48,seafood pasta dishes,scampi shrimp; pasta scampi shrimp; diablo shrimp; linguine pasta pescatore; linguine pasta shrimp; clam linguine red sauce; linguine pasta seafood; scampi shrimp steak
+N76732,2,52,shrimp vermicelli dishes,fun mei shrimp; chow fun mei shrimp; roll shrimp spicy; roll summer; fun mei pasta shrimp; bowl grilled shrimp vermicelli; grilled shrimp vermicelli; bun nuong tom
+N76417,2,27,yellowtail sushi dishes,roll yellowtail; roll spicy yellowtail; sushi yellowtail; roll scallion yellowtail; hand roll yellowtail; crunchy roll spicy yellowtail; jalapeno roll yellowtail; nigiri sashimi yellowtail
+N77317,2,49,cheesy bacon pastries,bacon waffle; cheese crust free gluten pizza thin; bacon pancakes; bacon biscuit; cheese empanada ham; tequenos; de empanada queso; biscuit cheese pimento sandwich
+N77219,2,71,biryani and masala dishes,biryani shrimp; biryani vegetable; biryani fish; biryani veggie; biryani dum veg; falafel over rice; biryani vegetarian; awadhi biryani veggie
+N77246,2,50,filet mignon seafood combos,filet hibachi mignon; chicken filet mignon; filet mignon scallops; filet lobster mignon; filet mignon shrimp; fillet shrimp; filet mignon oz steak surf trio turf; filet mignon oz surf trio turf
+N77110,2,61,lentil bean dishes,beans black; dal makhani; dal tadka; curry dal makhani; curry dal tadka; daal tarka; dal tadka yellow; beans bowl pinto
+N75654,2,23,yellowtail sushi rolls,hama negi roll; hamachi sushi yellowtail; hamachi roll spicy; negihama roll sushi; hamachi roll sushi; hamachi hand roll; don hamachi sushi; hamachi maki negi
+N77067,2,111,sushi rolls,roll volcano; crazy roll sushi; butterfly roll; ninja roll; black dragon roll; geisha roll; cracker fire roll; lava roll
+N75786,2,10,sushi rice bowls,crispy rice spicy tuna; don tuna; bibimbap sashimi; negihama sushi; bowl eel grilled; don sushi tuna; negihama; kimbap tuna
+N74625,2,68,sushi rolls,california roll; rainbow roll; caterpillar roll; california roll spicy; california roll tempura; california crunch roll sushi; kani sushi; manhattan roll
+N75805,2,63,rice biryani dishes,biryani chicken; biryani; biryani chicken dum hyderabadi; biryani chicken gongura; pulao rice; awadhi biryani chicken; curry rice tokyo; biryani kheema
+N76341,2,45,shrimp pasta dishes,alfredo pasta shrimp; alfredo fettuccine pasta shrimp; alfredo shrimp; cavatappi lemon parmesan pasta shrimp; alfredo blackened classic pasta shrimp; alfredo fettuccine shrimp; fettuccine pasta shrimp; alfredo fettuccine pasta seafood
+N77384,2,38,shrimp dishes,burrito shrimp; burrito cheese egg shrimp; grilled shrimp wrap; fire grilled shrimp; fried popcorn shrimp; battered crunchy shrimp; butterflied shrimp; fried gulf shrimp
+N77330,2,71,sushi varieties,squid sushi; mackerel sushi; red snapper sushi; oshinko roll; ikura sushi; sushi tobiko; roe smelt sushi; kampyo roll
+N76969,2,78,shrimp dishes,cocktail shrimp; camaron de tostada; shrimp tostada; cauliflower fresca pasta rigatoni shrimp; salad shrimp; bowl cauliflower power quinoa shrimp; shrimp wrap; bowl cauliflower kabob rice shrimp
+N77354,2,114,sushi rolls,roll spider; crunch roll; las roll vegas; roll vegas; california hand roll; crab stick sushi; roll texas; california golden roll
+N77152,2,28,pancakes and waffles,banana pancakes protein strawberry; pancakes platter sausage; eggs pancakes; cinn pancakes stack; cinnamon gff pancakes roll; down gff pancakes pineapple upside; bananas foster pancakes; eggs pancakes two
+N77461,2,61,vegetarian sushi rolls,avocado roll; cucumber roll; avocado cucumber roll; masago sushi; kappa maki; avocado peanut roll; avocado sushi; bowl poke tofu
+N77320,2,46,arepa and cachapa varieties,arepa pepiada reina; arepa domino; arepa; arepa vegan; arepa de pollo; cachapa cheese; arepa cheese; arepa chicken
+N77473,2,57,savory lentil-based dishes,dosa onion rava; dosa masala rava; dosa rava; dal maharani; shiro wot; egusi soup; sambar; pesarattu
+N74400,2,21,sushi sashimi tuna dishes,don sushi tekka; combination sashimi sushi; bento sashimi; bento sashimi sushi; burrito sushi tuna; albacore nigiri sashimi; nigiri tuna white; bowl sashimi
+N77154,2,130,sushi rolls shrimp tempura,roll shrimp tempura; dragon roll; shrimp sushi; dynamite roll; boston roll; roll tiger; dragon red roll; shrimp sushi sweet
+N77177,2,117,shrimp Mexican dishes,fajita shrimp; quesadilla shrimp; enchiladas shrimp; camaron de enchiladas; camaron de fajitas; fajita plate shrimp; grilled quesadilla shrimp; nachos shrimp
+N74203,2,14,stuffed wrapped shrimp dishes,shrimp stuffed; bacon shrimp wrapped; carolina coastal grilled mesquite shrimp wood; camarones rellenos; camarones enrollados; bacon fajita shrimp wrapped; camarones de lujo; baked shrimp stuffed
+N76613,2,53,spicy chicken dishes,chicken vindaloo; chicken tempura vegetable; chicken fusion vindaloo; egusi; sancocho; bowl chicken curry katsu; murgh vindaloo; consome taco
+N75774,2,35,shrimp vegetable dishes,broccoli shrimp; mixed shrimp vegetables; sesame shrimp; general shrimp tso; mixed shrimp steamed vegetables; broccoli shrimp steamed; orange shrimp; shrimp steamed vegetables
+N76786,2,26,tuna dishes,bowl tuna; spicy sushi tuna; sushi tataki tuna; steak tuna; bowl lemongrass tuna; peppered tataki tuna; aioli bonito bowl tuna; hr sp tuna
+N75403,2,44,breaded shrimp dishes,coconut shrimp; camarones empanizados; breaded shrimp; crunch shrimp; crispy shrimp; butterfly shrimp; breaded carolina coastal hand shrimp; ball shrimp
+N77499,2,103,shrimp pasta dishes,cajun pasta shrimp; marinara pasta spaghetti; pasta shrimp; pasta seafood; parmesan pasta shrimp; marinara pasta; baked pasta seafood; diavolo fra shrimp
+N76822,2,9,hamachi dishes,hamachi sushi; crudo hamachi; hamachi jalapeno; hamachi yuzu; bowl hamachi poke; hamachi scallions; hama jalape sushi; carpaccio hamachi
+N77220,2,66,scallop dishes,kung pao scallops; hunan scallop; broccoli scallop; mixed scallops vegetables; scallop teriyaki; seafood tempura; bean black sauce scallops; roll scallop
+N77348,2,44,shrimp dumpling dishes,moo shrimp shu; chop shrimp suey; sandwich shrimp; roll shrimp; mu shrimp shu; caesar chipotle sandwich shrimp; chili roll shrimp; dumpling shrimp
+N76664,2,15,shrimp dishes,plate shrimp tempura; curry pineapple shrimp; deep fried shrimp; fried pepper salt shrimp; grilled pasta shrimp vermicelli; glazed honey shrimp; garlic pepper shrimp; broccoli chinese shrimp
+N77500,2,23,crab dishes,crab dungeness; crab dungeness lb; crab dungeness legs; crab fried stick; crabmeat roll spicy; crabmeat roll; cluster crab dungeness; crab pepper salt
+N77100,2,174,shrimp dishes,kung pao shrimp; garlic sauce shrimp; shrimp sour sweet; hunan shrimp; cashew nuts shrimp; shrimp teriyaki; shrimp szechuan; pepper salt shrimp
+N76986,2,39,lobster dishes,lobster salmon shrimp; lobster shrimp; hibachi lobster; cheese grilled lobster; enchiladas lobster; classic lobster sammie seafood; lobster taco; cantonese lobster
+N73693,2,9,scallop seafood dishes,pan scallops sea seared; scallops sea seared; scallop steak teriyaki; scallop sea sushi; bank georges scallops sea seared; almond crusted scallops sea; blackened scallops sea; roasted scallops sea
+N77183,2,26,crab leg dishes,crab legs snow; crab snow; crab king legs; crab king; caught crab legs snow wild; cluster crab snow; crab headless shrimp snow; alaskan crab king
+N77467,2,47,crawfish dishes,crawfish etouffee; crawfish tails; orleans roll; crawfish roll spicy; crawfish roll; catfish tails; crawfish fried tails; boy crawfish fried poor
+N77170,2,25,soft shell crab dishes,crab shell soft; basket crab shell soft; boy crab po shell soft; basket crab fried shell soft; crab shell soft tempura; crab pepper salt shell soft; basket crab softshell; crab fried shell soft
+N73755,2,21,lobster roll variations,lobster roll; lobster roll spicy; lobster roll salad; lobster roll shrimp; lobster mango roll; lobster popcorn roll; baked lobster roll; classic lobster roll
+N76362,2,73,shrimp noodle dishes,chow mein shrimp; shrimp style szechuan; noodles pasta shrimp; fry shrimp stir; gf original pei shrimp wei; original pei shrimp wei; fried noodle pasta shrimp; noodle pasta seafood
+N74714,2,63,shrimp taco varieties,shrimp taco; grilled shrimp taco; baja shrimp taco; shrimp taco tempura; mahi mahi or shrimp tacos; chipotle honey shrimp taco; bangkok shrimp taco; fried sandwich shrimp soft taco
+N77336,2,8,salmon skin dishes,fillet fish pepper pickled; salmon skin sushi; salad salmon skin; bento filet; cucumber hr salmon scallion skin; salad salmon skin sushi; filet sole; filet salmon sauce szechuan
+N77483,2,49,octopus dishes,octopus sushi; ajo al de mojo pulpo; octopus sushi tako; de pulpo tostada; coctel de pulpo; octopus tostada; de ensalada pulpo; nigiri octopus sashimi
+N76268,2,14,fried fish dishes,frita mojarra; diabla la mojarra; fried mojarra; michoacan mojarra; diabla frita la mojarra; camarones con fish fried frita mojarra shrimp; mexicana mojarra; entera frita mojarra
+N77334,2,73,shrimp seafood dishes,camaron coctel de; ceviche shrimp; asparagus shrimp; camaron ceviche de; ceviche mixto; mango shrimp; camaron ceviche de tostada; asparagus roll shrimp
+N77366,2,24,seafood pasta dishes,curry seafood; classic marinara pasta; salad seafood; seafood wrap; di frutti mare pasta; pasta pescatore; de frutti mare; pad ped talay
+N74498,2,20,scallop sushi dishes,roll scallop spicy; scallop sushi; dynamite roll scallop; chopped roll scallop sushi; chopped scallop spicy sushi; hotate nigiri; hand roll scallop; roll scallop volcano
+N77273,2,53,fried shrimp dishes,fried shrimp; basket shrimp; popcorn shrimp; basket fried shrimp; fried platter shrimp; fried platter seafood; country fried shrimp; crunchy platter popcorn shrimp
+N76848,2,24,shrimp po boy dishes,boy po sandwich shrimp; boy po sandwich; boy fried po sandwich shrimp; boy fried po shrimp; banh mi shrimp; bbq boy po shrimp; boy po sausage shrimp; boy po seafood
+N77120,2,39,creamy shrimp dishes,camarones crema la; camarones crema en; camarones con crema; diablo pasta seafood; flambe shrimp; camarones chipotle crema de en; casserole seafood; al camarones tequila
+N75928,2,6,salmon toro dishes,salmon sushi toro; salmon toro; sake sushi toro; sake sashimi toro; aburi sake sashimi toro; buri sushi toro
+N76528,2,24,seafood dishes,scallops shrimp; garlic sauce scallops shrimp; seaside shrimp trio; deluxe platter seafood; applewood bacon bank georges scallops seared shrimp wrapped; boat for love sushi two; ajo de mariscos mojo; lobster scallops shrimp
+N75214,2,31,green pork dishes,burrito chile verde; chile pork verde; chile steak verde; carnitas verde; green pork sauce; carne en salsa verde; burrito chile smothered verde; chile taco verde
+N74978,2,43,pork dishes,menudo; mixed pork roast vegetables; kielbasa plate pork; pork roast; pork roasted taco; asado lechon lunch; asado de plate puerco; go menudo to
+N76336,2,17,lobster tail dishes,lobster tail; cold lobster tails water; lobster tails twin; lobster steamed tails; hibachi lobster tail; fried lobster tail; lobster twin; cajun lobster
+N76990,2,64,crab dishes,cake crab; cake crab sandwich; crab roll; cakes crab crispy; basket cake crab; crab salad; crab meat roll sushi; crab shrimp stuffed
+N67824,2,4,pomfret fish dishes,grilled pomfret; pomfret tandoori; golden pomfret; fish pomfret tandoor
+N75029,2,59,spicy pork dishes,garlic pork sauce; hunan pork; pork szechuan; mongolian pork; bean black pork sauce; hot pork spicy; kung pao pork; pork sauteed
+N77450,2,20,seafood dishes spicy,ackee saltfish; hokkigai sushi; ackee fish salt; baked salt shrimp; chepala curry nellore pulusu; cuttlefish; curry kolambu meen; ankimo
+N77071,2,64,pork chop dishes,chops pork; chops grilled pork; chops eggs pork; chop pork sandwich; chops fried pork; chops pork smothered; chops grilled mesquite pork; chop chops grilled pork steak tuscan two
+N77502,2,28,clam linguine dishes,alle linguine pasta vongole; clam linguine sauce; bean black clams sauce; clam linguine pasta sauce; clams linguine; alle pasta spaghetti vongole; clams steamed; clam linguine pasta red sauce
+N77404,2,44,pork masa dishes,pork tamales; gordita pastor; gordita pork; carnitas sope; al pastor sope; barbacoa gorditas; al huarache pastor; puerco tamal
+N76578,2,33,fried spring rolls,potstickers; egg roll; egg pork roll; bun cha gio; lumpia; bowl egg rolls vermicelli; fried rolls spring; crispy roll spring
+N77093,2,26,smoked salmon dishes,salmon smoked; roll salmon smoked; philadelphia sushi; bowl keto salmon smoked; lox sandwich; pasta salmon smoked; avocado salmon smoked toast; cheese cream salmon smoked
+N75069,2,56,pork bbq sandwiches,pork pulled sandwich; plate pork pulled; bbq pork sandwich; bbq pork pulled sandwich; burnt ends pork sandwich; memphian sandwich; pork pulled sandwich sliders; burnt ends plate pork sandwich
+N77299,2,91,pork mexican dishes,burrito carnitas; burrito pork; carnitas quesadilla; burrito pork spicy; pork quesadilla spicy; nachos pork spicy; carnitas fajita; adobada burrito
+N77427,2,66,pork dishes,plate pork pulled sandwich; burnt ends plate pork; dumplings pork steamed; pork souvlaki; dumpling pork shrimp; egg grilled pork roll; moo pork roast shu; dumpling napa pork
+N77303,2,148,spicy shrimp dishes,camarones diabla la; shrimp tandoori; camarones rancheros; shrimp vindaloo; camarones la mexicana; masala shrimp; saag shrimp; camarones diablos
+N76975,2,126,garlic shrimp dishes,grilled shrimp; ajo al camarones de mojo; camarones la plancha; garlic shrimp; barbie grilled shrimp; ajillo al camarones; mongolian shrimp; barbie grilled platter shrimp
+N77512,2,213,pork dishes,pork sour sweet; carnitas; garlic pork sauce shredded; chinese pork roast vegetable; bbq pizza pork; pork spicy; carnitas pork; pork pulled smoked
+N77191,2,5,fish collar dishes,kama salmon; collar salmon; grilled kama salmon; collar yellowtail; collar miso yellowtail
+N77112,2,51,dumplings and gyoza,gyoza plate; gyoza; gyoza pork; dumplings pork; dumplings steamed; dumpling fried pan pork; chives dumpling pork; dumpling fried
+N77096,2,34,seafood mexican dishes,enchiladas seafood; chimichanga seafood; burrito seafood; burrito grilled shrimp; gobernador taco; del enchiladas mar; burrito fajita shrimp; burrito del mar
+N77430,2,87,pork bean dishes,mushroom pork roast; pork vegetables; baker beans pork; beans pork string; mushroom pork; bean green pork; bbq egg foo pork young; beans pork shredded string
+N77421,2,45,pork chop dishes,chop pork taco; chop pepper pork salt; bone chop pork; chop grilled one pork steak tuscan; chop fontina pork steak; chop egg fried grilled pork; boneless chop pork; chop huevos pork rancheros
+N76560,2,11,bao buns,bao belly pork; buns kurobuta pork; bao vegetable; belly bun pork; bao fried pan; bao pork spicy; bao bun; belly buns pork steamed
+N77376,2,36,shrimp seafood dishes,egg foo shrimp young; bake bar harbor lobster; fisherman platter; shrimp torta; egg scrambled shrimp; curry katsu shrimp; foo shrimp young; omelette seafood
+N77075,2,25,seafood ravioli dishes,lobster ravioli; lobster pasta ravioli; ravioli shrimp; lobster ravioli shrimp; aragosta pasta ravioli; pasta ravioli seafood; crab ravioli shrimp; crab lobster pasta ravioli
+N76712,2,30,pork buns dumplings,buns pork steamed; buns fried pan pork; bao long xiao; cabbage dumplings pork; bun pork roast steamed; buns chinese green onion pork; bbq buns pork; bun pork
+N76898,2,5,premium beef cuts,center cut filet; center cut filet mignon pasta; baseball cut filet steak; center cut filet peppercorn; center cut filet mignon perfect
+N76571,2,35,pork chop dishes,chop plate pork; breakfast chop pork; chop eggs plate pork; cerdo chuleta de; chop pork smoked; chop plate pork smothered; chop fried plate pork; breakfast chop plate pork
+N76880,2,48,pork dishes,cooked pork twice; chicharron taco; belly pork taco; chicharron en salsa taco; chicharron con huevo; chicharron crispy egg taco; chicharron prensado quesadilla; chicharr de prensado quesadilla
+N75274,2,28,tuna sushi rolls,maki tekka; maki roll tekka; roll sushi tekka; negi roll toro; nigiri sushi tuna; sushi tekkamaki; blue fin sushi tuna; sushi toro
+N76948,2,30,pork intestine dishes,intestine pork; dry fried intestine pork; braised intestine pork; fried intestine pork stir; fried intestines stir; authentic intestine noodle pasta pork szechuan; intestine taco; blood cake intestines pork
+N77429,2,20,pork skin dishes,pork rinds; green pork salsa skin; burrito con huevo tocino; pork quesadilla skin; buche de quesadilla; pork skins; burrito pork skin; pork skin sope
+N76759,2,14,fried fish dishes,cantonese fish steamed; pla prik rad tod; entero frito pescado; ca chien; pla tod; fish uyghur; fish hot sauce spicy; bagre catfish entero
+N77218,2,63,pork belly dishes,cooked pork; belly pork; belly braised pork; belly crispy pork; kawali lechon; belly pork spicy; chicharron prensado taco; dumplings pork shrimp steamed
+N77190,2,192,pork tacos dishes,al pastor taco; carnitas taco; al burrito pastor; al pastor quesadilla; carnitas plate; pork taco; pork pulled street style taco; carnitas pork taco
+N77018,2,44,chicharron dishes,chicharron egg taco; burrito chicharron; chicharron egg plate; chicharron egg; chicharron en salsa verde; pork skin taco; chicharron salsa taco; chicharron quesadilla
+N77436,2,40,pork Asian dishes,moo pork shu; chow mein pork; pork yakisoba; katsu pork; mu pork shu; chop pork roast suey; tonkatsu; pasta pork yakisoba
+N76865,2,78,fried rice dishes,fried rice vegetable; fried rice veggie; fried pasta rice vegetable; fried rice vegetarian; crawfish fried rice; bacon fried rice; chinese fried rice sausage; fried rice spam
+N76724,2,41,udon noodle dishes,japanese noodles pan pasta; fried pasta stir udon; pasta pork udon; chicken yakiudon; chicken fried pasta udon; combination fried pasta stir udon; noodle udon; combination pasta udon
+N76048,2,63,shrimp seafood fried rice,fried rice shrimp; fried pasta rice shrimp; fried rice seafood; hibachi scallop shrimp; fried pasta rice seafood; hibachi rice shrimp spicy; arroz chaufa de mariscos; fried grilled or shrimp
+N77513,2,44,pork based dishes,bean curd dry pork shredded; leg pork taco; green pork rinds sauce; burrito leg pork; chicharrones spicy; gordita leg pork; beef pork sausage; blood sausage
+N77250,2,79,vermicelli noodle dishes,chicken fun mei; chicken chow fun mei; noodles pasta singapore; chow fun mei singapore; fun mei pasta singapore; bowl chicken grilled vermicelli; chicken grilled vermicelli; chow fun mei pasta singapore
+N76870,2,35,fried rice dishes,combination fried rice; fried pork rice roast; bbq fried pork rice; fried ham rice; combination fried pasta rice; fried mixed rice vegetable; combination fried rice special; fried rice stir vegetable
+N76295,2,41,chicken rice dishes,bowl chicken orange; bento chicken katsu; chicken hibachi rice; chicken hibachi rice spicy; fried japanese rice; bowl chicken katsu rice; chicken fried hibachi rice; chicken katsu musubi
+N76846,2,63,pork dishes,pork teriyaki; broccoli pork roast; peas pork roast snow; grilled pork sandwich; broccoli pork; mixed pork vegetables; pork sandwich; pork spicy teriyaki
+N77484,2,173,noodle rice dishes,noodle pasta rice singapore; lad na pasta; chow fun pasta; noodles rice singapore; chicken chow fun; noodle pasta rice singapore style; cashew pad; bowl pad thai
+N77266,2,12,minced meat dishes,dulet kitfo; minced pork rice; fish minced pork salted steam; kitfo yetashe; beef gola kebab; ayib kitfo; bbq minced pork sandwich; bowl eggplant minced pork
+N77251,2,26,crab appetizers,crab wontons; crab rangoon; crab puff; crab meat roll spicy sushi; de enchiladas jaiba; crab lump nachos; crab enchies lump; crab dillas
+N75548,2,33,pork rice dishes,fried pork rice; curry fried pork rice; bbq pork rice; bibimbap pork spicy; fried grilled pork rice; bibimbap pork; bulgogi plate pork spicy; bowl bulgogi pork spicy
+N77516,2,48,yakisoba dishes,chicken yakisoba; shrimp yakisoba; pasta yakisoba; vegetable yakisoba; chicken pasta yakisoba; yakisoba; pasta shrimp yakisoba; pasta vegetable yakisoba
+N77530,2,60,vegetable noodle dishes,chow mein vegetable; fun mei vegetable; buttered noodles pasta; hakka noodles veg; garlic noodles; chow fun vegetable; fried noodles pasta stir vegetable; fried noodle pan pasta vegetable
+N77041,2,36,lo mein dishes,lo mein shrimp; lo mein vegetable; lo mein pork; lo mein pork roast; combination lo mein; lo mein seafood; lo lobster mein; chow mein seafood
+N76215,2,24,pork pulled dishes,pork pulled quesadilla; nachos pork pulled; bar que sandwich; cheese grilled pork pulled sandwich; bowl pork pulled; cheese mac pork pulled; bbq nachos pork; cheese macaroni pizza pork pulled
+N77118,2,53,beef noodle dishes,beef szechuan; beef pad thai; beef chow fun pasta; beef chow fun; chow fun house special; beef chow yuk; beef fun ho; beef cantonese chow mein
+N76977,2,35,beef noodle dishes,beef lo mein; beef chow mein; bo bun xao; bo mi pasta xao; beef chow mein tomato; beef lomein; beef lo mein noodle pasta; beef siam
+N77007,2,189,fried rice dishes,chicken fried rice; fried rice; fried pineapple rice; fried pasta rice; fried house rice special; egg fried rice; chicken fried pasta rice; fried house rice
+N76313,2,22,beef vermicelli dishes,beef fun mei; beef fun mei pasta; bo bun nuong; beef lemongrass vermicelli; bo bun pasta xao; beef bowl grilled shrimp vermicelli; beef bowl shaking vermicelli; beef bowl fried stir vermicelli
+N76106,2,13,breaded pork cutlets,pork schnitzel; cutlet pork; bowl donkatsu; milanese pork; cutlets mushroom pork rosemary; rahmschnitzel; jaegerschnitzel; cutlets pork pretzel
+N71429,2,14,Vietnamese pork sandwiches,cuban sandwich; banh mi nuong sandwich thit; banh mi pork; con lechon pan sandwich; banh lemongrass mi pork sandwich; banh grilled mi nuong pork sandwich thit; banh fried mi pork sandwich stir; banh bbq mi pork sandwich
+N77531,2,61,beef noodle dishes,beef yakisoba; beef chow fun mei; beef style szechuan; beef pasta yakisoba; bean beef sprouts; beef pasta vermicelli; beef flat noodle pasta rice; beef egg fried noodle stir
+N73425,2,26,poke bowl dishes,bowl poke; bowl poke tuna; bowl poke salad; poke tuna; aloha bowl pok; bowl lomi pok; bowl poke waikiki; bowl poke spicy tuna
+N76289,2,24,stir-fried udon dishes,fried pasta seafood stir udon; fried pasta stir udon vegetable; shrimp yakiudon; fried pasta shrimp udon; fried pasta shrimp stir udon; fried pasta udon vegetable; udon veggie yaki; pasta seafood spicy udon yaki
+N77418,2,30,noodle stir fry dishes,japchae; beef sukiyaki; bowl steak yakisoba; glass korean noodles pasta; pasta steak yakisoba; steak yakisoba; japchae noodles; beef fried pasta stir udon
+N77255,2,52,pork noodle dishes,chow mein pork roast; dan noodles pasta; chow fun mei pork roast; fun mei pork; bbq chow mein pork; fun mei pork roast; pad pork thai; fried noodle pan pasta pork
+N77341,2,74,fried noodle dishes,chow house mein special; fried noodles pan pasta; fried noodle pan; golden noodles pasta; ba mee pad pasta; chow hong kong mein pasta style; chow mein mixed vegetable; bah mee pasta
+N77510,2,30,flour-based savory dishes,pancake scallion; ball sesame; bbq buns pork steamed; green onion pancake; kimchi pancake; corn hand made taco tortillas; free gluten roll; bread focaccia pizza
+N77488,2,10,fried pickle dishes,fried pickles; chips fried pickle; deep fried pickles; kale salad; fried pickle spears; fried pickle slices; chips pickle; kale pesto pizza
+N76853,2,29,seafood fried rice,crab fried meat rice; fried rice shrimp thai; clay pot shrimp; beef fried rice thai; fried rice seafood thai; fried rice shrimp vietnamese; fried rice seafood spicy; crab fried rice shell soft
+N75147,2,19,buttermilk breakfast items,buttermilk original pancakes; buttermilk pancakes; biscuit primal sandwich; buttermilk gff pancakes; buttermilk eggs pancakes; buttermilk waffle; buttermilk fluffy pancakes; pancakes red velvet
+N76277,2,13,rice and sausage dishes,beans red rice; beans red rice sausage; beans cajun red rice sausage; longsilog; morcilla; morcilla moronga taco; plate salchicha; arepa con morcilla
+N76982,2,52,pork noodle dishes,chop pork suey; fried pork stir; hunan pork style; bbq lo mein pork; chow fun mei pork; bbq fried noodles pan pasta pork; fried noodle pan pasta pork shredded; fried noodles pasta pork stir
+N77311,2,31,seafood pasta dishes,crispy kung lobster noodles pao pasta; chop lobster suey; jjam pasta ppong; sen woon yum; pasta shrimp soba; crab noodle pasta; hokkien mee pasta; pasta soba
+N77039,2,68,chicken curry dishes,chettinad chicken; guisado pollo; chicken stew; curry vindaloo; bbq chicken hawaiian; guisado pollo taco; boneless chicken karahi; chicken curry hyderabadi
+N77495,2,130,thai noodle dishes,drunken noodles pasta; ew noodles pad pasta see; hakka noodles; drunken noodle; khing pad; drunken noodles pasta spicy; kee mao noodle pad pasta; lad na noodles pasta
+N76678,2,252,chicken wing varieties,traditional wings; chicken wings; bone smoked wings; bbq wings; classic wings; hot wings; lemon pepper wings; bone traditional wings
+N77239,2,58,fried rice dishes,crab fried rice; balls boudin; fried lobster rice; chop grilled pork rice; crabmeat fried rice; chop grilled pork rice steamed; belly fried pork rice; beef fried or rice shrimp
+N73705,2,6,fried clam dishes,clam strips; basket clam strip; clam fried strips; chips clam strips; clam fried sandwich; clam roll strip
+N77379,2,54,shrimp dishes,peas shrimp snow; honey shrimp walnut; chinese shrimp vegetable; shrimp walnut; beans shrimp string; buffalo shrimp; peas shrimp snow steamed; chinese shrimp veg
+N77526,2,37,oyster dishes,boy oyster po; basket fried oyster; fried oyster; fried oyster platter; oysters raw; deep fried oyster; oyster roll; oyster taco
+N75763,2,27,pork tenderloin dishes,peas pork snow; parmesan pork; asparagus pork; peking pork sauce; grilled pork tenderloin; fried pork sandwich tenderloin; egg tenderloin; pork steak tenderloin
+N76868,2,40,spicy squid dishes,pepper salt squid; fried pepper salt squid; hunan squid; bbq squid; lemongrass squid; salad squid sushi; pizza venetian; squid teriyaki
+N76579,2,26,spicy pork dishes,egg foo pork young; bbq korean meatballs; kra pad pow; jalapeno roll sausage; jalape sausage; roll sushi trapper; korean meatball sandwich; burger pastor sandwich
+N77515,2,35,spicy chicken curries,curry kadai; chettinadu chicken curry; biryani chicken special vijayawada; aavakai biryani chicken dum; biryani chicken vijayawada; chicken mandi; chicken curry karahi peshawari; kadai murgh
+N77010,2,45,seafood soup dishes,caldo camaron de; caldo de pescado; caldo de mariscos; de mariscos sopa; seafood soup; caldo camar de; fish soup; alaskan chowder salmon smoked soup
+N73610,2,7,breaded beef cutlets,beef milaneza; carne de milanesa; beef katsu; milanesa res; de milanesa rez; beef cutlet; de millanesa res
+N77447,2,75,chicken dark meat dishes,chicken tandoori; asado pollo; legs thighs; chicken jerk; carnitas chicken; chicken thighs; bj chicken sauced thighs tossed; carnitas de pollo
+N77263,2,53,scallop seafood dishes,garlic sauce scallops; peas scallops snow; garlic hot sauce scallop; hotate sushi; creamy roll scallop; chopped scallop sushi; creamy scallop; pepper salt scallops
+N76855,2,20,Asian beef noodle dishes,pasta sukiyaki; beef bowl sukiyaki; beef boiled sichuan; pasta suki yaki; beef boiled water; beef don sukiyaki; beef clay pot rice; beef hot pot spicy
+N76875,2,42,bean and grain soups,black eyed peas; cup drop egg free gluten soup; bowl drop egg free gluten soup; bean soupe white; drop egg soup; bean black soup; country potato soupe; bean black lunch soup
+N77460,2,36,eel and salmon dishes,don sushi unagi; bowl don unagi; fried rice salmon; bowl eel; unaju; hibachi salmon shrimp; donburi sushi unagi; don salmon teriyaki
+N77029,2,56,noodle soup dishes,noodle pasta pork soup; ramen seafood; egg noodle soup wonton; pork ramen; pasta soup wonton; noodle pasta ramen seafood spicy; pasta ramen seafood spicy; beef ramen
+N77247,2,90,pork dishes,hawaiian luau pizza; chile plate verde; bowl burrito pork spicy; bowl pork; curry pork; bowl carnitas; grilled plate pork rice; com nuong thit
+N76812,2,18,chicken dishes,bone chicken kabob; boneless chicken kabob mild; com ga nuong sa; boneless breast chicken fried; chicken fried leg; boneless chicken kabob thighs; bbq boneless classic wings; chicken fried taiwanese
+N77506,2,80,Vietnamese grilled pork noodles,grilled pork vermicelli; bun nuong thit; bun cha gio nuong thit; grilled pork shrimp vermicelli; bowl grilled pork shrimp vermicelli; biet bun dac; bowl bun cha gio nuong thit; bun nuong pasta thit
+N76834,2,25,katsu dishes,katsu; bento tonkatsu; bowl katsudon; don katsu pork; katsu plate pork; bowl don katsu pork; donburi pork; curry tonkatsu
+N74161,2,54,buffalo chicken wings,buffalo wings; buffalo hot wings; buffalo mild wings; kookaburra platter wings; boneless chicken wings; buffalo things traditional wings; bone wing wings; platter wings
+N76212,2,19,korean beef ribs rice,beef grilled ribs rice; bibimbap dolsot galbi; bowl galbi; beef ribs rice; beef korean rib rice; bento galbi; kalbi plate ribs; beef bento ribs
+N76710,2,27,vegetarian Indian thali dishes,thali veg; biryani dum hyderabadi veg; thali vegetarian; curry masala tikka veg; biryani dum hyderabadi vegetable; korma mushroom; bowl korma vegan; meat thali
+N77412,2,17,feet dishes,chicken feet; chicken feet steamed; chicken feet spicy; feet pork; feet garlic pork spicy; boneless duck feet; clay feet fermented pig pot tofu; feet grilled pork
+N75559,2,13,chicken liver dishes,chicken liver; chicken fried livers; liver sandwich; encebollado higado platillo; gizzards livers wings; hummus kibda; grilled liver onions steak; bheja masala tava
+N77189,2,66,chicken ground meat dishes,meatball spicy sub sweet; chicken kabab seekh; lettuce wraps; chicken ground kabob spicy; kabob sandwich shami; chapli chicken kabab; chicken koobideh; chicken kabab kofta
+N75851,2,32,chicken tenders dishes,chicken platter tender; basket chicken tender; spicy tenders; chicken platter ribs tender; chicken cut prime tenders; platter tenders; chicken tender wrap; fry seasoned tenders
+N77370,2,14,turkey dishes,all natural roasted turkey; leg turkey; leg smoked turkey; roast turkey; necks turkey; leg stuffed turkey; cranberry oven roasted turkey; turkey wing
+N77116,2,46,chicken wings dishes,bone breaded out wings; fried kentucky wings; wicked wings; chicken fried wings; basket wing; waffles wings; breaded wings; bird black boneless wings
+N62100,2,4,pork center chop dishes,center chops cut pork; center chops cut pork steak; broiled center chops cut pork; center chops cut pork twin
+N77340,2,70,mole and stew dishes,en mole pollo; mole poblano; mole; jollof rice; brown chicken stew; encebollado pollo; con mole pollo; doro wot
+N76790,2,41,chicken dishes wraps,gyro sandwich; plate shawarma; chicken karaage; bonchon wrap; chicken yakitori; yakitori; bihari kabab; karaage
+N77214,2,28,dumplings and wontons,shrimp shumai; caterpillar sushi; spicy wonton; flamin hot wontons; shumai; mai siu; wonton; kurobuta pork pot shrimp stickers
+N75533,2,8,chicken gizzard dishes,chicken gizzard; chicken fried gizzard; chicken fried gizzard stir; molleja taco; mollejas plate; chicken gizzard sour spicy; chicken fried gizzards spicy stir; chicken gizzard hot sour
+N72109,2,10,pork sparerib dishes,louis ribs spareribs st style; bean black sauce spareribs steamed; garlic honey spareribs; bean black sauce spareribs; bbq pork spareribs; louis platter ribs spareribs st style; meaty pork spareribs; bean black spareribs steamed
+N77480,2,32,grilled pork rice dishes,com nuong suon; gyoza plate teriyaki; bi com nuong tam thit; chop pork rice; bi cha com suon; basil pork thai; kra pad praw; ga pad prao
+N76025,2,23,seafood mussel dishes,green mussel; black mussel; baked mussel; mussels zealand; diavolo fra mussels; mussels steamed; barcelona mussels; linguine mussels pasta
+N77302,2,14,duck and frog dishes,confit duck; crispy duck garlic roasted; crispy frog legs pair; frog pot spicy; ancas de rana; frog legs plate; frog sauteed spicy; frog pepper pickled
+N76916,2,13,quail dishes,egg quail sushi; grilled lunch quail; grilled quail; eggs quail; fajita quail; kabobs quail; codornices fajita; asada codorniz
+N77078,2,9,roast duck dishes,duck peking; duck roast; crispy duck roast; duck hong kong roast style; cantonese duck roast style; cantonese duck roast; duck peking roasted; duck sauce soy tongue
+N76974,2,31,rice and pasta dishes,pilaf rice; dirty rice; risotto shrimp; rice spanish; linguine pasta scampi shrimp; arancini; kabob kofta platter; rice saffron
+N75080,2,23,massaman curry variations,curry massaman; curry gang massaman; curry dang gang; chicken curry railway; chettinad curry; chicken clay curry pot; curry gaeng nang pa; curry kang ped
+N77387,2,10,poultry and vegetarian dishes,chicken impossible nuggets; bacon cage eggs free; apple cage chicken eggs free sausage; cage eggs free patties pork sausage; nuggets quorn vegetarian wings; cornish hen joojeh kabob; cornish hen tandoori; cornish grilled hen
+N76530,2,18,fried chicken dishes,chicken fried southern; chicken crispy fried; broasted chicken; buttermilk chicken fried; chicken fried southern taco; chicken fried homestyle; broaster chicken mixed; broast
+N75993,2,9,chicken leg quarters,chicken quarter; chicken plate quarter; leg quarter; leg quarters tandoori; chicken colombian rotisserie style; chicken leg quarter tikka; chicken quarters smoked; chicken fried leg quarter
+N77056,2,55,turkey burgers and sandwiches,burger turkey; sandwich slider turkey; burger grilled turkey; burger enlightened turkey; patties sausage turkey; bacon burger smash turkey; burger classic smash turkey; bacon bbq burger cheddar turkey
+N77077,2,12,chicken drumstick dishes,all drums wings; drumettes parmesan; chicken lollipop; chicken drumsticks; chicken drummies; crispy drumsticks; crispy drumstick pepper salty veggie; drumettes
+N77055,2,30,pork belly dishes,bowl chashu pork; chashu don pork; belly bowl pork; belly bowl pork rice; braised pork rice; bowl chashu don; bowl chashudon; belly broccoli chinese crispy pork
+N77237,2,45,spiced rice dishes,fry stir vegetable; idli sambar; arepa pabellon; beef curry rice; empanada pabellon; pea rice; beef inspired korean plate taco; asada carne shrimp
+N75770,2,10,spiced roasted chicken dishes,chicken roasted taco; chicken festive greek platter roasted style two; chicken memphis; chicken memphis plate; chicken peruvian spiced; chicken roasted spring; bird chicken tandoori; bowl chicken harissa
+N76794,2,26,tempura roll dishes,roll tempura veggie; roll tempura vegetable; potato roll sweet tempura; california deep fried roll; philly roll tempura; roll spicy temp veg; avocado roll tempura; bean green roll tempura
+N77462,2,135,sushi rolls,philadelphia roll; alaska roll; roll sushi; roll salmon skin; chirashi sushi; salmon smoked sushi; roll seattle; hand roll salmon skin
+N76368,2,23,Japanese noodle dishes,pasta soba tempura; nabe pasta udon; beef pasta soup udon; kake pasta udon; nabeyaki pasta soba; noodle pasta soup tempura udon; naruto; nabeyaki pasta soup udon
+N76549,2,30,beef rice dishes,beef curry fried rice; beef over rice shawarma; gyudon; beef bowl gyudon; bowl don gyu; beef gyro lamb over rice; don yakiniku; bo chien com
+N77504,2,52,spicy tofu stews,kimchi stew; soft soup tofu; jjigae kimchi; hot pot spicy; chicken hot pot; clay pot tofu; bean chicken curd; doenjang jjigae
+N77172,2,68,chicken lo mein dishes,chicken lo mein; chicken chow mein; house lo mein special; lo mein plain; house lo mein; chicken grilled lo mein orange pasta; chow combination mein; lo mein pasta signature
+N76997,2,26,seafood egg dishes,egg foo lobster young; crab egg foo meat young; benedict crab; brie lobster omelette; crab omelet; crab masala; spider sushi; benedict chesapeake
+N77528,2,83,seafood shrimp dishes,lobster sauce shrimp; grits shrimp; arroz con mariscos; shrimp soup; pasta shrimp udon; free gluten lobster sauce shrimp; gumbo seafood; hot pot seafood
+N77355,2,30,grilled pork rice dishes,grilled pork rice steamed; bi cha com suon tam; ka kao moo; bi cha com nuong tam thit; bowl chashu; bento pork spicy; biet com dac tam; com suon tam
+N76726,2,28,vietnamese grilled vermicelli dishes,bowl grilled pork vermicelli; egg grilled pork roll vermicelli; beef bowl grilled vermicelli; bowl egg grilled pork roll vermicelli; grilled pork roll spring; beef grilled noodle pasta vermicelli; bowl grilled pork rice; eggroll grilled pork vermicelli
+N76910,2,43,spiced rice dishes,biryani egg; biryani chicken dum; com ga nuong; bbq bowl korean; biryani classic egg; thali; bowl don oyako; chicken jerk plate
+N77145,2,55,seafood scallop shrimp dishes,seafood teriyaki; kung pao scallops shrimp; scallop shrimp vegetables; mixed scallops shrimp vegetables; mariscos saltado; mixed scallop shrimp steamed vegetables; bean black sauce scallop shrimp; de mariscos parrillada
+N76132,2,15,korean bibimbap variations,bibimbap tofu; bibimbap dolsot; bibimbap bowl bulgogi; bibimbap bowl tofu; bibimbap bulgogi dolsot; bibimbap dolsot haemul; bibimbap dolsot seafood; bibimbap hot pot stone
+N76178,2,51,noodle soup dishes,ramen; duck noodle soup; noodle pasta soup spicy; chicken ramen; chili garlic men ra spicy; chicken men ra spicy; chicken cup noodle; chicken noodle noods
+N75853,2,21,korean japanese rice dishes,fried kimchi rice; bowl fried kimchi rice; don karaage; bowl chicken karaage; donburi oyako; bowl chicken fried karaage; bento chicken karaage; oyakodon
+N77268,2,41,beef rice dishes,beef fried rice; beef fried pasta rice; bibimbap; beef bowl teriyaki; bibimbap bowl; beef bowl fried rice; beef bowl mongolian; arroz carne chaufa de
+N76407,2,24,rotisserie chicken dishes,chicken rotisserie style wrap; bowl chicken rotisserie style; chicken quarter rotisserie white; all chicken dark rotisserie; all chicken rotisserie white; chicken garlic herb roasted rotisserie; brasa la pollo; chicken roasted stuffed
+N76772,2,12,beef liver dishes,baby beef liver; encebollado higado taco; beef liver onions; baby beef liver onions; grilled liver onions; liver onions steak; calf liver; calf grilled liver
+N76631,2,87,chicken soup dishes,pozole; caldo de pollo; soup tortilla; chicken soup; chicken curry katsu; curry katsu; chicken soup tortilla; de pollo sopa

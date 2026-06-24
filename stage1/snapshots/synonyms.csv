@@ -1,0 +1,36 @@
+alias_token,canonical_token,group,notes
+hoagie,sub,sub_family,APPLY
+hoagies,subs,sub_family,APPLY
+grinder,sub,sub_family,APPLY
+grinders,subs,sub_family,APPLY
+hero,sub,sub_family,SKIP - false positives in pizza/wings/brand contexts
+heros,subs,sub_family,SKIP - dataset noise only
+heroes,subs,sub_family,SKIP - heroes pizza / heroes wings collisions
+wedge,sub,sub_family,SKIP - actually salad wedges and potato wedges
+wedges,subs,sub_family,SKIP - potato/french-toast wedges
+poboy,sub,sub_family,APPLY
+po,sub,sub_family,SKIP - ma po tofu
+boy,sub,sub_family,SKIP - dangerous token
+flapjack,pancake,pancake_family,APPLY
+flapjacks,pancakes,pancake_family,APPLY
+hotcake,pancake,pancake_family,APPLY
+hotcakes,pancakes,pancake_family,APPLY
+griddlecake,pancake,pancake_family,SKIP - 0 affected
+aubergine,eggplant,eggplant,APPLY
+prawn,shrimp,shrimp,APPLY
+prawns,shrimp,shrimp,APPLY
+gamba,shrimp,shrimp,APPLY
+gambas,shrimp,shrimp,APPLY
+hamburger,burger,burger,APPLY
+hamburgers,burgers,burger,APPLY
+cheeseburger,burger,burger,SKIP - cheeseburger is a TYPE not a synonym
+calamari,squid,squid,APPLY
+escargot,snail,snail,APPLY
+fettuccini,fettuccine,pasta_spelling,APPLY
+fettucini,fettuccine,pasta_spelling,APPLY
+linguini,linguine,pasta_spelling,APPLY
+spagetti,spaghetti,pasta_spelling,APPLY
+gyros,gyro,greek,APPLY
+paninis,panini,sandwich_spelling,APPLY
+panino,panini,sandwich_spelling,APPLY
+frites,fries,fries,APPLY

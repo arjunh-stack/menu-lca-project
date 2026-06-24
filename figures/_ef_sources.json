@@ -1,0 +1,14 @@
+{
+ "by_ingredient": {
+  "AGRIBALYSE v3.2": 38522,
+  "SU-EATABLE LIFE": 15198,
+  "Unmatched": 545,
+  "ex": 1
+ },
+ "by_occurrence": {
+  "AGRIBALYSE v3.2": 2345808,
+  "SU-EATABLE LIFE": 1531818,
+  "Unmatched": 23555,
+  "ex": 1
+ }
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dish Compositional Phylogeny</title>
+<script>
+  /* apply the saved theme before first paint to avoid a flash */
+  try { var _t = localStorage.getItem('phylo-theme');
+        if (_t) document.documentElement.dataset.theme = _t; } catch (e) {}
+</script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="ramp-strip"></div>
+  <div class="header-row">
+    <div>
+      <div class="eyebrow">Stage 5 · Menu-Item Impact</div>
+      <h1>Dish Compositional <em>Phylogeny</em></h1>
+      <div class="sub">Canonical dishes clustered by recipe similarity —
+        shared ingredients in shared proportions sit close together.</div>
+    </div>
+    <div class="build-meta eyebrow" id="build-meta">loading…</div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="toolgroup">
+    <span class="eyebrow">View</span>
+    <div class="segmented" id="view-toggle">
+      <button data-view="tree" class="active">Phylogeny</button>
+      <button data-view="map">Manifold</button>
+    </div>
+  </div>
+  <div class="toolgroup">
+    <span class="eyebrow">Colour by</span>
+    <select id="overlay">
+      <optgroup label="Style">
+        <option value="cuisine">Restaurant cuisine</option>
+        <option value="protein_type">Primary protein</option>
+        <option value="carb_type">Primary carbohydrate</option>
+      </optgroup>
+      <optgroup label="Nutrition / serving">
+        <option value="kcal">Calories</option>
+        <option value="protein">Protein</option>
+        <option value="fat">Fat</option>
+        <option value="carb">Carbs</option>
+      </optgroup>
+      <optgroup label="Nutrition quality">
+        <option value="nutriscore">NutriScore (0–100)</option>
+        <option value="grade">NutriScore grade (A–E)</option>
+      </optgroup>
+      <optgroup label="Health impact">
+        <option value="mealhealth">Years of life lost/gained (ΔYLL)</option>
+      </optgroup>
+      <optgroup label="Impact / kg">
+        <option value="ghg">GHG</option>
+        <option value="water">Water</option>
+        <option value="land">Land use</option>
+      </optgroup>
+      <optgroup label="Recipe">
+        <option value="n_ingredients">Ingredient count</option>
+      </optgroup>
+    </select>
+  </div>
+  <div class="toolgroup">
+    <span class="eyebrow">Find</span>
+    <input type="search" id="search" placeholder="dish name…" autocomplete="off">
+  </div>
+  <div class="toolgroup" style="margin-left:auto">
+    <span class="eyebrow" id="status"></span>
+  </div>
+  <div class="toolgroup">
+    <button id="theme-btn" class="theme-btn">☾ Dark</button>
+  </div>
+</div>
+
+<div class="main">
+  <div class="stage" id="stage">
+    <svg id="tree-svg"></svg>
+    <canvas id="map-canvas"></canvas>
+    <div class="legend" id="legend"></div>
+  </div>
+
+  <aside class="detail empty" id="detail">
+    <div class="detail-empty">
+      Click a dish — a leaf in the phylogeny or a point in the manifold —
+      to see its recipe and life-cycle assessment.
+    </div>
+    <div class="detail-body" id="detail-body"></div>
+  </aside>
+</div>
+
+<footer>
+  <span id="foot-left">menu-item-impact · compositional phylogeny</span>
+  <span id="foot-right"></span>
+</footer>
+
+<div id="tooltip"></div>
+
+<script src="lib/d3.v7.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
